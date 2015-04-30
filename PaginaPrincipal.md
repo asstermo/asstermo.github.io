@@ -19,6 +19,7 @@ Para mais informações:
 <h1>Comparação de versões</h1>
 
 | **Características** | [Asstermo-K](Downloads.md) | [Asstermo-D](Downloads.md) |
+| --- |:---:|:---:|
 | Calculadoras | TI-89 (Titanium) <br> TI-92 (Plus) <br> Voyage 200 | TI-nSpire |
 | AMS mínimo | 2.08 ou 3.08 | 3.XX |
 | **Tabelas disponíveis** | - | - |
