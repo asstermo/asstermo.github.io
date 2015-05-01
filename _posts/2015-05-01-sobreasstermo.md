@@ -53,6 +53,6 @@ Locais onde este livro pode ser adquirido: <a href='http://lmgtfy.com/?q=Fundame
 O Asstermo <b>não</b> é suportado pelos autores deste livro nem pela sua publicadora. Este programa tenta preencher uma lacuna no ensino de Termodinâmica, visto que os engenheiros têm mais em que se <i>preocupar</i> do que <i>andar a interpolar valores a torto e a direito</i>...<br>
 <br>
 <br>
-<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por mim <b>sozinho</b> neste programa. Para mais informações, ver os <a href='/Manuais'>manuais</a>! Se tiver problemas com o programa, utilize a zona dedicada deste site: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues</a>.<br>
+<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por [mim <b>sozinho</b>](https://github.com/wyldckat) neste programa. Para mais informações, ver os <a href='/Manuais'>manuais</a>! Se tiver problemas com o programa, utilize a zona dedicada deste site: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues</a>.<br>
 <br>
 <b>NOTE</b>: this software project still doesn't have an English version.

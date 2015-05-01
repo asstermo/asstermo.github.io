@@ -18,6 +18,7 @@ order: 13
 ## Notas finais
 
 Espero ter sido elucidativo quanto ao como utilizar este programa. Links úteis:
+
   * Página online do Asstermo: http://asstermo.github.io
   * Página onde submeter problemas e sugestões: https://github.com/asstermo/asstermo.github.io/issues
 
