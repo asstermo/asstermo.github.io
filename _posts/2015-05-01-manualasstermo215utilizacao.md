@@ -23,6 +23,7 @@ Corra o programa **ASSTERMO\ASSTERMO()**. Na figura seguinte é possível ver as
 **NOTA**: em relação ao antigo **Auto Alpha Off**, este já não estará na versão actual do Asstermo. O motivo pelo qual foi removido: o software que era utilizado podia _brecar_ a calculadora, quando utilizado nos novos modelos. Felizmente (e de que eu saiba), os _AMS_ **2.08**/**3.08** já têm uma opção directamente nas caixas de diálogo de ter o _alpha on_ ou _off_... funcionalidade esta apenas disponível a partir do Asstermo 1.90.
 
 Nas seguintes secções serão descritas cada uma das opções deste menu:
+
   * [Opção 1: Água](/ManualAsstermo215Agua)
   * [Opções 2 a 5: Tabelas...](/ManualAsstermo215OutrosFluidos)
   * [Opção 6: Massas Molares+R's](/ManualAsstermo215MassasMolares)

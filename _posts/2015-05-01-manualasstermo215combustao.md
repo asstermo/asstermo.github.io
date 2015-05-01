@@ -12,6 +12,7 @@ Este assistente vem completar a parte que faltava para a parte de Combustão. O 
 ![http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png](http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png)
 
 Cada uma destas opções tem uma secção dedicada:
+
   * [1:Prop. Gases Ideais](#1:Prop._Gases_Ideais) – acesso à tabela das propriedades (T em K; h, u e s<sub>0</sub>, em kJ/kmol) dos gases ideais CO<sub>2</sub>, CO, H<sub>2</sub>O, N<sub>2</sub> e O<sub>2</sub>.
   * [2:Prop. TermoQuim.](#2:Prop._TermoQuim.) – acesso à tabela das propriedades termoquímicas (h<sup>0</sup><sub>f</sub>, gibbs, HHV, LHV...) de várias moléculas, a 298K e 1bar.
   * [3:Log10(K)](#3:Log10(K)) – acesso à tabela com os valores de Log<sub>10</sub>(K) para várias equações e várias temperaturas.

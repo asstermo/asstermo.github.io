@@ -21,6 +21,7 @@ Abra o documento `Asstermo-D-Ar`. Deverá aparecer o seguinte ecrã:
 ![http://asstermo.github.io/imgD018/Image022.jpg](http://asstermo.github.io/imgD018/Image022.jpg)
 
 Neste documento estão representados os seguintes _Problems_:
+
   * [1 - Asstermo-D-Ar](#1_-_Asstermo-D-Ar) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
   * [2 - Proc. por T](#2_-_Proc._por_T)
   * [3 - Proc. por h](#3_-_Proc._por_h)

@@ -23,6 +23,7 @@ order: 2
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 
 Este texto divide-se nos seguintes capítulos:
+
   * [Acesso ao codigo](#Acesso_ao_codigo) - onde estão descritos os acessos aos códigos fonte.
   * [Desenvolvimento dos programas e funções em TI-Basic 68k](#Desenvolvimento_dos_programas_e_funcoes_em_TI-Basic_68k) - onde estão as instruções de desenvolvimento do código do **Asstermo** que está em TI-Basic 68k.
   * [Desenvolvimento de programas e funções em C com o TIGCC](#Desenvolvimento_de_programas_e_funcoes_em_C_com_o_TIGCC) - onde estão descritas as instruções de desenvolvimento de código do **Asstermo** que está em C que é compilado com o TIGCC.

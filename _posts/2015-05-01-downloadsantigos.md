@@ -39,6 +39,7 @@ Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relat
 <br>
 ##Todos downloads
 A lista completa de ficheiros (incluindo os antigos) para download estão disponíveis nos seguintes locais:
+
   * [Versões do Asstermo-K](https://github.com/asstermo/K/releases)
   * [Versões do Asstermo-D](https://github.com/asstermo/D/releases)
   * [Documentação adicional](https://github.com/asstermo/documentation/releases)

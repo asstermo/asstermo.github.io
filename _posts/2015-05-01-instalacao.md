@@ -21,6 +21,7 @@ Software necessário no PC:
   * [TiLP 2](http://lpg.ticalc.org/prj_tilp/) - É preciso ter cuidado, porque os drivers de USB do TiLP são incompatíveis com os do TI Connect.
 
 São necessárias três fases de instalação:
+
   1. [Arrumar a memória](#Arrumar_a_memoria)
   1. [Transferir o pacote](#Transferir_o_pacote)
   1. [Finalizar a instalação](#Finalizar_a_instalacao)

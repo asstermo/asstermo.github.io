@@ -11,6 +11,7 @@ order: 4
 Neste momento não existem planos para criar uma variante do Asstermo para as calculadoras CASIO.
 
 De acordo com uma investigação que fiz há uns anos atrás, as únicas calculadoras CASIO que poderiam conseguir suportar o Asstermo a nível de memória seriam:
+
   * 9860G e companhia:
     * SDKs: [fxSDK](http://sourceforge.net/apps/trac/fxsdk) e [SDK oficial](http://edu.casio.com/products/sdk/9860sdk.html)
     * grande vantagem: programação em C em vez de Assembly!
@@ -24,6 +25,7 @@ Mas o número de utilizadores de calculadoras CASIO versus o número de utilizad
 As limitações tecnológicas são no entanto também semelhantes ao que se sucede com as [TI-83/84](/Calha_TI83_84).
 
 Nomes planeados para as variantes de Asstermo para estas calculadoras:
+
   * 9860G e companhia: Asstermo-G
   * FX-1.0/2.0: Asstermo-F ou Asstermo-FX
   * Classpad: Asstermo-C ou Asstermo-CP

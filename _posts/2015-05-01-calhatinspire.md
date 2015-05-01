@@ -26,6 +26,7 @@ Dum ponto de vista menos _legal_ e como demonstração do poder monstruoso desta
 Nome planeado para a variante de Asstermo para TI-nSpire: Asstermo-ARM
 
 No entanto, devido às limitações e possibilidades, estão delineadas duas variantes do Asstermo-ARM, nomeadamente:
+
   * [Asstermo-D-ARM](#Asstermo-D) - Será baseado em formato _Document_ das nSpire. Não terá interface próprio, será somente um sistema de semi-formulários em folhas de cálculo.
   * [Asstermo-N-ARM](#Asstermo-N) - Espectável de ser o mais poderoso Asstermo de sempre, mas está dependente da evolução do [Ndless](http://hackspire.unsads.com/wiki/index.php/Main_Page).
 Devido a ser possível criar estas duas variantes, o "-ARM" não será usado para evitar problemas com _trademarks_.

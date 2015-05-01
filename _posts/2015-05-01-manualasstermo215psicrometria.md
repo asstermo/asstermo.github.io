@@ -16,6 +16,7 @@ Este é o menu principal da psicrometria:
 ![http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png](http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png)
 
 Cada opção tem uma secção dedicada neste capítulo:
+
   * [1:Pressão(bar):x.xxx](#1:Pressao(bar):x.xxx)
   * [2:Obter w](#2:Obter_w)
   * [3:Obter HR](#3:Obter_HR)
