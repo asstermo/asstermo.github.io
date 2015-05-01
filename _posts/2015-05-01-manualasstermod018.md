@@ -26,11 +26,11 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
 <br>
 <h1>Índice</h1>
 
-<ul><li><a href='/GFDL13.md'>GNU Free Documentation License v1.3</a>
-</li><li><a href='/ManualAsstermoD018Intro.md'>Nota Introdutória</a>
-</li><li><a href='/ManualAsstermoD018Instalar.md'>Instruções de instalação</a>
-</li><li><a href='/ManualAsstermoD018Utilizacao.md'>Instruções de utilização do ASSTERMO</a>
-<ul><li><a href='/ManualAsstermoD018Agua.md'>Tabelas de Água</a>
-</li><li><a href='/ManualAsstermoD018Ar.md'>Tabelas de Ar</a>
-</li></ul></li><li><a href='/ManualAsstermoD018Adenda.md'>Adenda</a>
+<ul><li><a href='/GFDL13'>GNU Free Documentation License v1.3</a>
+</li><li><a href='/ManualAsstermoD018Intro'>Nota Introdutória</a>
+</li><li><a href='/ManualAsstermoD018Instalar'>Instruções de instalação</a>
+</li><li><a href='/ManualAsstermoD018Utilizacao'>Instruções de utilização do ASSTERMO</a>
+<ul><li><a href='/ManualAsstermoD018Agua'>Tabelas de Água</a>
+</li><li><a href='/ManualAsstermoD018Ar'>Tabelas de Ar</a>
+</li></ul></li><li><a href='/ManualAsstermoD018Adenda'>Adenda</a>
 </li></ul>

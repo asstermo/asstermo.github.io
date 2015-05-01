@@ -36,4 +36,4 @@ A lista completa de ficheiros (incluindo os antigos) para download estão dispon
   * [Documentação adicional](https://github.com/asstermo/documentation/releases)
 
 
-A lista descritiva de downloads antigos está aqui: <a href='/DownloadsAntigos.md'>Versões Antigas</a>
+A lista descritiva de downloads antigos está aqui: <a href='/DownloadsAntigos'>Versões Antigas</a>

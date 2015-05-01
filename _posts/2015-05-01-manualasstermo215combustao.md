@@ -203,7 +203,7 @@ Esta opção fará sair do Assistente de Química para Combustão e voltará ao 
 <br>
 <br>
 <h3>B:Fazer umas contas</h3>
-Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua.md'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas'>9:Fazer umas contas</a>.<br>
+Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas'>9:Fazer umas contas</a>.<br>
 <br>
 <br>
 <h2>2:Calc.Entalpias Tot</h2>
@@ -308,11 +308,11 @@ Permite sair do Assistente de Combustão.<br>
 <br>
 <br>
 <h2>8:Fazer umas contas</h2>
-Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua.md'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas'>9:Fazer umas contas</a>.<br>
+Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas'>9:Fazer umas contas</a>.<br>
 <br>
 <br>
 <h2>9:Interpolacoes</h2>
-Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua.md'>Água</a>, secção <a href='/ManualAsstermo215Agua#A:Interpolacoes'>A:Interpolações</a>.<br>
+Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#A:Interpolacoes'>A:Interpolações</a>.<br>
 <br>
 <br>
 <h1>6:ASSComb: Sair</h1>
@@ -320,8 +320,8 @@ Permite sair do Assistente de Combustão.<br>
 <br>
 <br>
 <h1>7:Fazer umas contas</h1>
-Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua.md'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas'>9:Fazer umas contas</a>.<br>
+Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas'>9:Fazer umas contas</a>.<br>
 <br>
 <br>
 <h1>8:Interpolacoes</h1>
-Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua.md'>Água</a>, secção <a href='/ManualAsstermo215Agua#A:Interpolacoes'>A:Interpolações</a>.
+Já foi descrito antes no capítulo de <a href='/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#A:Interpolacoes'>A:Interpolações</a>.
