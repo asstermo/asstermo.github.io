@@ -9,6 +9,8 @@
         <meta name="description" content="{{ site.subtitle }}">
 
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>        
         <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
         <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     </head>
@@ -108,6 +110,21 @@
             }
 
             if (document.querySelectorAll) orderNav();
+        </script>
+
+        <!-- Source: http://ben.balter.com/2014/03/13/pages-anchor-links/ -->
+        <script>
+        $(function() {
+          return $("h2, h3, h4, h5, h6").each(function(i, el) {
+            var $el, icon, id;
+            $el = $(el);
+            id = $el.attr('id');
+            icon = '<i class="fa fa-link"></i>';
+            if (id) {
+              return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+            }
+          });
+        });
         </script>
         {% if site.google_analytics_id != "" %}
         {% include google_analytics.html %}
