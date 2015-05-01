@@ -40,39 +40,40 @@ As variáveis <b>b_par</b>, <b>b_pontos</b> e <b>b_numpt</b> são as associadas 
 <br>
 E todas a começadas por <b>b</b> serão arquivadas na pasta TERMOSAV!<br>
 <br>
-Na seguinte tabela está a lista de ficheiros na calculadora necessários que estejam na pasta <b>ASSTERMO</b>:<br>
-| | | | |
-|:----:|:-----:|:-----:|:----:|
-| ainterpd | h2o_vs | pakpro18 | ps_w_hrt |
-| ajuda | h2o_vst | pakr22a7 | ps_w_mav |
-| asscomb | h2o_xtc | pakr22a8 | ps_w_pv |
-| asscombq | interpol | pakr22a9 | psscomb |
-| asspsicr | mol_xt | paktcp25 | psscombq |
-| asstermo | mostrahs | pbtagua | psspsicr |
-| cgcpv_xt | o2n_prop | pbtar | psstermo |
-| comb_fd3 | o2n_prpt | pbtrfrg | pzcopiar |
-| comb_fd7 | o2n_xt | pconv | pzxxz |
+Na seguinte tabela está a lista de ficheiros na calculadora necessários que estejam na pasta <b>ASSTERMO</b>:
+
+|          |          |          |          |
+|:--------:|:--------:|:--------:|:--------:|
+| ainterpd | h2o_vs   | pakpro18 | ps_w_hrt |
+| ajuda    | h2o_vst  | pakr22a7 | ps_w_mav |
+| asscomb  | h2o_xtc  | pakr22a8 | ps_w_pv  |
+| asscombq | interpol | pakr22a9 | psscomb  |
+| asspsicr | mol_xt   | paktcp25 | psscombq |
+| asstermo | mostrahs | pbtagua  | psspsicr |
+| cgcpv_xt | o2n_prop | pbtar    | psstermo |
+| comb_fd3 | o2n_prpt | pbtrfrg  | pzcopiar |
+| comb_fd7 | o2n_xt   | pconv    | pzxxz    |
 | comb_tb3 | p2n_prpt | pcpvprpt | quimanlz |
-| comb_tb7 | p2o_fgt | pefs_fgt | recta_mb |
-| comb_td | p2o_lct | pefs_vst | refs_fg |
-| comb_xt | p2o_vst | pomb_tb3 | refs_fgt |
-| combof | pak10k27 | pomb_tb7 | refs_hsp |
-| comper | pak13410 | prm_prpt | refs_hvp |
-| contas | pak13411 | ps_d_ht | refs_pt |
-| cpv_prop | pak13412 | ps_d_hw | refs_tdl |
-| eliminar | pakamo13 | ps_d_wt | refs_tp |
-| garbage | pakamo14 | ps_h_tw | refs_vs |
-| gogogo | pakamo15 | ps_hr_tp | refs_vst |
-| h2o_fg | pakar | ps_hr_tw | refs_xtc |
-| h2o_fgt | pakcga20 | ps_hrpvs | tlimits.89l |
-| h2o_hsp | pakh2oa2 | ps_m_mav | tlimitss.89l |
-| h2o_hvp | pakh2oa3 | ps_m_maw | upper |
-| h2o_lc | pakh2oa4 | ps_m_mma | valideq |
-| h2o_lct | pakh2oa5 | ps_m_mmv | xpak |
-| h2o_pt | pakigp23 | ps_m_mvw | xupak |
-| h2o_tdel | pakmmol | ps_m_mw | zcompile |
-| h2o_tp | pakpro16 | ps_pv_w | zcompts |
-| h2o_tp2 | pakpro17 | ps_pvhrt | zcopiar |
+| comb_tb7 | p2o_fgt  | pefs_fgt | recta_mb |
+| comb_td  | p2o_lct  | pefs_vst | refs_fg  |
+| comb_xt  | p2o_vst  | pomb_tb3 | refs_fgt |
+| combof   | pak10k27 | pomb_tb7 | refs_hsp |
+| comper   | pak13410 | prm_prpt | refs_hvp |
+| contas   | pak13411 | ps_d_ht  | refs_pt  |
+| cpv_prop | pak13412 | ps_d_hw  | refs_tdl |
+| eliminar | pakamo13 | ps_d_wt  | refs_tp  |
+| garbage  | pakamo14 | ps_h_tw  | refs_vs  |
+| gogogo   | pakamo15 | ps_hr_tp | refs_vst |
+| h2o_fg   | pakar    | ps_hr_tw | refs_xtc |
+| h2o_fgt  | pakcga20 | ps_hrpvs | tlimits  |
+| h2o_hsp  | pakh2oa2 | ps_m_mav | tlimitss |
+| h2o_hvp  | pakh2oa3 | ps_m_maw | upper    |
+| h2o_lc   | pakh2oa4 | ps_m_mma | valideq  |
+| h2o_lct  | pakh2oa5 | ps_m_mmv | xpak     |
+| h2o_pt   | pakigp23 | ps_m_mvw | xupak    |
+| h2o_tdel | pakmmol  | ps_m_mw  | zcompile |
+| h2o_tp   | pakpro16 | ps_pv_w  | zcompts  |
+| h2o_tp2  | pakpro17 | ps_pvhrt | zcopiar  |
 
 <br>
 ##Historial de desenvolvimento
