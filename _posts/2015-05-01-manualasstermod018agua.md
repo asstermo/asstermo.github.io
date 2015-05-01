@@ -20,14 +20,14 @@ Neste documento estão representados os seguintes _Problems_:
   * [6 - Proc. por u e p](#6_-_Proc._por_u_e_p)
 
 <br>
-<h1>1 - Asstermo-D-Agua</h1>
+##1 - Asstermo-D-Agua
 Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:<br>
 <ul><li>1.1 - A introdução e índice.<br>
 </li><li><a href='#1.2'>1.2</a> - Interpolação de valores.<br>
 </li><li><a href='#1.3'>1.3</a> - Sobre o Asstermo-D</li></ul>
 
 <br>
-<h1>1.2</h1>
+##1.2
 <b>Interpolações</b> - A página apresentada é a seguinte:<br>
 <br>
 <img src='http://asstermo.github.io/imgD018/Image002.jpg' />
@@ -51,13 +51,13 @@ Exemplos na TI-89:<br>
 <tr><td> Um exemplo prático.                                                                     </td><td> Este é um exemplo do que o Asstermo permite fazer muito mais rapidamente.               </td></tr></tbody></table>
 
 <br>
-<h1>1.3</h1>
+##1.3
 Aqui está a indicação da versão do Asstermo-D que está a ser utilizado (a imagem está desactualizada):<br>
 <br>
 <img src='http://asstermo.github.io/imgD018/Image003.jpg' />
 
 <br>
-<h1>2 - Proc. por p e/ou T</h1>
+##2 - Proc. por p e/ou T
 Cada página deste problema permite procurar por <i>p</i> e/ou <i>T</i>  em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.<br>
 <br>
 Detalhes:<br>
@@ -68,84 +68,84 @@ Detalhes:<br>
 
 Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.<br>
 <br>
-<h1>2.1</h1>
+##2.1
 
 <img src='http://asstermo.github.io/imgD018/Image004.jpg' />
 
-<h1>2.2</h1>
+##2.2
 
 <img src='http://asstermo.github.io/imgD018/Image005.jpg' />
 
-<h1>2.3</h1>
+##2.3
 
 <img src='http://asstermo.github.io/imgD018/Image006.jpg' />
 
-<h1>2.4</h1>
+##2.4
 
 <img src='http://asstermo.github.io/imgD018/Image007.jpg' />
 
 <br>
-<h1>3 - Proc. por h e p</h1>
+##3 - Proc. por h e p
 
-<h1>3.1</h1>
+##3.1
 
 <img src='http://asstermo.github.io/imgD018/Image008.jpg' />
 
-<h1>3.2</h1>
+##3.2
 
 <img src='http://asstermo.github.io/imgD018/Image009.jpg' />
 
-<h1>3.3</h1>
+##3.3
 
 <img src='http://asstermo.github.io/imgD018/Image010.jpg' />
 
 <br>
-<h1>4 - Proc. por s e p</h1>
+##4 - Proc. por s e p
 
-<h1>4.1</h1>
+##4.1
 Esta página é diferente das outras pelo simples motivo porque aqui é onde é calculada a evolução em líquido comprimido pelo cálculo do trabalho.<br>
 <br>
 <img src='http://asstermo.github.io/imgD018/Image011.jpg' />
 
-<h1>4.2</h1>
+##4.2
 
 <img src='http://asstermo.github.io/imgD018/Image012.jpg' />
 
-<h1>4.3</h1>
+##4.3
 
 <img src='http://asstermo.github.io/imgD018/Image014.jpg' />
 
-<h1>4.4</h1>
+##4.4
 
 <img src='http://asstermo.github.io/imgD018/Image015.jpg' />
 
 <br>
-<h1>5 - Proc. por v e p</h1>
+##5 - Proc. por v e p
 
-<h1>5.1</h1>
+##5.1
 
 <img src='http://asstermo.github.io/imgD018/Image016.jpg' />
 
-<h1>5.2</h1>
+##5.2
 
 <img src='http://asstermo.github.io/imgD018/Image017.jpg' />
 
-<h1>5.3</h1>
+##5.3
 
 <img src='http://asstermo.github.io/imgD018/Image018.jpg' />
 
 <br>
-<h1>6 - Proc. por u e p</h1>
+##6 - Proc. por u e p
 
-<h1>6.1</h1>
+##6.1
 
 <img src='http://asstermo.github.io/imgD018/Image019.jpg' />
 
-<h1>6.2</h1>
+##6.2
 
 <img src='http://asstermo.github.io/imgD018/Image020.jpg' />
 
-<h1>6.3</h1>
+##6.3
 
 <img src='http://asstermo.github.io/imgD018/Image021.jpg' />
 

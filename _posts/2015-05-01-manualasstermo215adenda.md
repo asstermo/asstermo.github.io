@@ -16,13 +16,13 @@ Espero ter sido elucidativo quanto ao como utilizar este programa. Links úteis:
 **NOTA**: Este programa/projecto foi desenvolvido com o máximo de cuidado, verificando sempre se as contas e os valores tabelados estão e dão certo. No entanto, como sou apenas humano e fiz o projecto todo praticamente sozinho, só posso dar garantia deste programa ser _quase_ 100% fiável. É de notar desde já que o Diagrama Psicrométrico é obtido com base nas tabelas de líquido-vapor saturado da água, portanto poderá não coincidir exactamente com todos os diagramas psicrométricos à face da terra!
 
 <br>
-<h1>Motivacao</h1>
+##Motivacao
 Este programa "Assistente de Termodinâmica", composto por cento e pouco ficheiros, que tem de estar obrigatoriamente na pasta "asstermo", foi desenvolvido por mim como resultado de ter saído extremamente chateado do segundo exame de Termodinâmica II, que eu pensava que não ia passar... mas que acabei por passar com 12. No entanto, como a ideia já estava a ganhar raízes na minha cabeça, e andava a precisar de um escape a minha capacidade artística... criativa... Bem, quando meto uma ideia na cabeça, ela acaba por sair cá para fora... a bem ou a mal! Espero que este programa vos seja útil, visto que fi-lo já não para mim propriamente dito, mas para amigos e colegas que passam e iram passar pelas cadeiras de Termodinâmica I e II, pelo menos no Instituto Superior Técnico! Aproveitem bem as 2h30 do exame!!!<br>
 <br>
 Ass.: Bruno M. S. Santos, 12/09/2004<br>
 <br>
 <br>
-<h1>Necessidades deste programa</h1>
+##Necessidades deste programa
 Este programa precisa de cerca de 10 a 100kB livres de RAM para correr e ocupa cerca de 152kB quando arquivado.<br>
 Tem de estar obrigatoriamente na pasta <b>ASSTERMO</b>. Foi desenvolvido para correr numa TI-89 e foi testado para correr numa TI-92. Em principio também corre numa Voyage 200 e na TI-89 Titanium.<br>
 <br>
@@ -65,8 +65,8 @@ Na seguinte tabela está a lista de ficheiros na calculadora necessários que es
 | h2o_tp2 | pakpro17 | ps_pvhrt | zcopiar |
 
 <br>
-<h1>Historial de desenvolvimento</h1>
-<h2>Datas</h2>
+##Historial de desenvolvimento
+###Datas
 Data de projecto (+-1.00): Agosto-Setembro de 2004<br>
 <br>
 Data de 1.07: Novembro de 2004<br>
@@ -90,7 +90,7 @@ Horas de trabalho (estimativa total): entre 205 a 220 horas<br>
 Autor: Bruno M. S. Santos - wyldckat+asstermo [at] gmail [.] com<br>
 <br>
 <br>
-<h2>Detalhes</h2>
+###Detalhes
 <b>v1.0</b> – A primeira edição do programa que eu desenvolvi sozinho. Cerca de 250kB ficavam comprimidos em 120kB! Projecto levou algures entre 90 a 100 Horas!<br>
 <br>
 <b>v1.05</b> – Pequenos Bugs corrigidos, manual disponível online em <a href='http://asstermo.no.sapo.pt'>asstermo.no.sapo.pt</a>, melhoramentos executados para optimizar a obtenção de valores. Mais umas 5 horas em cima. 262/110kB.<br>
@@ -123,7 +123,7 @@ NOTA: esta versão não chegou à net... problemas ao adicionar ao zip... esquec
 <b>v2.15</b> – Adicionei a tabela A-20, que é a dos calores específicos para gases comuns. Reestruturei o programa, dividindo o <b>TSSTERMO</b> em vários <i>subprogramas</i>, permitindo assim uma pegada menor de RAM necessária para o seu funcionamento. No entanto, ainda falta fazer o análogo para a psicrometria e a combustão. Para além de reduzir a pegada, permitirá a criação de uma nova variante para as TI-83/84, que ainda só está em estudo. Mais alguns bugs foram corrigidos. Agora são 120 ficheiros, aproximadamente 348kB descomprimidos, e 152kB comprimidos.<br>
 <br>
 <br>
-<h1>Agradecimentos</h1>
+##Agradecimentos
 <ul><li>Quero agradecer mais que nunca aos meus pais por me terem proporcionado a vida que tenho, porque de outro modo... nem eu andaria por cá, nem este programa seria alguma vez feito!!<br>
 </li><li>Quero agradecer a todos os meus amigos (e talvez um pouco aos profs) por me terem apoiado neste projecto... ou pelo menos terem auxiliado a inspirar-me para o fazer ;)<br>
 </li><li>Quero agradecer a Paul Froissart, que é o criador dos programas xpak e xupak, que graças esses programas me permitiu tornar o meu programa mais compacto. Vejam <a href='http://www.genezis.fr.fm'>http://www.genezis.fr.fm</a> para mais informações sobre estes programas.<br>

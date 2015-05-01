@@ -59,7 +59,7 @@ Portanto, tem-se de arquivar os ficheiros todos na calculadora. Para tal:
 <table></li></ul>
 
 <br>
-<h2>Transferir o pacote</h2>
+###Transferir o pacote
 Os seguintes passos requerem que o TiLP2 já esteja instalado. Apesar das imagens serem tiradas de um Windows XP, as instruções deverão ser aplicáveis noutros sistemas operativos também. Os passos são os que se seguem:<br>
 <table border='1' title='Passos de transferência'><tbody>
 <tr>
@@ -101,7 +101,7 @@ O TiLP deve depois perguntar se é para fazer <code>Retry</code> ou <code>Skip</
 <table>
 
 <br>
-<h2>Finalizar a instalacao</h2>
+###Finalizar a instalacao
 <b>Nota</b>: Com os <i>AMS</i> e <i>TI Connect</i> mais recentes, talvez os passos 1 a 3 da lista abaixo não sejam necessários. Sei que com o <a href='http://lpg.ticalc.org/prj_tilp/'>TiLP2</a> não é necessário!<br>
 <br>
 Se a transferência para a calculadora foi executada com sucesso, trate de executar os seguintes passos:<br>
@@ -140,5 +140,5 @@ Se a transferência para a calculadora foi executada com sucesso, trate de execu
 <table>
 
 <br>
-<h1>Asstermo-D (TI-nSpire)</h1>
+##Asstermo-D (TI-nSpire)
 Em princípio, basta usar o <i>TI Student Software</i> que as calculadoras TI-nSpire trazem e transferir os ficheiros tal como está descrito no manual do Asstermo-D.

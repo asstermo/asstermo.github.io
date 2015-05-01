@@ -11,7 +11,7 @@ order: 1
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial. Este sistema de gestão de código Mercurial é relativamente simples de se usar. O mais simples ainda em Windows é usar o [TortoiseHG](http://tortoisehg.bitbucket.org/). [Tutorial rápido de utilização do TortoiseHG](http://tortoisehg.bitbucket.org/manual/2.0/quick.html). Portanto, antes de começar a lidar com o código do Asstermo, primeiro convém que primeiro comecem a aprender a lidar com o Mercurial.
 
 <br>
-<h1>Acesso ao codigo</h1>
+##Acesso ao codigo
 Para aceder ao código, basta seguir as instruções indicadas em cada página de <i>checkout</i>. No entanto, para submeter alterações ao código, só há duas formas <i>directas</i>:<br>
 <ul><li>Ou usa-se a funcionalidade de clonagem, que está também descrita na página de <i>checkout</i>.<br>
 </li><li>Ou é preciso permissões do gestor deste projecto, para ter acesso directo aos repositórios do código. Para tal, contactar um dos contactos presentes na <a href='https://github.com/orgs/asstermo/people'>página de pessoas do projecto</a>.</li></ul>
@@ -25,7 +25,7 @@ Repositórios disponíveis:<br>
 </li><li>Para os mais avançados, o repositório das tabelas de origem utilizadas pelo Asstermo é <a href='https://github.com/asstermo/tabelas'>este</a>.</li></ul>
 
 <br>
-<h1>Variantes do Asstermo</h1>
+##Variantes do Asstermo
 Quanto ao ambiente de desenvolvimento e como desenvolver para cada variante, ver a página correspondente:<br>
 <ul><li><a href='/DesenvolvimentoAsstermoK'>Asstermo K</a> - esta é a versão original.<br>
 </li><li><a href='/DesenvolvimentoAsstermoD'>Asstermo D</a> - esta é a variante <code>Document</code> para TI-nSpire.<br>

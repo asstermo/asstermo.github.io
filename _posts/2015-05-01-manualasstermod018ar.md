@@ -30,13 +30,13 @@ Neste documento estão representados os seguintes _Problems_:
   * [7 - Proc. por vr](#7_-_Proc._por_vr)
 
 <br>
-<h1>1 - Asstermo-D-Ar</h1>
+##1 - Asstermo-D-Ar
 Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:<br>
 <ul><li>1.1 - A introdução e índice.<br>
 </li><li>1.2 - Interpolação de valores.<br>
 </li><li>1.3 - Sobre o Asstermo-D</li></ul>
 
-<h1>2 - Proc. por T</h1>
+##2 - Proc. por T
 Cada problema permite procurar pelas propriedades descritas no início deste capítulo. Este é o aspecto da procura por temperatura conhecida em Kelvin:<br>
 <br>
 <img src='http://asstermo.github.io/imgD018/Image025.jpg' />
@@ -49,22 +49,22 @@ Relembrando os detalhes:<br>
 
 Nas seguintes secções 3 a 7 está uma apresentação de cada página.<br>
 <br>
-<h1>3 - Proc. por h</h1>
+##3 - Proc. por h
 
 <img src='http://asstermo.github.io/imgD018/Image026.jpg' />
 
-<h1>4 - Proc. por u</h1>
+##4 - Proc. por u
 
 <img src='http://asstermo.github.io/imgD018/Image027.jpg' />
 
-<h1>5 - Proc. por s0</h1>
+##5 - Proc. por s0
 
 <img src='http://asstermo.github.io/imgD018/Image028.jpg' />
 
-<h1>6 - Proc. por pr</h1>
+##6 - Proc. por pr
 
 <img src='http://asstermo.github.io/imgD018/Image029.jpg' />
 
-<h1>7 - Proc. por vr</h1>
+##7 - Proc. por vr
 
 <img src='http://asstermo.github.io/imgD018/Image030.jpg' />
