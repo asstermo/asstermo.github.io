@@ -204,7 +204,7 @@ Esta opção fará sair do Assistente de Química para Combustão e voltará ao 
 <br>
 <br>
 ####B:Fazer umas contas
-Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:fazer-umas-contas).<br>
 <br>
 <br>
 ###2:Calc.Entalpias Tot
@@ -309,11 +309,11 @@ Permite sair do Assistente de Combustão.<br>
 <br>
 <br>
 ###8:Fazer umas contas
-Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:fazer-umas-contas).<br>
 <br>
 <br>
 ###9:Interpolacoes
-Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [A:Interpolações](/ManualAsstermo215Agua#A:Interpolacoes).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [A:Interpolações](/ManualAsstermo215Agua#a:interpolacoes).<br>
 <br>
 <br>
 ##6:ASSComb: Sair
@@ -321,8 +321,8 @@ Permite sair do Assistente de Combustão.<br>
 <br>
 <br>
 ##7:Fazer umas contas
-Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:fazer-umas-contas).<br>
 <br>
 <br>
 ##8:Interpolacoes
-Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [A:Interpolações](/ManualAsstermo215Agua#A:Interpolacoes).
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [A:Interpolações](/ManualAsstermo215Agua#a:interpolacoes).

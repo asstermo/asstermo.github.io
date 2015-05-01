@@ -30,7 +30,7 @@ Este texto divide-se nos seguintes capítulos:
 
 <br>
 ##Acesso ao codigo
-Ver secção [Acesso ao código](/DesenvolvimentoSoftware#Acesso_ao_codigo) na página <i>parente</i>.<br>
+Ver secção [Acesso ao código](/DesenvolvimentoSoftware#acesso-ao-codigo) na página <i>parente</i>.<br>
 <br>
 <br>
 ##Desenvolvimento dos programas e funcoes em TI-Basic 68k
