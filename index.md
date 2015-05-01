@@ -21,7 +21,7 @@ Para mais informações:
 **NOTE to english readers**: This software is currently **not** available in English.
 
 <br />
-<h1>Comparação de versões</h1>
+### Comparação de versões
 
 | **Características** | [Asstermo-K](/Downloads) | [Asstermo-D](/Downloads) |
 | --- |:---:|:---:|
