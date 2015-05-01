@@ -33,7 +33,7 @@ Eis o que interessa para o desenvolvimento de software em TI-Basic para as TI-nS
 
 <br>
 ##Transferência de tabelas
-Como se pode observar no ficheiro <a href='https://github.com/asstermo/D/tree/master/tabelas/tabelas.txt?repo=d'>tabelas.txt</a>, estas tiveram de ser transformadas por completo em código, para que mais facilmente se possa copiar do formato texto e colar directamente na linha de comandos no <i>TI Student Software</i>.<br>
+Como se pode observar no ficheiro <a href='https://github.com/asstermo/D/tree/master/tabelas/tabelas.txt'>tabelas.txt</a>, estas tiveram de ser transformadas por completo em código, para que mais facilmente se possa copiar do formato texto e colar directamente na linha de comandos no <i>TI Student Software</i>.<br>
 <br>
 <br>
 ##Apontamentos sobre o código

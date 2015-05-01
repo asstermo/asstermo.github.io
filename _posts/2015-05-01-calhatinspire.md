@@ -30,7 +30,7 @@ Devido a ser possível criar estas duas variantes, o "-ARM" não será usado par
 
 <br>
 ##Asstermo-D
-Esta variante <b>D</b> indica a designação de variante basiada em <i>Document</i> das nSpire. Nesse documento irá ficar todo o <i>ecossistema</i> do Asstermo-D e folhas de cálculo que estarão associadas a cada secção de cálculo. (Internamente o <b>D</b> também significa <i>Duuuuuhhh</i>, por causa de se ter de recorrer a formulários à lá Excel, graças ao <i>people</i> da TI que decidiu que GUI em Basic são maus...)<br>
+Esta variante <b>D</b> indica a designação de variante basiada em <i>Document</i> das nSpire. Nesse documento irá ficar todo o <i>ecossistema</i> do Asstermo-D e folhas de cálculo que estarão associadas a cada secção de cálculo. (Internamente o <b>D</b> também significa <i>Duuuuuhhh</i>, por causa de se ter de recorrer a formulários à lá Excel, graças ao <i>people</i> da TI que decidiu que os GUI em Basic são maus...)<br>
 <br>
 Esta versão ainda só está em fase de concepção. Há uma pessoa que se chegou à frente e se voluntariou para ajudar a desenvolver esta versão, como também a baseada em Ndless. Neste momento ficará anónima por motivos de privacidade, mas quando oficialmente se juntar ao projecto, será aqui indicado.<br>
 <br>
@@ -41,8 +41,8 @@ Nota mental: apesar de limitado, existe a possibilidade de usar <b>message boxes
 <br>
 ###Etapas
 <table><thead><th> <b>Etapa</b> </th><th> <b>Estado actual</b> </th></thead><tbody>
-<tr><td> Transcrever o código do Asstermo-K para ficheiros de texto. </td><td> Completo. Ver <a href='http://code.google.com/p/asstermo/source/browse/codigo_em_texto_puro'>aqui</a>. </td></tr>
-<tr><td> Criação do repositório de desenvolvimento de código para o Asstermo-D. Acho que basta chamar-se "D". </td><td> Completo. Ver <a href='http://code.google.com/p/asstermo/source/browse/?repo=d'>aqui</a>. </td></tr>
+<tr><td> Transcrever o código do Asstermo-K para ficheiros de texto. </td><td> Completo. Ver <a href='https://github.com/asstermo/K/tree/master/codigo_em_texto_puro'>aqui</a>. </td></tr>
+<tr><td> Criação do repositório de desenvolvimento de código para o Asstermo-D. Acho que basta chamar-se "D". </td><td> Completo. Ver <a href='https://github.com/asstermo/D/'>aqui</a>. </td></tr>
 <tr><td> Transferir as tabelas todas para o novo <i>Document</i> do Asstermo-D. </td><td> Completo!            </td></tr>
 <tr><td> Recuperar código em Basic de procura e interpolação do Asstermo original, antes deste ter passado a adoptar o TIGCC. </td><td> Completo!            </td></tr>
 <tr><td> Criação do formulário e respectiva interacção com este, mas para já só para a Água. </td><td> Completo!            </td></tr>

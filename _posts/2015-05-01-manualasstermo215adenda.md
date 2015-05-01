@@ -10,8 +10,8 @@ order: 13
 ## Notas finais
 
 Espero ter sido elucidativo quanto ao como utilizar este programa. Links úteis:
-  * Página online do Asstermo: http://code.google.com/p/asstermo/
-  * Página onde submeter problemas e sugestões: http://code.google.com/p/asstermo/issues/list
+  * Página online do Asstermo: http://asstermo.github.io
+  * Página onde submeter problemas e sugestões: https://github.com/asstermo/asstermo.github.io/issues
 
 **NOTA**: Este programa/projecto foi desenvolvido com o máximo de cuidado, verificando sempre se as contas e os valores tabelados estão e dão certo. No entanto, como sou apenas humano e fiz o projecto todo praticamente sozinho, só posso dar garantia deste programa ser _quase_ 100% fiável. É de notar desde já que o Diagrama Psicrométrico é obtido com base nas tabelas de líquido-vapor saturado da água, portanto poderá não coincidir exactamente com todos os diagramas psicrométricos à face da terra!
 
@@ -97,7 +97,7 @@ Autor: Bruno M. S. Santos - wyldckat+asstermo [at] gmail [.] com<br>
 <br>
 <b>v1.07</b> – Restringi toda a ajuda a este manual e assim o programa ocupa menos espaço na calculadora! Mais umas 2h nisto. 231/93kB.<br>
 <br>
-<b>v1.10</b> – Bem, mais umas 3h para finalmente por cá uma caixa de diálogo para interpolações "manuais", e ainda puz na água, amónia, <a href='https://code.google.com/p/asstermo/source/detail?r=22'>R22</a> e R134a procura por "pressão e volume específico" e "pressão e energia interna". Ainda mais uns retoques aqui e ali. o programa se muito aumentou 1kB, mas acho que nem isso.<br>
+<b>v1.10</b> – Bem, mais umas 3h para finalmente por cá uma caixa de diálogo para interpolações "manuais", e ainda puz na água, amónia, R22 e R134a procura por "pressão e volume específico" e "pressão e energia interna". Ainda mais uns retoques aqui e ali. o programa se muito aumentou 1kB, mas acho que nem isso.<br>
 <br>
 <b>v1.11</b> – Mais uma horita, para uns retoques... o programa ainterpd tinha um pequeno bug. E um pequeno retoque também quanto às pressões, as que dão hipótese de escolher as unidades, agora já não vai converter de "MPa" em "bar" vezes sem conta!<br>
 <br>
