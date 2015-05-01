@@ -7,6 +7,10 @@ date: 2015-05-01 18:29:40
 order: 1
 ---
 
+  * [Introducao](#introducao)
+  * [Acesso ao codigo](#acesso-ao-codigo)
+  * [Variantes do Asstermo](#variantes-do-asstermo)
+
 ## Introducao
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial. Este sistema de gestão de código Mercurial é relativamente simples de se usar. O mais simples ainda em Windows é usar o [TortoiseHG](http://tortoisehg.bitbucket.org/). [Tutorial rápido de utilização do TortoiseHG](http://tortoisehg.bitbucket.org/manual/2.0/quick.html). Portanto, antes de começar a lidar com o código do Asstermo, primeiro convém que primeiro comecem a aprender a lidar com o Mercurial.
 

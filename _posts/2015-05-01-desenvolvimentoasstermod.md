@@ -9,6 +9,13 @@ order: 3
 
 **NOTA**: Neste momento este artigo ainda é só um esboço e espaço de apontamentos.
 
+  * [Introducao](#introducao)
+  * [Acesso ao codigo](#acesso-ao-codigo)
+  * [Desenvolvimento dos programas e funcoes em TI-Basic nSpire](#desenvolvimento-dos-programas-e-funcoes-em-ti-basic-nspire)
+    * [Software para TI-Basic/nSpire](#software-para-ti-basic/nspire)
+  * [Transferência de tabelas](#transferência-de-tabelas)
+  * [Apontamentos sobre o código](#apontamentos-sobre-o-código)
+
 ## Introducao
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 

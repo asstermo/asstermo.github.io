@@ -7,6 +7,11 @@ date: 2015-05-01 18:29:40
 order: 8
 ---
 
+  * [Notas finais](#notas-finais)
+  * [Historial de desenvolvimento](#historial-de-desenvolvimento)
+    * [Datas](#datas)
+    * [Detalhes](#detalhes)
+
 ## Notas finais
 
 Este manual ainda está em desenvolvimento. Links úteis:

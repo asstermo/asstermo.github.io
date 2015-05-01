@@ -9,6 +9,16 @@ order: 2
 
 **NOTA**: Neste momento este artigo ainda é só um esboço e espaço de apontamentos.
 
+  * [Introducao](#introducao)
+  * [Acesso ao codigo](#acesso-ao-codigo)
+  * [Desenvolvimento dos programas e funcoes em TI-Basic 68k](#desenvolvimento-dos-programas-e-funcoes-em-ti-basic-68k)
+    * [Software para TI-Basic 68k](#software-para-ti-basic-68k)
+    * [Desenvolvimento de codigo do TI-Basic 68k](#desenvolvimento-de-codigo-do-ti-basic-68k)
+      * [Como esta o codigo do Asstermo distribuido](#como-esta-o-codigo-do-asstermo-distribuido)
+      * [Instrucoes de desenvolvimento do codigo do Asstermo](#instrucoes-de-desenvolvimento-do-codigo-do-asstermo)
+      * [Preparacoes finais do codigo para testes e posterior distribuicao](#preparacoes-finais-do-codigo-para-testes-e-posterior-distribuicao)
+  * [Desenvolvimento de programas e funcoes em C com o TIGCC](#desenvolvimento-de-programas-e-funcoes-em-c-com-o-tigcc)
+
 ## Introducao
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 

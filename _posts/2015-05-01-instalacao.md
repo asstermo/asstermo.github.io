@@ -7,6 +7,12 @@ date: 2015-05-01 18:29:40
 order: 2
 ---
 
+  * [Asstermo-K (TI-89/92/200)](#asstermo-k-(ti-89/92/200))
+    * [Arrumar a memoria](#arrumar-a-memoria)
+    * [Transferir o pacote](#transferir-o-pacote)
+    * [Finalizar a instalacao](#finalizar-a-instalacao)
+  * [Asstermo-D (TI-nSpire)](#asstermo-d-(ti-nspire))
+
 ## Asstermo-K (TI-89/92/200)
 
 Passos detalhados sobre como instalar o Asstermo-K numa TI-89, que deverá servir minimamente para as TI-92 e Voyage 200.
