@@ -18,6 +18,7 @@ order: 2
 Passos detalhados sobre como instalar o Asstermo-K numa TI-89, que deverá servir minimamente para as TI-92 e Voyage 200.
 
 Software necessário no PC:
+
   * [TiLP 2](http://lpg.ticalc.org/prj_tilp/) - É preciso ter cuidado, porque os drivers de USB do TiLP são incompatíveis com os do TI Connect.
 
 São necessárias três fases de instalação:
@@ -142,7 +143,7 @@ Se a transferência para a calculadora foi executada com sucesso, trate de execu
 <td align='center'> <img src='http://asstermo.github.io/imgKinst/fase3_011.png' />
 <tr>
 <td> <b>5.</b> Já tá pronto a correr! <code>ASSTERMO\ASSTERMO()</code> para correr o programa!<br>
-<td align='center'> <img src='http://asstermo.github.io/imgKinst/fase3_012.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_013.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_014.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_015.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_016.png' />
+<td align='center'> <img src='http://asstermo.github.io/imgKinst/fase3_012.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_013.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_014.png' /> <br> <img src='http://asstermo.github.io/imgKinst/fase3_015.png' />
 <tr>
 <table>
 
