@@ -2,7 +2,7 @@
 layout: page
 title: "Instruções de utilização do ASSTERMO"
 category: dock
-permalink: ManualAsstermo215Utilizacao.md
+permalink: ManualAsstermo215Utilizacao
 date: 2015-05-01 18:29:40
 order: 5
 ---

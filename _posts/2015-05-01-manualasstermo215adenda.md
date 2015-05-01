@@ -2,7 +2,7 @@
 layout: page
 title: "Adenda"
 category: dock
-permalink: ManualAsstermo215Adenda.md
+permalink: ManualAsstermo215Adenda
 date: 2015-05-01 18:29:40
 order: 13
 ---

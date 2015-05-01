@@ -2,7 +2,7 @@
 layout: page
 title: "Nota introdutória"
 category: dock
-permalink: ManualAsstermo215Intro.md
+permalink: ManualAsstermo215Intro
 date: 2015-05-01 18:29:40
 order: 3
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "Desenvolvimento do Software Asstermo"
 category: dev
-permalink: DesenvolvimentoSoftware.md
+permalink: DesenvolvimentoSoftware
 date: 2015-05-01 18:29:40
 order: 1
 ---

@@ -35,7 +35,7 @@ sections: [
 baseurl: ''
 
 # Dates are not included in permalinks
-permalink: /:title.md
+permalink: none
 
 # Syntax highlighting
 highlighter: pygments

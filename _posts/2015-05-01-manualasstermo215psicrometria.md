@@ -2,7 +2,7 @@
 layout: page
 title: "Opção 8: Psicrometria"
 category: dock
-permalink: ManualAsstermo215Psicrometria.md
+permalink: ManualAsstermo215Psicrometria
 date: 2015-05-01 18:29:40
 order: 10
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "Opção A: Assistente de Combustão"
 category: dock
-permalink: ManualAsstermo215Combustao.md
+permalink: ManualAsstermo215Combustao
 date: 2015-05-01 18:29:40
 order: 12
 ---
