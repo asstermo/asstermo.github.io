@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Instruções de Instalação"
-category: docD018
+category: docd
 permalink: /ManualAsstermoD018Instalar.md
 date: 2015-05-01 18:29:40
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Opção 8: Psicrometria"
-category: docK215
+category: dock
 permalink: /ManualAsstermo215Psicrometria.md
 date: 2015-05-01 18:29:40
 ---

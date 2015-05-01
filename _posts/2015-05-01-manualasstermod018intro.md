@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nota introdutória"
-category: docD018
+category: docd
 permalink: /ManualAsstermoD018Intro.md
 date: 2015-05-01 18:29:40
 ---

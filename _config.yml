@@ -23,8 +23,8 @@ sections: [
     ['news', 'Notícias'],
     ['down', 'Versões'],
     ['doc', 'Documentação'],
-    ['docK215', 'Manual: Asstermo-K 2.15'],
-    ['docD018', 'Manual: Asstermo-D 0.18'],
+    ['dock', 'Manual - Asstermo-K 2.15'],
+    ['docd', 'Manual - Asstermo-D 0.18'],
     ['dev', 'Desenvolvimento'],
     ['todo', 'Planeamento'],
     ['post', 'Posts']

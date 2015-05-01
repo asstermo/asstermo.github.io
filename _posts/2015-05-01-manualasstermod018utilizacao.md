@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Instruções de utilização do ASSTERMO-D"
-category: docD018
+category: docd
 permalink: /ManualAsstermoD018Utilizacao.md
 date: 2015-05-01 18:29:40
 ---

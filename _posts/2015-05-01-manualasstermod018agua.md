@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Asstermo-D-Agua"
-category: docD018
+category: docd
 permalink: /ManualAsstermoD018Agua.md
 date: 2015-05-01 18:29:40
 ---

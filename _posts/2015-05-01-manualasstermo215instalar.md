@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Instruções de Instalação"
-category: docK215
+category: dock
 permalink: /ManualAsstermo215Instalar.md
 date: 2015-05-01 18:29:40
 ---

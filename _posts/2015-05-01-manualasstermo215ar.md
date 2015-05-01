@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Opção 9: Tabela do ar"
-category: docK215
+category: dock
 permalink: /ManualAsstermo215Ar.md
 date: 2015-05-01 18:29:40
 ---

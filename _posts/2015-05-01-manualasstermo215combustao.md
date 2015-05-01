@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Opção A: Assistente de Combustão"
-category: docK215
+category: dock
 permalink: /ManualAsstermo215Combustao.md
 date: 2015-05-01 18:29:40
 ---
