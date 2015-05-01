@@ -110,7 +110,7 @@ O TiLP deve depois perguntar se é para fazer <code>Retry</code> ou <code>Skip</
 
 <br>
 ###Finalizar a instalacao
-<b>Nota</b>: Com os <i>AMS</i> e <i>TI Connect</i> mais recentes, talvez os passos 1 a 3 da lista abaixo não sejam necessários. Sei que com o <a href='http://lpg.ticalc.org/prj_tilp/'>TiLP2</a> não é necessário!<br>
+<b>Nota</b>: Com os <i>AMS</i> e <i>TI Connect</i> mais recentes, talvez os passos 1 a 3 da lista abaixo não sejam necessários. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário!<br>
 <br>
 Se a transferência para a calculadora foi executada com sucesso, trate de executar os seguintes passos:<br>
 <table border='1' title='Passos de finalizar a instalação'><tbody>

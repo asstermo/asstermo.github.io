@@ -105,7 +105,7 @@ Autor: Bruno M. S. Santos - wyldckat+asstermo [at] gmail [.] com<br>
 ###Detalhes
 <b>v1.0</b> – A primeira edição do programa que eu desenvolvi sozinho. Cerca de 250kB ficavam comprimidos em 120kB! Projecto levou algures entre 90 a 100 Horas!<br>
 <br>
-<b>v1.05</b> – Pequenos Bugs corrigidos, manual disponível online em <a href='http://asstermo.no.sapo.pt'>asstermo.no.sapo.pt</a>, melhoramentos executados para optimizar a obtenção de valores. Mais umas 5 horas em cima. 262/110kB.<br>
+<b>v1.05</b> – Pequenos Bugs corrigidos, manual disponível online em [asstermo.no.sapo.pt](http://asstermo.no.sapo.pt), melhoramentos executados para optimizar a obtenção de valores. Mais umas 5 horas em cima. 262/110kB.<br>
 <br>
 <b>v1.07</b> – Restringi toda a ajuda a este manual e assim o programa ocupa menos espaço na calculadora! Mais umas 2h nisto. 231/93kB.<br>
 <br>
@@ -126,7 +126,7 @@ NOTA: esta versão não chegou à net... problemas ao adicionar ao zip... esquec
 <br>
 <b>v1.83</b> – Pequenos bugs corrigidos na parte da combustão.<br>
 <br>
-<b>v1.90</b> – Após  feedback através do fórum de mecânica - <a href='http://lemist.18.forumer.com/index.php'>http://lemist.18.forumer.com/index.php</a> - avancei com algumas correcções no Asstermo, principalmente em relação ao "Auto-Alpha Off", que aparentemente eu já podia ter definido em 2006, porque a função Request tem uma opção não documentada no manual, que permite definir o modo do alpha lock para cada Request independente! Adicionalmente, graças ao TiEmu, foi possível executar alguns testes mais dedicados à TI-89 Titanium, que no passado não foi possível executar.<br>
+<b>v1.90</b> – Após  feedback através do fórum de mecânica - [http://lemist.18.forumer.com/index.php](http://lemist.18.forumer.com/index.php) - avancei com algumas correcções no Asstermo, principalmente em relação ao "Auto-Alpha Off", que aparentemente eu já podia ter definido em 2006, porque a função Request tem uma opção não documentada no manual, que permite definir o modo do alpha lock para cada Request independente! Adicionalmente, graças ao TiEmu, foi possível executar alguns testes mais dedicados à TI-89 Titanium, que no passado não foi possível executar.<br>
 <br>
 <b>v1.94</b> – Na altura da revisão anterior, surgiu-me a ideia que falta um manual técnico do Asstermo. Durante a criação do rascunho desse manual, foram corrigidos alguns bugs que foram sendo encontrados ao longo do levantamento de informações das funcionalidades do Asstermo. Assim, o Assistente Psicrométrico já tem operacional a parte de diagrama psicrométrico numérico operacional para AMS >= 3.0!! E ainda, um outro bug antigo, é em relação à componente de "Fazer umas contas", que iria crashar o programa sempre que o texto de entrada e/ou resposta fosse mais longo que 38 caracteres.<br>
 <br>
@@ -138,7 +138,7 @@ NOTA: esta versão não chegou à net... problemas ao adicionar ao zip... esquec
 ##Agradecimentos
 <ul><li>Quero agradecer mais que nunca aos meus pais por me terem proporcionado a vida que tenho, porque de outro modo... nem eu andaria por cá, nem este programa seria alguma vez feito!!<br>
 </li><li>Quero agradecer a todos os meus amigos (e talvez um pouco aos profs) por me terem apoiado neste projecto... ou pelo menos terem auxiliado a inspirar-me para o fazer ;)<br>
-</li><li>Quero agradecer a Paul Froissart, que é o criador dos programas xpak e xupak, que graças esses programas me permitiu tornar o meu programa mais compacto. Vejam <a href='http://www.genezis.fr.fm'>http://www.genezis.fr.fm</a> para mais informações sobre estes programas.<br>
+</li><li>Quero agradecer a Paul Froissart, que é o criador dos programas xpak e xupak, que graças esses programas me permitiu tornar o meu programa mais compacto. Vejam [http://www.genezis.fr.fm](http://www.genezis.fr.fm) para mais informações sobre estes programas.<br>
 </li><li>Quero também agradecer a  Kevin Kofler, que é o autor do Auto Alpha Off (autoaoff) e do Event Hook Uninstaller (uninevhk). A ele devem dar graças por ter tido a paciência por ter feito um programa que tira o ALPHA automático nas caixas de diálogo nas TI-89! No entanto, lamento que acabou por não ser a melhor solução.. ou pelo menos a mais segura. A partir do 1.90, estes programas já não fazem parte do Asstermo.<br>
 </li><li>Quero agradecer também aos autores do <b>TIGCC</b>, que quando eu finalmente meti as mãos ao trabalho, eles já tinham o programa avançado o suficiente para por o meu a bombar bem mais rápido!<br>
 </li><li>Quero agradecer aos autores do livro "Fundamentals of Engineering Thermodynamics" ... Moran e Shapiro se não me engano... por não me terem processado por utilizar os valores das tabelas que estão no anexo do livro, mas como eu também não ganho nada com este programa, pouco ou nada ganhavam eles em processar-me!<br>

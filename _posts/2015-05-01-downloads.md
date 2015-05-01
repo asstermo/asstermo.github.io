@@ -26,11 +26,11 @@ Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relat
 ##Asstermo-D 0.18 para TI-nSpire
 Versão de 24-03-2012, considerada experimental. Requer AMS 3.XX em qualquer modelo de TI-nSpire, com e sem CAS.<br>
 <br>
-Download (inclui manual): <a href='https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip'>Asstermo-D-v0.18.zip</a>
+Download (inclui manual): [Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip)
 
-Manual em PDF: <a href='https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf'>Asstermo-D-v0.18.pdf</a>
+Manual em PDF: [Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf)
 
-Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues/Problemas</a>.<br>
+Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: [Issues/Problemas](https://github.com/asstermo/asstermo.github.io/issues).<br>
 <br>
 <br>
 ##Todos downloads
@@ -41,4 +41,4 @@ A lista completa de ficheiros (incluindo os antigos) para download estão dispon
   * [Documentação adicional](https://github.com/asstermo/documentation/releases)
 
 
-A lista descritiva de downloads antigos está aqui: <a href='/DownloadsAntigos'>Versões Antigas</a>
+A lista descritiva de downloads antigos está aqui: [Versões Antigas](/DownloadsAntigos)

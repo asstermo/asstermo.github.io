@@ -92,7 +92,7 @@ Procurando por <b>h</b> e <b>p</b> (entalpia e pressão):<br>
 <br>
 <hr />
 ###3:Proc. s e P (Tab)
-Análogo ao <a href='#2:Proc._Por_h_e_P'>procurar por h e p</a>, mas com <b>s</b> e <b>p</b> (entropia e pressão).<br>
+Análogo ao [procurar por h e p](#2:Proc._Por_h_e_P), mas com <b>s</b> e <b>p</b> (entropia e pressão).<br>
 <br>
 <br>
 <hr />
@@ -104,12 +104,12 @@ Permite obter a entalpia “final”, de uma evolução a entropia constante, sa
 <br>
 <hr />
 ###5:Proc. Por v e P
-Análogo ao <a href='#2:Proc._Por_h_e_P'>procurar por h e p</a>, mas com <b>v</b> e <b>p</b> (volume específico e pressão).<br>
+Análogo ao [procurar por h e p](#2:Proc._Por_h_e_P), mas com <b>v</b> e <b>p</b> (volume específico e pressão).<br>
 <br>
 <br>
 <hr />
 ###6:Proc. Por u e P
-Análogo ao <a href='#2:Proc._Por_h_e_P'>procurar por h e p</a>, mas com <b>u</b> e <b>p</b> (energia interna e pressão).<br>
+Análogo ao [procurar por h e p](#2:Proc._Por_h_e_P), mas com <b>u</b> e <b>p</b> (energia interna e pressão).<br>
 <br>
 <br>
 <hr />

@@ -24,8 +24,8 @@ Neste documento estão representados os seguintes _Problems_:
 ##1 - Asstermo-D-Agua
 Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:<br>
 <ul><li>1.1 - A introdução e índice.<br>
-</li><li><a href='#1.2'>1.2</a> - Interpolação de valores.<br>
-</li><li><a href='#1.3'>1.3</a> - Sobre o Asstermo-D</li></ul>
+</li><li>[1.2](#1.2) - Interpolação de valores.<br>
+</li><li>[1.3](#1.3) - Sobre o Asstermo-D</li></ul>
 
 <br>
 ##1.2

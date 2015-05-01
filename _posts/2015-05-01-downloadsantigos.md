@@ -20,21 +20,21 @@ Aqui estão listadas as versões antigas do Asstermo. Estas já não são suport
 Versão de 10-07-2006, considerada estável, mas já muito antiga. Precisa do “autoalpha off” para desligar o modo <i>alfa</i> automaticamente nas caixas de diálogo.<br>
 Não funciona com AMS 3.XX, ou seja: <b>NÃO USEM</b> ESTA VERSÃO NAS <b>TI-89 TITANIUM</b>!!<br>
 <br>
-Download (inclui manual): <a href='https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip'>asstermo.1.83.zip</a>
+Download (inclui manual): [asstermo.1.83.zip](https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip)
 
-Manual em PDF: <a href='https://github.com/asstermo/K/releases/download/v1.83/O.manual.do.ASSTERMO.pdf'>O.manual.do.ASSTERMO.pdf</a>
+Manual em PDF: [O.manual.do.ASSTERMO.pdf](https://github.com/asstermo/K/releases/download/v1.83/O.manual.do.ASSTERMO.pdf)
 
-Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues/Problemas</a>.<br>
+Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: [Issues/Problemas](https://github.com/asstermo/asstermo.github.io/issues).<br>
 <br>
 <br>
 ##Asstermo-D 0.14 para TI-nSpire
 Versão de 18-03-2012, considerada experimental. Requer AMS 3.XX em qualquer modelo de TI-nSpire, com e sem CAS.<br>
 <br>
-Download (inclui manual): <a href='https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip'>Asstermo-D-v0.14.zip</a>
+Download (inclui manual): [Asstermo-D-v0.14.zip](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip)
 
-Manual em PDF: <a href='https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.pdf'>Asstermo-D-v0.14.pdf</a>
+Manual em PDF: [Asstermo-D-v0.14.pdf](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.pdf)
 
-Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues/Problemas</a>.<br>
+Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: [Issues/Problemas](https://github.com/asstermo/asstermo.github.io/issues).<br>
 <br>
 <br>
 ##Todos downloads

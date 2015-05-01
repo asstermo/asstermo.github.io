@@ -26,23 +26,23 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
 <br>
 ##Índice
 
-<ul><li><a href='/GFDL13'>GNU Free Documentation License v1.3</a>
-</li><li><a href='/ManualAsstermo215Intro'>Nota Introdutória</a>
-</li><li><a href='/ManualAsstermo215Instalar'>Instruções de instalação</a>
-<ul><li><a href='/ManualAsstermo215Instalar#Instrucoes_de_transferencia/copia_para_outra_calculadora'>Instruções de transferência/cópia para outra calculadora</a>
-</li></ul></li><li><a href='/ManualAsstermo215Utilizacao'>Instruções de utilização do ASSTERMO</a>
-<ul><li><a href='/ManualAsstermo215Agua'>Opção 1: Água</a>
-</li><li><a href='/ManualAsstermo215OutrosFluidos'>Opções 2 a 5: Tabelas...</a>
-</li><li><a href='/ManualAsstermo215MassasMolares'>Opção 6: Massas Molares+R's</a>
-</li><li><a href='/ManualAsstermo215CalorEspecifico'>Opção 7: Calor Específico</a>
-</li><li><a href='/ManualAsstermo215Psicrometria'>Opção 8: Psicrometria</a>
-</li><li><a href='/ManualAsstermo215Ar'>Opção 9: Tabela do ar</a>
-</li><li><a href='/ManualAsstermo215Combustao'>Opção A: Assistente de Combustão</a>
-</li></ul></li><li><a href='/ManualAsstermo215Adenda'>Adendas</a>
-<ul><li><a href='/ManualAsstermo215Adenda#Notas_finais'>Notas finais</a>
-</li><li><a href='/ManualAsstermo215Adenda#Motivacao'>Motivação</a>
-</li><li><a href='/ManualAsstermo215Adenda#Necessidades_deste_programa'>Necessidades deste programa</a>
-</li><li><a href='/ManualAsstermo215Adenda#Historial_de_desenvolvimento'>Historial de desenvolvimento</a>
-</li><li><a href='/ManualAsstermo215Adenda#Agradecimentos'>Agradecimentos</a>
+<ul><li>[GNU Free Documentation License v1.3](/GFDL13)
+</li><li>[Nota Introdutória](/ManualAsstermo215Intro)
+</li><li>[Instruções de instalação](/ManualAsstermo215Instalar)
+<ul><li>[Instruções de transferência/cópia para outra calculadora](/ManualAsstermo215Instalar#Instrucoes_de_transferencia/copia_para_outra_calculadora)
+</li></ul></li><li>[Instruções de utilização do ASSTERMO](/ManualAsstermo215Utilizacao)
+<ul><li>[Opção 1: Água](/ManualAsstermo215Agua)
+</li><li>[Opções 2 a 5: Tabelas...](/ManualAsstermo215OutrosFluidos)
+</li><li>[Opção 6: Massas Molares+R's](/ManualAsstermo215MassasMolares)
+</li><li>[Opção 7: Calor Específico](/ManualAsstermo215CalorEspecifico)
+</li><li>[Opção 8: Psicrometria](/ManualAsstermo215Psicrometria)
+</li><li>[Opção 9: Tabela do ar](/ManualAsstermo215Ar)
+</li><li>[Opção A: Assistente de Combustão](/ManualAsstermo215Combustao)
+</li></ul></li><li>[Adendas](/ManualAsstermo215Adenda)
+<ul><li>[Notas finais](/ManualAsstermo215Adenda#Notas_finais)
+</li><li>[Motivação](/ManualAsstermo215Adenda#Motivacao)
+</li><li>[Necessidades deste programa](/ManualAsstermo215Adenda#Necessidades_deste_programa)
+</li><li>[Historial de desenvolvimento](/ManualAsstermo215Adenda#Historial_de_desenvolvimento)
+</li><li>[Agradecimentos](/ManualAsstermo215Adenda#Agradecimentos)
 </li>
 </ul>

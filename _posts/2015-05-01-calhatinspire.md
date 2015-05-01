@@ -33,9 +33,9 @@ Devido a ser possível criar estas duas variantes, o "-ARM" não será usado par
 
 <br>
 ##Possibilidades existentes
-<ul><li>A TI-nSpire (mas não a TI-nSpire CAS) tem um emulador de TI-84 integrado, por isso quando se conseguir ter uma variante para as TI-83/84, então deve ser possível automaticamente ter nas TI-nSpire. Portanto, acompanhem também o que vai <a href='/Calha_TI83_84'>na calha para as TI-83/84</a>.<br>
+<ul><li>A TI-nSpire (mas não a TI-nSpire CAS) tem um emulador de TI-84 integrado, por isso quando se conseguir ter uma variante para as TI-83/84, então deve ser possível automaticamente ter nas TI-nSpire. Portanto, acompanhem também o que vai [na calha para as TI-83/84](/Calha_TI83_84).<br>
 </li><li>Usar o sistema de "documentos e folhas de cálculo" que as nSpire utilizam. Basicamente seria como ter uma ou mais folhas de Excel na calculadora, mas face ao número elevado de tabelas que são precisas, não sei se as nSpire se irão <i>aguentar nas canetas</i>...<br>
-</li><li>Recorrer ao Ndless para todo ou a maioria do sistema: <a href='http://hackspire.unsads.com/wiki/index.php/Main_Page'>Ndless wiki</a></li></ul>
+</li><li>Recorrer ao Ndless para todo ou a maioria do sistema: [Ndless wiki](http://hackspire.unsads.com/wiki/index.php/Main_Page)</li></ul>
 
 <br>
 ##Asstermo-D
@@ -50,8 +50,8 @@ Nota mental: apesar de limitado, existe a possibilidade de usar <b>message boxes
 <br>
 ###Etapas
 <table><thead><th> <b>Etapa</b> </th><th> <b>Estado actual</b> </th></thead><tbody>
-<tr><td> Transcrever o código do Asstermo-K para ficheiros de texto. </td><td> Completo. Ver <a href='https://github.com/asstermo/K/tree/master/codigo_em_texto_puro'>aqui</a>. </td></tr>
-<tr><td> Criação do repositório de desenvolvimento de código para o Asstermo-D. Acho que basta chamar-se "D". </td><td> Completo. Ver <a href='https://github.com/asstermo/D/'>aqui</a>. </td></tr>
+<tr><td> Transcrever o código do Asstermo-K para ficheiros de texto. </td><td> Completo. Ver [aqui](https://github.com/asstermo/K/tree/master/codigo_em_texto_puro). </td></tr>
+<tr><td> Criação do repositório de desenvolvimento de código para o Asstermo-D. Acho que basta chamar-se "D". </td><td> Completo. Ver [aqui](https://github.com/asstermo/D/). </td></tr>
 <tr><td> Transferir as tabelas todas para o novo <i>Document</i> do Asstermo-D. </td><td> Completo!            </td></tr>
 <tr><td> Recuperar código em Basic de procura e interpolação do Asstermo original, antes deste ter passado a adoptar o TIGCC. </td><td> Completo!            </td></tr>
 <tr><td> Criação do formulário e respectiva interacção com este, mas para já só para a Água. </td><td> Completo!            </td></tr>
@@ -67,16 +67,16 @@ Nota mental: apesar de limitado, existe a possibilidade de usar <b>message boxes
 
 <br>
 ##Asstermo-N
-Esta variante <b>N</b> poderá vir a ser mais poderosa que a versão original do Asstermo, mas está muito dependente do estado de evolução do <a href='http://hackspire.unsads.com/wiki/index.php/Main_Page'>Ndless</a>.<br>
+Esta variante <b>N</b> poderá vir a ser mais poderosa que a versão original do Asstermo, mas está muito dependente do estado de evolução do [Ndless](http://hackspire.unsads.com/wiki/index.php/Main_Page).<br>
 <br>
 <br>
 ###Limites Tecnológicos a ultrapassar
-Via <a href='http://hackspire.unsads.com/wiki/index.php/Main_Page'>Ndless</a>, eis o que ainda não se conhece:<br>
+Via [Ndless](http://hackspire.unsads.com/wiki/index.php/Main_Page), eis o que ainda não se conhece:<br>
 <ol><li>Interface gráfico, nomeadamente caixas de diálogo e popup menus de navegação. As funções de diálogo e menus das TI-89/92/200 não existem nas TI-nSpire, por escolha de design dos gajos da TI. Isto significa que têm de ser criados ainda interfaces gráficos modulares, para que o utilizador possa interagir com o Asstermo-N.<br>
 </li><li>Armazenamento e acesso às tabelas. Isto é crítico e é algo que é <i>fácil</i> nas TI-68k, visto que são literalmente tratadas como ficheiros; para o acesso rápido, tive de criar a função de acesso a estas tabelas/matrizes, para que fosse mais rápido o acesso. Não sei como será na TI-nSpire.<br>
 </li><li>Compressão de dados, quer de programas como tabelas. Para a TI-nSpire <b>isto não é necessário</b>, visto que nesta abunda RAM e Flash-ROM!!</li></ol>
 
 <br>
 ###Apontamentos
-<ul><li>GUI ainda parece estar muito atrasado. De momento ainda só há uma "message box": <a href='http://hackspire.unsads.com/wiki/index.php/Libndls#UI'>Libndls UI</a>. Falta a "Popup" e a caixa de diálogo mais genérica, à lá TI-68k.<br>
+<ul><li>GUI ainda parece estar muito atrasado. De momento ainda só há uma "message box": [Libndls UI](http://hackspire.unsads.com/wiki/index.php/Libndls#UI). Falta a "Popup" e a caixa de diálogo mais genérica, à lá TI-68k.<br>
 </li><li>O Ndless ainda está longe de estar completo, portanto ainda falta muita coisa crucial à criação de uma variante do Asstermo para TI-nSpire.
