@@ -22,13 +22,13 @@ Abra o documento `Asstermo-D-Ar`. Deverá aparecer o seguinte ecrã:
 
 Neste documento estão representados os seguintes _Problems_:
 
-  * [1 - Asstermo-D-Ar](#1_-_Asstermo-D-Ar) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
-  * [2 - Proc. por T](#2_-_Proc._por_T)
-  * [3 - Proc. por h](#3_-_Proc._por_h)
-  * [4 - Proc. por u](#4_-_Proc._por_u)
-  * [5 - Proc. por s0](#5_-_Proc._por_s0)
-  * [6 - Proc. por pr](#6_-_Proc._por_pr)
-  * [7 - Proc. por vr](#7_-_Proc._por_vr)
+  * [1 - Asstermo-D-Ar](#1---asstermo-d-ar) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
+  * [2 - Proc. por T](#2---proc.-por-t)
+  * [3 - Proc. por h](#3---proc.-por-h)
+  * [4 - Proc. por u](#4---proc.-por-u)
+  * [5 - Proc. por s0](#5---proc.-por-s0)
+  * [6 - Proc. por pr](#6---proc.-por-pr)
+  * [7 - Proc. por vr](#7---proc.-por-vr)
 
 <br>
 ##1 - Asstermo-D-Ar

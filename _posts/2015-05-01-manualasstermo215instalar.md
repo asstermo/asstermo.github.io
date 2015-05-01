@@ -26,7 +26,7 @@ Existem duas soluções:
   1. Utilizar o **F3:Link\Send** que está no _Var-Link_;
   1. Utilizar o programa **ASSTERMO\ZCOPIAR()**.
 
-A primeira está explicada no manual da calculadora e após a cópia feita, seguir os passos descritos acima [Instruções de instalação](#Instrucoes_de_Instalacao). A segunda tive deu um trabalho razoável a criar, para tornar o processo mais automatizado.
+A primeira está explicada no manual da calculadora e após a cópia feita, seguir os passos descritos acima [Instruções de instalação](#instrucoes-de-instalacao). A segunda tive deu um trabalho razoável a criar, para tornar o processo mais automatizado.
 
 Como utilizar o **ZCOPIAR**: Execute o programa, indo ao _Var-Link_, de seguida carregue em **Z** três vezes e deve estar lá; carregue em **Enter** e depois **)** e **Enter** de novo! A seguinte imagem aparece:
 

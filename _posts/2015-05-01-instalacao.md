@@ -23,9 +23,9 @@ Software necessário no PC:
 
 São necessárias três fases de instalação:
 
-  1. [Arrumar a memória](#Arrumar_a_memoria)
-  1. [Transferir o pacote](#Transferir_o_pacote)
-  1. [Finalizar a instalação](#Finalizar_a_instalacao)
+  1. [Arrumar a memória](#arrumar-a-memoria)
+  1. [Transferir o pacote](#transferir-o-pacote)
+  1. [Finalizar a instalação](#finalizar-a-instalacao)
 
 ### Arrumar a memoria
 A primeira fase serve para arrumar a memória da calculadora. Isto porque o Asstermo-K requer cerca de 180kB para se instalar e 150kB de RAM para funcionar normalmente.

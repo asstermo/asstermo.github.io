@@ -20,8 +20,8 @@ order: 3
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 
 Este texto divide-se nos seguintes capítulos:
-  * [Acesso ao codigo](#Acesso_ao_codigo) - onde estão descritos os acessos aos códigos fonte.
-  * [Desenvolvimento dos programas e funcoes em TI-Basic para TI-nSpire](#Desenvolvimento_dos_programas_e_funcoes_em_TI-Basic_para_TI-nSpire) - onde estão descritas as instruções de desenvolvimento do código para o **Asstermo-D**.
+  * [Acesso ao codigo](#acesso-ao-codigo) - onde estão descritos os acessos aos códigos fonte.
+  * [Desenvolvimento dos programas e funcoes em TI-Basic para TI-nSpire](#desenvolvimento-dos-programas-e-funcoes-em-ti-basic-para-ti-nspire) - onde estão descritas as instruções de desenvolvimento do código para o **Asstermo-D**.
 
 <br>
 ##Acesso ao codigo

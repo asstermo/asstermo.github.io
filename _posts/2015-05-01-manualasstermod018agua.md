@@ -13,12 +13,12 @@ Abra o documento `Asstermo-D-Agua`. Deverá aparecer o seguinte ecrã:
 
 Neste documento estão representados os seguintes _Problems_:
 
-  * [1 - Asstermo-D-Agua](#1_-_Asstermo-D-Agua) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
-  * [2 - Proc. por p e/ou T](#2_-_Proc._por_p_e/ou_T) - Segundo problema, onde se pode procurar por _p_ e/ou _T_ em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
-  * [3 - Proc. por h e p](#3_-_Proc._por_h_e_p)
-  * [4 - Proc. por s e p](#4_-_Proc._por_s_e_p)
-  * [5 - Proc. por v e p](#5_-_Proc._por_v_e_p)
-  * [6 - Proc. por u e p](#6_-_Proc._por_u_e_p)
+  * [1 - Asstermo-D-Agua](#1---asstermo-d-agua) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
+  * [2 - Proc. por p e/ou T](#2---proc.-por-p-e/ou-t) - Segundo problema, onde se pode procurar por _p_ e/ou _T_ em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
+  * [3 - Proc. por h e p](#3---proc.-por-h-e-p)
+  * [4 - Proc. por s e p](#4---proc.-por-s-e-p)
+  * [5 - Proc. por v e p](#5---proc.-por-v-e-p)
+  * [6 - Proc. por u e p](#6---proc.-por-u-e-p)
 
 <br>
 ##1 - Asstermo-D-Agua

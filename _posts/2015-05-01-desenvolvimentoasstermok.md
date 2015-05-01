@@ -24,9 +24,9 @@ Todo o sistema de gestão de código neste projecto está gerido pelo sistema Me
 
 Este texto divide-se nos seguintes capítulos:
 
-  * [Acesso ao codigo](#Acesso_ao_codigo) - onde estão descritos os acessos aos códigos fonte.
-  * [Desenvolvimento dos programas e funções em TI-Basic 68k](#Desenvolvimento_dos_programas_e_funcoes_em_TI-Basic_68k) - onde estão as instruções de desenvolvimento do código do **Asstermo** que está em TI-Basic 68k.
-  * [Desenvolvimento de programas e funções em C com o TIGCC](#Desenvolvimento_de_programas_e_funcoes_em_C_com_o_TIGCC) - onde estão descritas as instruções de desenvolvimento de código do **Asstermo** que está em C que é compilado com o TIGCC.
+  * [Acesso ao codigo](#acesso-ao-codigo) - onde estão descritos os acessos aos códigos fonte.
+  * [Desenvolvimento dos programas e funções em TI-Basic 68k](#desenvolvimento-dos-programas-e-funcoes-em-ti-basic-68k) - onde estão as instruções de desenvolvimento do código do **Asstermo** que está em TI-Basic 68k.
+  * [Desenvolvimento de programas e funções em C com o TIGCC](#desenvolvimento-de-programas-e-funcoes-em-c-com-o-tigcc) - onde estão descritas as instruções de desenvolvimento de código do **Asstermo** que está em C que é compilado com o TIGCC.
 
 <br>
 ##Acesso ao codigo
@@ -35,8 +35,8 @@ Ver secção [Acesso ao código](/DesenvolvimentoSoftware#Acesso_ao_codigo) na p
 <br>
 ##Desenvolvimento dos programas e funcoes em TI-Basic 68k
 Motorola 68k é o processador das calculadoras TI-89/92 e Voyage 200. Todas partilham a mesma arquitectura, daí a alcunha de TI-Basic 68k. Este capítulo divide-se nas seguintes secções:<br>
-<ul><li>[Software para TI-Basic 68k](#Software_para_TI-Basic_68k)
-</li><li>[Desenvolvimento de código do TI-Basic 68k](#Desenvolvimento_de_codigo_do_TI-Basic_68k)</li></ul>
+<ul><li>[Software para TI-Basic 68k](#software-para-ti-basic-68k)
+</li><li>[Desenvolvimento de código do TI-Basic 68k](#desenvolvimento-de-codigo-do-ti-basic-68k)</li></ul>
 
 Este capítulo refere-se maioritariamente ao código do Asstermo original, mas algumas instruções podem também servir para as variantes do Asstermo.<br>
 <br>
@@ -53,15 +53,15 @@ Eis o que interessa para o desenvolvimento de software em TI-Basic 68k:<br>
 <br>
 ###Desenvolvimento de codigo do TI-Basic 68k
 Esta secção divide-se nas seguintes subsecções:<br>
-<ul><li>[Como está o código do Asstermo distribuído](#Como_esta_o_codigo_do_Asstermo_distribuido)
-</li><li>[Instruções de desenvolvimento do código do Asstermo](#Instrucoes_de_desenvolvimento_do_codigo_do_Asstermo)
-</li><li>[Preparações finais do código para testes e posterior distribuição](#Preparacoes_finais_do_codigo_para_testes_e_posterior_distribucao)</li></ul>
+<ul><li>[Como está o código do Asstermo distribuído](#como-esta-o-codigo-do-asstermo-distribuido)
+</li><li>[Instruções de desenvolvimento do código do Asstermo](#instrucoes-de-desenvolvimento-do-codigo-do-asstermo)
+</li><li>[Preparações finais do código para testes e posterior distribuição](#preparacoes-finais-do-codigo-para-testes-e-posterior-distribucao)</li></ul>
 
 <br>
 ####Como esta o codigo do Asstermo distribuido
 O código pronto a copiar para a calculadora encontra-se na pasta <code>codigo_em_TI89</code>. Este tem de ser estritamente editado com o <b>TI-Graph Link</b>.<br>
 <br>
-Na pasta <code>codigo_em_texto</code> está o código em TI-Basic dos programas e funções do Asstermo, mas em formato de texto. Aqui pode-se deixar comentários e espaços e programar com mais liberdade. Isto quando comparado com o <b>TI-Graph Link</b>, que restringe o campo de visão ao mesmo campo que na calculadora. Para passar do texto livre para os ficheiros ".89p" ou ".89f", é necessário as etapas descritas na sub-secção seguinte: [Instruções de desenvolvimento do código do Asstermo](#Instrucoes_de_desenvolvimento_do_codigo_do_Asstermo)
+Na pasta <code>codigo_em_texto</code> está o código em TI-Basic dos programas e funções do Asstermo, mas em formato de texto. Aqui pode-se deixar comentários e espaços e programar com mais liberdade. Isto quando comparado com o <b>TI-Graph Link</b>, que restringe o campo de visão ao mesmo campo que na calculadora. Para passar do texto livre para os ficheiros ".89p" ou ".89f", é necessário as etapas descritas na sub-secção seguinte: [Instruções de desenvolvimento do código do Asstermo](#instrucoes-de-desenvolvimento-do-codigo-do-asstermo)
 
 <br>
 ####Instrucoes de desenvolvimento do codigo do Asstermo

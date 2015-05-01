@@ -17,16 +17,16 @@ Este é o menu principal da psicrometria:
 
 Cada opção tem uma secção dedicada neste capítulo:
 
-  * [1:Pressão(bar):x.xxx](#1:Pressao(bar):x.xxx)
-  * [2:Obter w](#2:Obter_w)
-  * [3:Obter HR](#3:Obter_HR)
-  * [4:Obter h com T e w](#4:Obter_h_com_T_e_w)
-  * [5:Obter p->T ou T->p](#5:Obter_p_T_ou_T_p)
-  * [6:Obter p vapor (pv)](#6:Obter_p_vapor_(pv))
-  * [7:Cálculo de massas](#7:Calculo_de_massas)
-  * [8:Diag Psicrométrico](#8:Diag_Psicrometrico)
-  * [9:Psicrometria: Sair](#9:Psicrometria:_Sair)
-  * [A:Fazer uma contas](#A:Fazer_uma_contas)
+  * [1:Pressão(bar):x.xxx](#1:pressao(bar):x.xxx)
+  * [2:Obter w](#2:obter-w)
+  * [3:Obter HR](#3:obter-hr)
+  * [4:Obter h com T e w](#4:obter-h-com-t-e-w)
+  * [5:Obter p->T ou T->p](#5:obter-p-t-ou-t-p)
+  * [6:Obter p vapor (pv)](#6:obter-p-vapor-(pv))
+  * [7:Cálculo de massas](#7:calculo-de-massas)
+  * [8:Diag Psicrométrico](#8:diag-psicrometrico)
+  * [9:Psicrometria: Sair](#9:psicrometria:-sair)
+  * [A:Fazer uma contas](#a:fazer-uma-contas)
 
 <br>
 ##1:Pressao(bar):x.xxx
@@ -102,17 +102,17 @@ O modo de utilizar é semelhante ao diagrama em papel... desenha-se o ponto no d
 <b>Conselho</b>: desenhem numa folha o diagrama e onde os pontos devem estar e os nomes correspondentes. Caso contrário, arriscam-se a facilmente se perder no diagrama.<br>
 <br>
 Cada opção tem uma sub-secção dedicada:<br>
-<ul><li>[1:Adicionar pontos](#1:Adicionar_pontos) - esta é a primeira etapa na utilização de um diagrama psicrométrico.<br>
-</li><li>[2:Alterar pontos](#2:Alterar_pontos) - permite alterar os pontos adicionados.<br>
-</li><li>[3:Remover pontos](#3:Remover_pontos) - permite remover os pontos adicionados.<br>
-</li><li>[4:Intersectar rectas](#4:Intersectar_rectas) - permite traçar o cruzamento de duas rectas e obter o ponto de cruzamento, sendo as rectas geradas a partir de dois pontos cada.<br>
-</li><li>[5:Ver Diagrama](#5:Ver_Diagrama) - é para ver o diagrama no gráfico da calculadora!<br>
-</li><li>[6:Obter hs e hl](#6:Obter_hs_e_hl) - permite calcular as entalpias sensível e latente a partir de dois pontos.<br>
-</li><li>[7:Inform. dos pontos](#7:Inform._dos_pontos) - permite ver toda a informação correspondente a cada ponto. A informação mostrada é: o nome do ponto, Temperatura, humidade específica, Pressão do vapor, Humidade Relativa e Entalpia.<br>
-</li><li>[8:Apagar Todos](#8:Apagar_Todos) - trata-se de apagar a lista dos pontos. A informação dos pontos fica registada nas variáveis <b>b_numpt</b> e <b>b_pontos</b>.<br>
-</li><li>[9:DiagPsi: Para Trás](#9:DiagPsi:_Para_Tras)
-</li><li>[A:Psicrometria: Sair](#A:Psicrometria:_Sair)
-</li><li>[B:Fazer umas contas](#B:Fazer_umas_contas)</li></ul>
+<ul><li>[1:Adicionar pontos](#1:adicionar-pontos) - esta é a primeira etapa na utilização de um diagrama psicrométrico.<br>
+</li><li>[2:Alterar pontos](#2:alterar-pontos) - permite alterar os pontos adicionados.<br>
+</li><li>[3:Remover pontos](#3:remover-pontos) - permite remover os pontos adicionados.<br>
+</li><li>[4:Intersectar rectas](#4:intersectar-rectas) - permite traçar o cruzamento de duas rectas e obter o ponto de cruzamento, sendo as rectas geradas a partir de dois pontos cada.<br>
+</li><li>[5:Ver Diagrama](#5:ver-diagrama) - é para ver o diagrama no gráfico da calculadora!<br>
+</li><li>[6:Obter hs e hl](#6:obter-hs-e-hl) - permite calcular as entalpias sensível e latente a partir de dois pontos.<br>
+</li><li>[7:Inform. dos pontos](#7:inform.-dos-pontos) - permite ver toda a informação correspondente a cada ponto. A informação mostrada é: o nome do ponto, Temperatura, humidade específica, Pressão do vapor, Humidade Relativa e Entalpia.<br>
+</li><li>[8:Apagar Todos](#8:apagar-todos) - trata-se de apagar a lista dos pontos. A informação dos pontos fica registada nas variáveis <b>b_numpt</b> e <b>b_pontos</b>.<br>
+</li><li>[9:DiagPsi: Para Trás](#9:diagpsi:-para-tras)
+</li><li>[A:Psicrometria: Sair](#a:psicrometria:-sair)
+</li><li>[B:Fazer umas contas](#b:fazer-umas-contas)</li></ul>
 
 <br>
 ###1:Adicionar pontos
@@ -124,7 +124,7 @@ Os seguintes dois ecrãs mostram um exemplo de como adicionar um ponto, a partir
 <table><thead><th> Definir a humidade relativa em fracção ou razão, ou seja não percentualmente; e da temperatura, dentro dos limites estipulados. </th><th> Resultado para as opções seleccionadas. O ponto fica sempre definido pela temperatura e pela massa específica. </th></thead><tbody>
 <tr><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_18.png' />                                    </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_19.png' />                  </td></tr></tbody></table>
 
-<b>NOTA IMPORTANTE</b>: Como os pontos ficam armazenados pela definição de temperatura e massa específica, é possível alterar a <i>pressão do sistema</i> sem perda de caracterização ([1:Pressão(bar):x.xxx](#1:Pressao(bar):x.xxx)), <b>mas somente</b> se os pontos todos foram adicionados com o par temperatura e massa específica! Caso contrário terão de alterar os pontos já adicionados, para corrigir os valores respectivos!<br>
+<b>NOTA IMPORTANTE</b>: Como os pontos ficam armazenados pela definição de temperatura e massa específica, é possível alterar a <i>pressão do sistema</i> sem perda de caracterização ([1:Pressão(bar):x.xxx](#1:pressao(bar):x.xxx)), <b>mas somente</b> se os pontos todos foram adicionados com o par temperatura e massa específica! Caso contrário terão de alterar os pontos já adicionados, para corrigir os valores respectivos!<br>
 <br>
 <br>
 ###2:Alterar pontos
@@ -142,7 +142,7 @@ Estes dois seguintes mostram a opção de criar e intersectar duas rectas de mod
 <table><thead><th> De notar que se escolhe os pontos que definem cada recta pelos nomes atribuídos. Daí dar jeito ter um diagrama desenhado numa folha de papel. </th><th> Depois de escolhidos os pontos que definem cada recta, eis um exemplo de resultado: </th></thead><tbody>
 <tr><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_22.png' />                                                </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_23.png' /> </td></tr></tbody></table>
 
-Se se quiser adicionar o ponto de intersecção, é só ir à opção [1:Adicionar pontos](#1:Adicionar_pontos) e escolher "2: Definir com w e T". Só assim se depois pode observar todas as propriedades que o definem.<br>
+Se se quiser adicionar o ponto de intersecção, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "2: Definir com w e T". Só assim se depois pode observar todas as propriedades que o definem.<br>
 <br>
 <br>
 ###5:Ver Diagrama
@@ -156,7 +156,7 @@ Estes dois abaixo mostram o antes e o depois quando se escolhe a opção de obte
 <table><thead><th> Escolhem-se dois pontos diferentes para os cálculos. </th><th> Exemplo dos resultados obtidos e do ponto intermédio correspondente ao cálculo efectuado. </th></thead><tbody>
 <tr><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_26.png' /> </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_27.png' /> </td></tr></tbody></table>
 
-Se se quiser adicionar este ponto intermédio, é só ir à opção [1:Adicionar pontos](#1:Adicionar_pontos) e escolher "2: Definir com w e T". Só assim se depois pode observar todas as propriedades que o definem.<br>
+Se se quiser adicionar este ponto intermédio, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "2: Definir com w e T". Só assim se depois pode observar todas as propriedades que o definem.<br>
 <br>
 <br>
 ###7:Inform. dos pontos

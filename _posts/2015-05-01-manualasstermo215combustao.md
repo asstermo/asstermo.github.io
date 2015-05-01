@@ -13,17 +13,17 @@ Este assistente vem completar a parte que faltava para a parte de Combustão. O 
 
 Cada uma destas opções tem uma secção dedicada:
 
-  * [1:Prop. Gases Ideais](#1:Prop._Gases_Ideais) – acesso à tabela das propriedades (T em K; h, u e s<sub>0</sub>, em kJ/kmol) dos gases ideais CO<sub>2</sub>, CO, H<sub>2</sub>O, N<sub>2</sub> e O<sub>2</sub>.
-  * [2:Prop. TermoQuim.](#2:Prop._TermoQuim.) – acesso à tabela das propriedades termoquímicas (h<sup>0</sup><sub>f</sub>, gibbs, HHV, LHV...) de várias moléculas, a 298K e 1bar.
-  * [3:Log10(K)](#3:Log10(K)) – acesso à tabela com os valores de Log<sub>10</sub>(K) para várias equações e várias temperaturas.
-  * [4:Modo(T\V):Valores](#4:Modo(T\V):Valores) – muda entre modos de visualização de tabelas: “Valores” procura e obtém os valores da tabela, e “Tabela” dá acesso à tabela.
-  * [5:Solver Químico](#5:Solver_Quimico) – Solver Químico dá acesso a outra parte da combustão: _Construção_ da Equação Química e cálculos _estequiométricos_ e acerto de contas; e cálculo das entalpias molares e totais dos Reagentes e dos Produtos! Este último permite fazer iteração manual!
-  * [6:ASSComb: Sair](#6:ASSComb:_Sair) – Sair deste Assistente, nomeadamente o de Combustão!
-  * [7:Fazer umas contas](#7:Fazer_umas_contas) e [8:Interpolações](#8:Interpolacoes) são já _velhos conhecidos_...
+  * [1:Prop. Gases Ideais](#1:prop.-gases-ideais) – acesso à tabela das propriedades (t em k; h, u e s<sub>0</sub>, em kj/kmol) dos gases ideais CO<sub>2</sub>, CO, H<sub>2</sub>O, N<sub>2</sub> e O<sub>2</sub>.
+  * [2:Prop. TermoQuim.](#2:prop.-termoquim.) – acesso à tabela das propriedades termoquímicas (h<sup>0</sup><sub>f</sub>, gibbs, hhv, lhv...) de várias moléculas, a 298K e 1bar.
+  * [3:Log10(K)](#3:log10(k)) – acesso à tabela com os valores de log<sub>10</sub>(k) para várias equações e várias temperaturas.
+  * [4:Modo(T\V):Valores](#4:modo(t\v):valores) – muda entre modos de visualização de tabelas: “Valores” procura e obtém os valores da tabela, e “Tabela” dá acesso à tabela.
+  * [5:Solver Químico](#5:solver-quimico) – Solver Químico dá acesso a outra parte da combustão: _Construção_ da Equação Química e cálculos _estequiométricos_ e acerto de contas; e cálculo das entalpias molares e totais dos Reagentes e dos Produtos! Este último permite fazer iteração manual!
+  * [6:ASSComb: Sair](#6:asscomb:-sair) – Sair deste Assistente, nomeadamente o de Combustão!
+  * [7:Fazer umas contas](#7:fazer-umas-contas) e [8:interpolações](#8:interpolacoes) são já _velhos conhecidos_...
 
 <br>
 ##1:Prop. Gases Ideais
-Em modo <b>Valores</b> (ver [4:Modo(T\V):Valores](#4:Modo(T\V):Valores)) é mostrado o seguinte:<br>
+Em modo <b>Valores</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) é mostrado o seguinte:<br>
 <br>
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_02.png' />
 
@@ -36,7 +36,7 @@ Obtém-se por exemplo:<br>
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_03.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_04.png' /> </th></thead><tbody>
 <tr><td> Este ecrã indica que está em cálculos...                                                   </td><td> E este mostra os resultados encontrados!<br><b>h0f</b> é a entalpia de formação.<br><b>h(298K ref)</b> é o valor da entalpia total da molécula, com a referência da temperatura em 298K: h<sub>298K ref</sub> = h<sup>0</sup><sub>f</sub> + h<sub>298K</sub> </td></tr></tbody></table>
 
-Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:Modo(T\V):Valores)) mostra o seguinte:<br>
+Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra o seguinte:<br>
 <br>
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_05.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_06.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_07.png' /> </th></thead><tbody>
 <tr><td> Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela.              </td><td> Neste escolhe-se o gás, a temperatura onde começa a listar e quantas entradas listar. Quantas menos listar, mais rápido o acesso! As temperaturas que se podem escolher são de intervalos de 6 em 6 (por exemplo:300,360,420, em vez de 300,310,320...410,420), por forma ao programa correr mais depressa. </td><td> Uma vez escolhido, mostra o seguinte a imagem acima. Notar o título minúsculo da caixa de diálogo... mostra o gás escolhido e a entalpia de formação! </td></tr></tbody></table>
@@ -63,7 +63,7 @@ Permite ainda continuar a procurar valores, como se pode reparar nas três opç�
 <br>
 <br>
 ##3:Log10(K)
-Em modo <b>Valores</b> (ver [4:Modo(T\V):Valores](#4:Modo(T\V):Valores)) é mostrado o seguinte:<br>
+Em modo <b>Valores</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) é mostrado o seguinte:<br>
 <br>
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_10.png' />
 
@@ -71,7 +71,7 @@ Escolha a <b>Fórmula</b> pela qual quer procurar (não deu para apresentar toda
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_11.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_12.png' /> </th></thead><tbody>
 <tr><td> Este ecrã indica que está em cálculos...                                                   </td><td> Uma vez encontrado, aqui mostra os valores encontrados.                                       </td></tr></tbody></table>
 
-Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:Modo(T\V):Valores)) mostra o seguinte:<br>
+Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra o seguinte:<br>
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_13.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_14.png' /> </th></thead><tbody>
 <tr><td> Aqui escolhe-se também a fórmula, por qual temperatura começar e quantas entradas mostrar. Neste, ao contrário das outras tabelas, permite ver 2x2 colunas ao mesmo tempo, logo permite até 16 entradas! </td><td> O <img src='http://asstermo.github.io/img215/2verticalbars.png' /> é o <i>separador central</i> das 2x2 colunas. Notar que no título mostra a fórmula completa! </td></tr></tbody></table>
 
@@ -89,14 +89,14 @@ O menu seguinte é mostrado:</li></ul>
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_15.png' />
 
 Cada opção do menu tem uma sub-secção dedicada:<br>
-<ul><li>[1:Equacao: R0 P0](#1:Equacao:_R0_P0) – 0 reagentes e 0 produtos estão na equação. Dá acesso ao editor e solver de fórmulas (equilibra as equações químicas);<br>
-</li><li>[2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot) – calcula as entalpias dos reagentes e/ou produtos, das moléculas (kJ/kmol) e de totais (kJ).<br>
-</li><li>[3:Calc.Temp.Intermed](#3:Calc.Temp.Intermed) – significa "Calcular a temperatura intermédia", ou seja, interpolar a temperatura onde deverá estar o equíbrio químico.<br>
-</li><li>[4:Ver EntalpListadas](#4:Ver_EntalpListadas) – Permite aceder à informação gravada das entalpias já calculadas. Útil para auxiliar nas iterações manuais!<br>
-</li><li>[5:Apagar Entalpias](#5:Apagar_Entalpias) – Apaga todas as entalpias calculadas. Uma a uma dava muito trabalho, visto que há muita informação para ver!!!<br>
-</li><li>[6:SolverQ: Para trás](#6:SolverQ:_Para_tras) – voltar ao menu anterior.<br>
+<ul><li>[1:Equacao: R0 P0](#1:equacao:-r0-p0) – 0 reagentes e 0 produtos estão na equação. dá acesso ao editor e solver de fórmulas (equilibra as equações químicas);<br>
+</li><li>[2:Calc.Entalpias Tot](#2:calc.entalpias-tot) – calcula as entalpias dos reagentes e/ou produtos, das moléculas (kj/kmol) e de totais (kj).<br>
+</li><li>[3:Calc.Temp.Intermed](#3:calc.temp.intermed) – significa "Calcular a temperatura intermédia", ou seja, interpolar a temperatura onde deverá estar o equíbrio químico.<br>
+</li><li>[4:Ver EntalpListadas](#4:ver-entalplistadas) – Permite aceder à informação gravada das entalpias já calculadas. Útil para auxiliar nas iterações manuais!<br>
+</li><li>[5:Apagar Entalpias](#5:apagar-entalpias) – Apaga todas as entalpias calculadas. Uma a uma dava muito trabalho, visto que há muita informação para ver!!!<br>
+</li><li>[6:SolverQ: Para trás](#6:solverq:-para-tras) – voltar ao menu anterior.<br>
 </li><li>[7:AssCombustao:<i>Sair 7:AssCombustao: Sair] – Sair do Assistente de Combustão.<br>
-</li><li>[8:Fazer umas contas](#8:Fazer_umas_contas) e [9:Interpolações](#9:Interpolacoes) são os já conhecidos, que</i>andam por aqui<i>porque nunca se sabe quando poderão vir a serem necessários.</li></ul></i>
+</li><li>[8:Fazer umas contas](#8:fazer-umas-contas) e [9:interpolações](#9:interpolacoes) são os já conhecidos, que</i>andam por aqui<i>porque nunca se sabe quando poderão vir a serem necessários.</li></ul></i>
 
 <br>
 ###1:Equacao: <code>R0</code> <code>P0</code>
@@ -105,15 +105,15 @@ Este é o Assistente de Química para Combustão. O seguinte menu é mostrado:<b
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_16.png' />
 
 Cada opção do menu tem uma sub-secção dedicada, apesar que algumas são aglomeradas por serem muito semelhantes:<br>
-<ul><li>[1:Adic.Reagentes: 0](#1:Adic.Reagentes:_0) – Permite adicionar moléculas ao lado dos reagentes;<br>
-</li><li>[2:Adic.Produtos: 0](#2:Adic.Produtos:_0) – Permite adicionar moléculas ao lado dos produtos;<br>
-</li><li>[3:Alterar Reagentes](#3:Alterar_Reagentes) e [5:Alterar Produtos](#5:Alterar_Produtos) – Permitem alterar as características das moléculas inseridas em cada um dos lados da equação;<br>
-</li><li>[4:Remover Reagentes](#4:Remover_Reagentes) e [6:Remover Produtos](#6:Remover_Produtos) – Permitem remover moléculas de cada lado.<br>
-</li><li>[7:Ver Equações](#7:Ver_Equacoes) – Ver se está tudo como está na folha que está à vossa frente;<br>
-</li><li>[8:Solve Incognitas](#8:Solve_Incognitas) – Resolver as incógnitas das equações.<br>
-</li><li>[9:Apagar Equações](#9:Apagar_Equacoes) – Apagar cada lado da equação por completo.<br>
-</li><li>[A:Equacao Quim: Sair](#A:Equacao_Quim:_Sair) – Sair do editor de equações/fórmulas químicas.<br>
-</li><li>[B:Fazer umas contas](#B:Fazer_umas_contas) – já o habitualmente conhecido...</li></ul>
+<ul><li>[1:Adic.Reagentes: 0](#1:adic.reagentes:-0) – Permite adicionar moléculas ao lado dos reagentes;<br>
+</li><li>[2:Adic.Produtos: 0](#2:adic.produtos:-0) – Permite adicionar moléculas ao lado dos produtos;<br>
+</li><li>[3:Alterar Reagentes](#3:alterar-reagentes) e [5:alterar produtos](#5:alterar-produtos) – Permitem alterar as características das moléculas inseridas em cada um dos lados da equação;<br>
+</li><li>[4:Remover Reagentes](#4:remover-reagentes) e [6:remover produtos](#6:remover-produtos) – Permitem remover moléculas de cada lado.<br>
+</li><li>[7:Ver Equações](#7:ver-equacoes) – Ver se está tudo como está na folha que está à vossa frente;<br>
+</li><li>[8:Solve Incognitas](#8:solve-incognitas) – Resolver as incógnitas das equações.<br>
+</li><li>[9:Apagar Equações](#9:apagar-equacoes) – Apagar cada lado da equação por completo.<br>
+</li><li>[A:Equacao Quim: Sair](#a:equacao-quim:-sair) – Sair do editor de equações/fórmulas químicas.<br>
+</li><li>[B:Fazer umas contas](#b:fazer-umas-contas) – já o habitualmente conhecido...</li></ul>
 
 <br>
 ####1:Adic.Reagentes: 0
@@ -200,7 +200,7 @@ Se pretender apagar as equações, as seguintes 2 caixas serão mostradas (uma d
 
 <br>
 ####A:Equacao Quim: Sair
-Esta opção fará sair do Assistente de Química para Combustão e voltará ao Assistente de Combustão, nomeadamente para o menu principal do [5:Solver Químico](#5:Solver_Quimico).<br>
+Esta opção fará sair do Assistente de Química para Combustão e voltará ao Assistente de Combustão, nomeadamente para o menu principal do [5:Solver Químico](#5:solver-quimico).<br>
 <br>
 <br>
 ####B:Fazer umas contas
@@ -241,7 +241,7 @@ Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:<br>
 <br>
 <br>
 ###3:Calc.Temp.Intermed
-Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot): as entalpias totais não são iguais e a dos produtos é fixa. Aí é que pode ajudar esta opção [3:Calc.Temp.Intermed](#3:Calc.Temp.Intermed). Assumindo que o problema a resolver é encontrar a temperatura dos reagentes, recorre-se à opção [2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot) novamente, calcula-se mais uma vez a parte dos reagentes para outra temperatura e grava-se a informação, como demonstrado a seguir:<br>
+Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:calc.entalpias-tot): as entalpias totais não são iguais e a dos produtos é fixa. aí é que pode ajudar esta opção [3:calc.temp.intermed](#3:calc.temp.intermed). assumindo que o problema a resolver é encontrar a temperatura dos reagentes, recorre-se à opção [2:calc.entalpias tot](#2:calc.entalpias-tot) novamente, calcula-se mais uma vez a parte dos reagentes para outra temperatura e grava-se a informação, como demonstrado a seguir:<br>
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_46.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_47.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_48.png' /> </th></thead><tbody>
 <tr><td> Calcular só o lado dos reagentes.                                                            </td><td> Escolher uma temperatura mais baixa (ou alta, dependendo do caso).                            </td><td> Obtém-se os primeiros resultados gerais. <b>OK</b> para continuar.                           </td></tr></tbody></table>
 
@@ -249,7 +249,7 @@ Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot):
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_49.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_50.png' /> </th></thead><tbody>
 <tr><td> São mostradas as entalpias por molécula.                                                    </td><td> <b>OK</b> para gravar os resultados.                                                          </td></tr></tbody></table>
 
-Uma vez isto feito, vai-se à opção [3:Calc.Temp.Intermed](#3:Calc.Temp.Intermed). O seguinte processo se decorrerá:<br>
+Uma vez isto feito, vai-se à opção [3:Calc.Temp.Intermed](#3:calc.temp.intermed). O seguinte processo se decorrerá:<br>
 <table><thead><th> É mostrada uma caixa de diálogo a explicar o procedimento: </th><th> É mostrada uma caixa a seguir a avisar a fase em curso. </th><th> Depois escolhe-se a 2 opção do <b>H<sub>reag</sub></b>: </th></thead><tbody>
 <tr><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_51.png' /> </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_52.png' /> </td><td>  <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_53.png' /> </td></tr></tbody></table>
 
@@ -297,11 +297,11 @@ Uma vez vista a informação, chega-se à caixa inicial para se poder ver outras
 <br>
 <br>
 ###5:Apagar Entalpias
-Aqui não há <i>grande ciência</i>. O interface é semelhante ao da opção [4:Ver EntalpListadas](#4:Ver_EntalpListadas), mas desta vez é para remover resultados.<br>
+Aqui não há <i>grande ciência</i>. O interface é semelhante ao da opção [4:Ver EntalpListadas](#4:ver-entalplistadas), mas desta vez é para remover resultados.<br>
 <br>
 <br>
 ###6:SolverQ: Para tras
-Regressa ao menu anterior, nomeadamente o menu principal do [5:Solver Químico](#5:Solver_Quimico).<br>
+Regressa ao menu anterior, nomeadamente o menu principal do [5:Solver Químico](#5:solver-quimico).<br>
 <br>
 <br>
 ###7:AssCombustao: Sair
