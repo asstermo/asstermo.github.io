@@ -11,18 +11,19 @@ Este software foi concebido para auxiliar os estudantes com as disciplinas/cadei
 
 Para mais informações:
 
-  * [Mais sobre o Asstermo](SobreAsstermo.md)
-  * [Notícias](Noticias.md)
+  * [Mais sobre o Asstermo](/SobreAsstermo)
+  * [Notícias](/Noticias)
   * [@asstermo](https://twitter.com/asstermo) (Twitter)
-  * **[Versões Disponíveis (Downloads)](Downloads.md)**
-  * **[Manuais](Manuais.md)**
+  * **[Versões Disponíveis (Downloads)](/Downloads)**
+  * **[Manuais](/Manuais)**
+  * [Reportar bugs/problemas](https://github.com/asstermo/asstermo.github.io/issues)
 
 **NOTE to english readers**: This software is currently **not** available in English.
 
 <br />
 <h1>Comparação de versões</h1>
 
-| **Características** | [Asstermo-K](Downloads.md) | [Asstermo-D](Downloads.md) |
+| **Características** | [Asstermo-K](/Downloads) | [Asstermo-D](/Downloads) |
 | --- |:---:|:---:|
 | Calculadoras | TI-89 (Titanium) <br> TI-92 (Plus) <br> Voyage 200 | TI-nSpire |
 | AMS mínimo | 2.08 ou 3.08 | 3.XX |

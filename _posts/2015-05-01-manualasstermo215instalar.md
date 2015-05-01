@@ -17,7 +17,7 @@ Se fez o download deste programa da página [asstermo.no.sapo.pt](http://assterm
   1. Corra o programa **ASSTERMO\ZCOMPILE()** - ainda no _Var-Link_, carregue no **Z** e deve calhar mesmo em cima do **ZCOMPILE**; carregue em _Enter_ e depois no **)** e **Enter** de novo. Aguarde enquanto ele compila todos os programas e funções, por forma a todo o projecto correr em velocidade optimizada!
   1. Já tá pronto a correr! **ASSTERMO\ASSTERMO()** para correr o programa!
 
-Caso tenha dificuldades a instalar o Asstermo na calculadora, veja a página detalhada de [instalação](/Instalacao) (via wiki, ver [Notas sobre instalação](Instalacao.md)).
+Caso tenha dificuldades a instalar o Asstermo na calculadora, veja a página detalhada de [instalação](/Instalacao) (via wiki, ver [Notas sobre instalação](/Instalacao)).
 
 # Instrucoes de transferencia/copia para outra calculadora
 Existem duas soluções:
