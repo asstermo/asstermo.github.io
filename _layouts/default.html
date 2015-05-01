@@ -29,16 +29,10 @@
                     </div>
 
                     <div id=content class=span10>
-                        {% if page.toc %}
-                        <div id="toc"></div>
-                        {% endif %}
                         {{ content }}
                     </div>
                 {% else %}
                     <div id=content class=span12>
-                        {% if page.toc %}
-                        <div id="toc"></div>
-                        {% endif %}
                         {{ content }}
                     </div>
                 {% endif %}
@@ -147,7 +141,8 @@
                   linkifyAnchors(level, contentBlock);
                 }
               }
-            };        </script>
+            };
+        </script>
         {% if site.google_analytics_id != "" %}
         {% include google_analytics.html %}
         {% endif %}

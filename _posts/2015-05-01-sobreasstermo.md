@@ -5,7 +5,6 @@ category: about
 permalink: SobreAsstermo
 date: 2015-05-01 18:29:41
 order: 1
-toc: true
 ---
 
 ## Introdução
