@@ -96,7 +96,7 @@ Cada opção do menu tem uma sub-secção dedicada:<br>
 </li><li>[5:Apagar Entalpias](#5:Apagar_Entalpias) – Apaga todas as entalpias calculadas. Uma a uma dava muito trabalho, visto que há muita informação para ver!!!<br>
 </li><li>[6:SolverQ: Para trás](#6:SolverQ:_Para_tras) – voltar ao menu anterior.<br>
 </li><li>[7:AssCombustao:<i>Sair 7:AssCombustao: Sair] – Sair do Assistente de Combustão.<br>
-</li><li>[9:Interpolações](#8:Fazer_umas_contas'>8:Fazer umas contas</a> e <a href='#9:Interpolacoes) são os já conhecidos, que</i>andam por aqui<i>porque nunca se sabe quando poderão vir a serem necessários.</li></ul></i>
+</li><li>[8:Fazer umas contas](#8:Fazer_umas_contas) e [9:Interpolações](#9:Interpolacoes) são os já conhecidos, que</i>andam por aqui<i>porque nunca se sabe quando poderão vir a serem necessários.</li></ul></i>
 
 <br>
 ###1:Equacao: <code>R0</code> <code>P0</code>
@@ -107,8 +107,8 @@ Este é o Assistente de Química para Combustão. O seguinte menu é mostrado:<b
 Cada opção do menu tem uma sub-secção dedicada, apesar que algumas são aglomeradas por serem muito semelhantes:<br>
 <ul><li>[1:Adic.Reagentes: 0](#1:Adic.Reagentes:_0) – Permite adicionar moléculas ao lado dos reagentes;<br>
 </li><li>[2:Adic.Produtos: 0](#2:Adic.Produtos:_0) – Permite adicionar moléculas ao lado dos produtos;<br>
-</li><li>[5:Alterar Produtos](#3:Alterar_Reagentes'>3:Alterar Reagentes</a> e <a href='#5:Alterar_Produtos) – Permitem alterar as características das moléculas inseridas em cada um dos lados da equação;<br>
-</li><li>[6:Remover Produtos](#4:Remover_Reagentes'>4:Remover Reagentes</a> e <a href='#6:Remover_Produtos) – Permitem remover moléculas de cada lado.<br>
+</li><li>[3:Alterar Reagentes](#3:Alterar_Reagentes) e [5:Alterar Produtos](#5:Alterar_Produtos) – Permitem alterar as características das moléculas inseridas em cada um dos lados da equação;<br>
+</li><li>[4:Remover Reagentes](#4:Remover_Reagentes) e [6:Remover Produtos](#6:Remover_Produtos) – Permitem remover moléculas de cada lado.<br>
 </li><li>[7:Ver Equações](#7:Ver_Equacoes) – Ver se está tudo como está na folha que está à vossa frente;<br>
 </li><li>[8:Solve Incognitas](#8:Solve_Incognitas) – Resolver as incógnitas das equações.<br>
 </li><li>[9:Apagar Equações](#9:Apagar_Equacoes) – Apagar cada lado da equação por completo.<br>
@@ -204,7 +204,7 @@ Esta opção fará sair do Assistente de Química para Combustão e voltará ao 
 <br>
 <br>
 ####B:Fazer umas contas
-Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
 <br>
 <br>
 ###2:Calc.Entalpias Tot
@@ -241,7 +241,7 @@ Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:<br>
 <br>
 <br>
 ###3:Calc.Temp.Intermed
-Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot'>2:Calc.Entalpias Tot</a>: as entalpias totais não são iguais e a dos produtos é fixa. Aí é que pode ajudar esta opção <a href='#3:Calc.Temp.Intermed'>3:Calc.Temp.Intermed</a>. Assumindo que o problema a resolver é encontrar a temperatura dos reagentes, recorre-se à opção <a href='#2:Calc.Entalpias_Tot) novamente, calcula-se mais uma vez a parte dos reagentes para outra temperatura e grava-se a informação, como demonstrado a seguir:<br>
+Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot): as entalpias totais não são iguais e a dos produtos é fixa. Aí é que pode ajudar esta opção [3:Calc.Temp.Intermed](#3:Calc.Temp.Intermed). Assumindo que o problema a resolver é encontrar a temperatura dos reagentes, recorre-se à opção [2:Calc.Entalpias Tot](#2:Calc.Entalpias_Tot) novamente, calcula-se mais uma vez a parte dos reagentes para outra temperatura e grava-se a informação, como demonstrado a seguir:<br>
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_46.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_47.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_48.png' /> </th></thead><tbody>
 <tr><td> Calcular só o lado dos reagentes.                                                            </td><td> Escolher uma temperatura mais baixa (ou alta, dependendo do caso).                            </td><td> Obtém-se os primeiros resultados gerais. <b>OK</b> para continuar.                           </td></tr></tbody></table>
 
@@ -309,11 +309,11 @@ Permite sair do Assistente de Combustão.<br>
 <br>
 <br>
 ###8:Fazer umas contas
-Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
 <br>
 <br>
 ###9:Interpolacoes
-Já foi descrito antes no capítulo de [A:Interpolações](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#A:Interpolacoes).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [A:Interpolações](/ManualAsstermo215Agua#A:Interpolacoes).<br>
 <br>
 <br>
 ##6:ASSComb: Sair
@@ -321,8 +321,8 @@ Permite sair do Assistente de Combustão.<br>
 <br>
 <br>
 ##7:Fazer umas contas
-Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
 <br>
 <br>
 ##8:Interpolacoes
-Já foi descrito antes no capítulo de [A:Interpolações](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#A:Interpolacoes).
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [A:Interpolações](/ManualAsstermo215Agua#A:Interpolacoes).
