@@ -41,6 +41,7 @@ As variáveis <b>b_par</b>, <b>b_pontos</b> e <b>b_numpt</b> são as associadas 
 E todas a começadas por <b>b</b> serão arquivadas na pasta TERMOSAV!<br>
 <br>
 Na seguinte tabela está a lista de ficheiros na calculadora necessários que estejam na pasta <b>ASSTERMO</b>:<br>
+| | | | |
 |:----:|:-----:|:-----:|:----:|
 | ainterpd | h2o_vs | pakpro18 | ps_w_hrt |
 | ajuda | h2o_vst | pakr22a7 | ps_w_mav |
