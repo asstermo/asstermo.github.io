@@ -33,7 +33,7 @@ Na figura seguinte estão as opções disponíveis para a água:
 
 ---
 
-## 1:Proc. Por P e/ou T
+### 1:Proc. Por P e/ou T
 O menu seguinte é apresentado:
 
 ![http://asstermo.github.io/img215/ManualAsstermo215Agua_02.png](http://asstermo.github.io/img215/ManualAsstermo215Agua_02.png)

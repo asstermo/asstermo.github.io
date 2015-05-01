@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:40
 order: 13
 ---
 
-# Notas finais
+## Notas finais
 
 Espero ter sido elucidativo quanto ao como utilizar este programa. Links úteis:
   * Página online do Asstermo: http://code.google.com/p/asstermo/

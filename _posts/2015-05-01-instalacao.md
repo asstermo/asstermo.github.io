@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:40
 order: 2
 ---
 
-# Asstermo-K (TI-89/92/200)
+## Asstermo-K (TI-89/92/200)
 
 Passos detalhados sobre como instalar o Asstermo-K numa TI-89, que deverá servir minimamente para as TI-92 e Voyage 200.
 
@@ -19,7 +19,7 @@ São necessárias três fases de instalação:
   1. [Transferir o pacote](#Transferir_o_pacote)
   1. [Finalizar a instalação](#Finalizar_a_instalacao)
 
-## Arrumar a memoria
+### Arrumar a memoria
 A primeira fase serve para arrumar a memória da calculadora. Isto porque o Asstermo-K requer cerca de 180kB para se instalar e 150kB de RAM para funcionar normalmente.
 
 Portanto, tem-se de arquivar os ficheiros todos na calculadora. Para tal:
