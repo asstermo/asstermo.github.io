@@ -27,7 +27,7 @@ Repositórios disponíveis:<br>
 <br>
 <h1>Variantes do Asstermo</h1>
 Quanto ao ambiente de desenvolvimento e como desenvolver para cada variante, ver a página correspondente:<br>
-<ul><li><a href='DesenvolvimentoAsstermoK.md'>Asstermo K</a> - esta é a versão original.<br>
-</li><li><a href='DesenvolvimentoAsstermoD.md'>Asstermo D</a> - esta é a variante <code>Document</code> para TI-nSpire.<br>
-</li><li><a href='DesenvolvimentoAsstermoN.md'>Asstermo N</a> - esta é a variante <code>Ndless</code> para TI-nSpire.</li>
+<ul><li><a href='/DesenvolvimentoAsstermoK.md'>Asstermo K</a> - esta é a versão original.<br>
+</li><li><a href='/DesenvolvimentoAsstermoD.md'>Asstermo D</a> - esta é a variante <code>Document</code> para TI-nSpire.<br>
+</li><li><a href='/DesenvolvimentoAsstermoN.md'>Asstermo N</a> - esta é a variante <code>Ndless</code> para TI-nSpire.</li>
 </ul>

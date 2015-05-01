@@ -19,7 +19,7 @@ Este texto divide-se nos seguintes capítulos:
 
 <br>
 <h1>Acesso ao codigo</h1>
-Ver secção <a href='DesenvolvimentoSoftware#Acesso_ao_codigo'>Acesso ao código</a> na página <i>parente</i>.<br>
+Ver secção <a href='/DesenvolvimentoSoftware#Acesso_ao_codigo'>Acesso ao código</a> na página <i>parente</i>.<br>
 <br>
 <br>
 <h1>Desenvolvimento dos programas e funcoes em TI-Basic 68k</h1>

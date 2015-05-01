@@ -37,17 +37,17 @@ A partir da versão 1.34, agora tem o Assistente de Combustão, que tem as tabel
 <br>
 <h1>Por onde começar</h1>
 
-O melhor mesmo é ter um espírito aventureiro e começar a utilizar o programa! O programa está disponível <a href='Downloads.md'>aqui</a> e o manual <a href='Manuais.md'>aqui</a>. À medida que se vai aprendendo Termodinâmica e se vai sentindo as necessidades de obter valores das tabelas, é que se vê que este programa "sacia" essas necessidades! <b>No entanto</b>, <b>só</b> se trata de um <i>Assistente</i>, <b>não é um faz tudo</b>... ou seja, só calcula a informação a partir das tabelas, não calcula <i>trabalhos</i> e <i>calores</i>!<br>
+O melhor mesmo é ter um espírito aventureiro e começar a utilizar o programa! O programa está disponível <a href='/Downloads.md'>aqui</a> e o manual <a href='/Manuais.md'>aqui</a>. À medida que se vai aprendendo Termodinâmica e se vai sentindo as necessidades de obter valores das tabelas, é que se vê que este programa "sacia" essas necessidades! <b>No entanto</b>, <b>só</b> se trata de um <i>Assistente</i>, <b>não é um faz tudo</b>... ou seja, só calcula a informação a partir das tabelas, não calcula <i>trabalhos</i> e <i>calores</i>!<br>
 <br>
 <br>
 <h1>Informações Importantes</h1>
-As tabelas que este programa utiliza foram extraídas do livro "Fundamentals of Engineering Thermodynamics", 4ª edição. São elas as A-1(apenas parte), 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 23, 25 e 27. A utilização devida deste programa só deverá ser feita com a posse de qualquer uma das edições deste livro. Algumas correcções às tabelas tiveram de ser feitas, estando elas <a href='CorreccoesTabelas.md'>catalogadas aqui</a>.<br>
+As tabelas que este programa utiliza foram extraídas do livro "Fundamentals of Engineering Thermodynamics", 4ª edição. São elas as A-1(apenas parte), 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 23, 25 e 27. A utilização devida deste programa só deverá ser feita com a posse de qualquer uma das edições deste livro. Algumas correcções às tabelas tiveram de ser feitas, estando elas <a href='/CorreccoesTabelas.md'>catalogadas aqui</a>.<br>
 <br>
 Locais onde este livro pode ser adquirido: <a href='http://lmgtfy.com/?q=Fundamentals+of+Engineering+Thermodynamics'>Fundamentals of Engineering Thermodynamics, by Michael J. Moran and Howard N. Shapiro</a>.<br>
 <br>
 O Asstermo <b>não</b> é suportado pelos autores deste livro nem pela sua publicadora. Este programa tenta preencher uma lacuna no ensino de Termodinâmica, visto que os engenheiros têm mais em que se <i>preocupar</i> do que <i>andar a interpolar valores a torto e a direito</i>...<br>
 <br>
 <br>
-<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por mim <b>sozinho</b> neste programa. Para mais informações, ver os <a href='Manuais.md'>manuais</a>! Se tiver problemas com o programa, utilize a zona dedicada deste site: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues</a>.<br>
+<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por mim <b>sozinho</b> neste programa. Para mais informações, ver os <a href='/Manuais.md'>manuais</a>! Se tiver problemas com o programa, utilize a zona dedicada deste site: <a href='https://github.com/asstermo/asstermo.github.io/issues'>Issues</a>.<br>
 <br>
 <b>NOTE</b>: this software project still doesn't have an English version.

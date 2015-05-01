@@ -24,7 +24,7 @@ Devido a ser possível criar estas duas variantes, o "-ARM" não será usado par
 
 <br>
 <h1>Possibilidades existentes</h1>
-<ul><li>A TI-nSpire (mas não a TI-nSpire CAS) tem um emulador de TI-84 integrado, por isso quando se conseguir ter uma variante para as TI-83/84, então deve ser possível automaticamente ter nas TI-nSpire. Portanto, acompanhem também o que vai <a href='Calha_TI83_84.md'>na calha para as TI-83/84</a>.<br>
+<ul><li>A TI-nSpire (mas não a TI-nSpire CAS) tem um emulador de TI-84 integrado, por isso quando se conseguir ter uma variante para as TI-83/84, então deve ser possível automaticamente ter nas TI-nSpire. Portanto, acompanhem também o que vai <a href='/Calha_TI83_84.md'>na calha para as TI-83/84</a>.<br>
 </li><li>Usar o sistema de "documentos e folhas de cálculo" que as nSpire utilizam. Basicamente seria como ter uma ou mais folhas de Excel na calculadora, mas face ao número elevado de tabelas que são precisas, não sei se as nSpire se irão <i>aguentar nas canetas</i>...<br>
 </li><li>Recorrer ao Ndless para todo ou a maioria do sistema: <a href='http://hackspire.unsads.com/wiki/index.php/Main_Page'>Ndless wiki</a></li></ul>
 
