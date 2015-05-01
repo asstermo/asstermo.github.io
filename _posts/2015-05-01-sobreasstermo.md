@@ -5,9 +5,8 @@ category: about
 permalink: SobreAsstermo
 date: 2015-05-01 18:29:41
 order: 1
+toc: true
 ---
-
-{:toc}
 
 ## Introdução
 O Asstermo - nome completo: Assistente de Termodinâmica; fonética: A.S.S.Termo - foi concebido para as calculadoras gráficas **TI-89 (Titanium)**, **TI-92 (+)** e **Voyage 200**. O software em si é gratuito, mas aconselha-se que na sua utilização (e consequente validação) das tabelas se tenha o livro "Fundamentals of Engineering Thermodynamics, by Michael J. Moran and Howard N. Shapiro".
