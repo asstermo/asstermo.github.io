@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:39
 order: 3
 ---
 
-# Introdução
+## Introdução
 
 Neste momento **existem** planos para criar uma variante do Asstermo para as TI-nSpire. Estas calculadoras são na realidade as mais potentes que a TI alguma vez criou até agora, mas eles cometeram um erro crasso do ponto de vista do utilizador autodidacta: é _legalmente_ impossível de utilizar a calculadora para além das limitações que eles impuseram sobre esta. E não existe SDK para estas: [página de SDKs da TI](http://education.ti.com/educationportal/sites/US/productCategory/us_sdk.html)
 
