@@ -9,7 +9,7 @@ order: 3
 
 **NOTA**: Neste momento este artigo ainda é só um esboço e espaço de apontamentos.
 
-## Introducao
+# Introducao
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 
 Este texto divide-se nos seguintes capítulos:

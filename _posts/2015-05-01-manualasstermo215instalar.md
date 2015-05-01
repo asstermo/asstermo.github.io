@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:40
 order: 4
 ---
 
-## Instrucoes de Instalacao
+# Instrucoes de Instalacao
 Se fez o download deste programa da página [asstermo.no.sapo.pt](http://asstermo.no.sapo.pt) ou [asstermo no code.google](http://code.google.com/p/asstermo/) e transferiu para a calculadora, trate de executar os seguintes passos:
   1. Arquivar os ficheiros todos na calculadora. Para tal:
     1. **2nd** + **–** para aceder ao _Var-Link_, vá até à pasta **ASSTERMO** e carregue no **F4** quando a selecção estiver sobre o nome da pasta **ASSTERMO**;
@@ -19,7 +19,7 @@ Se fez o download deste programa da página [asstermo.no.sapo.pt](http://assterm
 
 Caso tenha dificuldades a instalar o Asstermo na calculadora, veja a página detalhada de [instalação](/Instalacao) (via wiki, ver [Notas sobre instalação](/Instalacao)).
 
-## Instrucoes de transferencia/copia para outra calculadora
+# Instrucoes de transferencia/copia para outra calculadora
 Existem duas soluções:
   1. Utilizar o **F3:Link\Send** que está no _Var-Link_;
   1. Utilizar o programa **ASSTERMO\ZCOPIAR()**.

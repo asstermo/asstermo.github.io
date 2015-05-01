@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:40
 order: 8
 ---
 
-## Notas finais
+# Notas finais
 
 Este manual ainda está em desenvolvimento. Links úteis:
   * Página online do Asstermo: http://asstermo.github.io

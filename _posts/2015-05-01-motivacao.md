@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:41
 order: 2
 ---
 
-## Motivação
+# Motivação
 Este programa "Assistente de Termodinâmica", composto por cento e pouco ficheiros, que tem de estar obrigatoriamente na pasta "asstermo", foi desenvolvido por mim como resultado de ter saído extremamente chateado do segundo exame de Termodinâmica II, que eu pensava que não ia passar... mas que acabei por passar com 12.
 
 
@@ -21,7 +21,7 @@ Aproveitem bem as 2h30 do exame!!!
 Ass.: Bruno M. S. Santos, 12/09/2004
 
 
-## Motivação do nome "Asstermo"
+# Motivação do nome "Asstermo"
 Como facilmente se pode observar, o nome Asstermo surgiu do nome "Assistente de Termodinâmica". No entanto, em inglês pode existir uma interpretação secundária. No entanto, visto que este não é o primeiro nem último nome _infeliz_ no mundo, eis a [lista no wikipédia](http://en.wikipedia.org/wiki/Ass).
 
 O objectivo máximo do nome era para que o programa fosse o primeiro ou dos primeiros na lista de pastas nas calculadores, evitando assim longo tempos de procura pela dita pasta e ficheiro de arranque.
