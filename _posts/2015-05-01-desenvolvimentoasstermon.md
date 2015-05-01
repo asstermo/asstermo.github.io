@@ -4,6 +4,7 @@ title: "Desenvolvimento do Asstermo-N"
 category: dev
 permalink: /DesenvolvimentoAsstermoN.md
 date: 2015-05-01 18:29:40
+order: 4
 ---
 
 **NOTA**: Neste momento este artigo ainda é só um esboço e espaço de apontamentos.

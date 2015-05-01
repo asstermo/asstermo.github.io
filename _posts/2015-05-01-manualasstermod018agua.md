@@ -4,6 +4,7 @@ title: "Asstermo-D-Agua"
 category: docd
 permalink: /ManualAsstermoD018Agua.md
 date: 2015-05-01 18:29:40
+order: 6
 ---
 
 Abra o documento `Asstermo-D-Agua`. Deverá aparecer o seguinte ecrã:

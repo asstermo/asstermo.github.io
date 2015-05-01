@@ -4,6 +4,7 @@ title: "Opção 9: Tabela do ar"
 category: dock
 permalink: /ManualAsstermo215Ar.md
 date: 2015-05-01 18:29:40
+order: 11
 ---
 
 A tabela do ar (A-22) indica as seguintes propriedades:

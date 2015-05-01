@@ -4,6 +4,7 @@ title: "Na calha para as TI-nSpire"
 category: todo
 permalink: /Calha_TInSpire.md
 date: 2015-05-01 18:29:39
+order: 3
 ---
 
 # Introdução

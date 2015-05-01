@@ -4,6 +4,7 @@ title: "Opção A: Assistente de Combustão"
 category: dock
 permalink: /ManualAsstermo215Combustao.md
 date: 2015-05-01 18:29:40
+order: 12
 ---
 
 Este assistente vem completar a parte que faltava para a parte de Combustão. O menu seguinte é o primeiro a ser apresentado:

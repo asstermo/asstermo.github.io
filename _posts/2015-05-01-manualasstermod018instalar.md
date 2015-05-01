@@ -4,6 +4,7 @@ title: "Instruções de Instalação"
 category: docd
 permalink: /ManualAsstermoD018Instalar.md
 date: 2015-05-01 18:29:40
+order: 4
 ---
 
 # Instrucoes de Instalacao

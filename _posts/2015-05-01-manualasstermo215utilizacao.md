@@ -4,6 +4,7 @@ title: "Instruções de utilização do ASSTERMO"
 category: dock
 permalink: /ManualAsstermo215Utilizacao.md
 date: 2015-05-01 18:29:40
+order: 5
 ---
 
 Corra o programa **ASSTERMO\ASSTERMO()**. Na figura seguinte é possível ver as seguintes hipóteses disponíveis:

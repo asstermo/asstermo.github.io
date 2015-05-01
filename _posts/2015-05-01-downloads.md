@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Versões disponíveis"
+title: "Versões Disponíveis"
 category: down
 permalink: /Downloads.md
 date: 2015-05-01 18:29:40
+order: 1
 ---
 
 # Asstermo-K 2.15 para TI-89/92 (inclusive Titanium/Plus), Voyage 200

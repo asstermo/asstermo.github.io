@@ -4,6 +4,7 @@ title: "Nota introdutória"
 category: dock
 permalink: /ManualAsstermo215Intro.md
 date: 2015-05-01 18:29:40
+order: 3
 ---
 
 Este programa foi concebido para correr nas **TI-89**, **TI-92+** (não sei se corre nas de primeira geração), **Voyage 200** e **TI-89 Titanium**.

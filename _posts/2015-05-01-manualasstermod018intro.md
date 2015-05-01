@@ -4,6 +4,7 @@ title: "Nota introdutória"
 category: docd
 permalink: /ManualAsstermoD018Intro.md
 date: 2015-05-01 18:29:40
+order: 3
 ---
 
 Este programa foi concebido para correr nas **TI-nSpire** e em princípio deverá correr em todos os modelos desta gama de calculadoras. Em princípio é necessário pelo menos a versão 3.0 do AMS para TI-nSpire.

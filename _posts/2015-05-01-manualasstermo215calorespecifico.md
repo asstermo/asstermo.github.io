@@ -4,6 +4,7 @@ title: "Opção 7: Calor Específico"
 category: dock
 permalink: /ManualAsstermo215CalorEspecifico.md
 date: 2015-05-01 18:29:40
+order: 9
 ---
 
 Esta opção dá acesso à tabela A-20, nomeadamente a dos calores específicos para os gases comuns. A figura seguinte apresenta o menu de opções:

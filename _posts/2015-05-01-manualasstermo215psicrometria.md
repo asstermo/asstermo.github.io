@@ -4,6 +4,7 @@ title: "Opção 8: Psicrometria"
 category: dock
 permalink: /ManualAsstermo215Psicrometria.md
 date: 2015-05-01 18:29:40
+order: 10
 ---
 
 Como se pode observar pelas imagens seguintes, a parte de psicrometria permite fazer todas as contas associadas a essa matéria, excepto calcular calores e trabalhos! Dá também acesso ao diagrama psicrométrico numérico, sendo este mais propriamente baseado nas tabelas, mas que permite qualquer pressão para o ar húmido!

@@ -4,6 +4,7 @@ title: "Asstermo-D-Ar"
 category: docd
 permalink: /ManualAsstermoD018Ar.md
 date: 2015-05-01 18:29:40
+order: 7
 ---
 
 A tabela do ar (A-22) indica as seguintes propriedades:

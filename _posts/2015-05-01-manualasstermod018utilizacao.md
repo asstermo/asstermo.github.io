@@ -4,6 +4,7 @@ title: "Instruções de utilização do ASSTERMO-D"
 category: docd
 permalink: /ManualAsstermoD018Utilizacao.md
 date: 2015-05-01 18:29:40
+order: 5
 ---
 
 Neste momento, o Asstermo-D está a ser desenvolvimento em formato de _Document Notes_ das TI-nSpire, porque este é o formato mais expedito de lançar o Asstermo para as TI-nSpire. Este formato permite utilizar notas interactivas, onde as caixas _Math Box_ permitem ter código de definição de variáveis e consequente apresentação de resultados de funções.

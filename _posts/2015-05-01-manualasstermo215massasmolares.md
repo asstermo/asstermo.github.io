@@ -4,6 +4,7 @@ title: "Opção 6: Massas Molares+R’s"
 category: dock
 permalink: /ManualAsstermo215MassasMolares.md
 date: 2015-05-01 18:29:40
+order: 8
 ---
 
 Nesta opção é apresentada a fórmula química, a massa molar e o R mássico de várias substâncias catalogadas na tabela A-1. O R mássico é calculado da seguinte forma:
