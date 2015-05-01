@@ -7,6 +7,10 @@ date: 2015-05-01 18:29:40
 order: 1
 ---
 
+  * [Asstermo-K 2.15 para TI-89/92 (inclusive Titanium/Plus), Voyage 200](#asstermo-k-2.15-para-ti-89/92-(inclusive-titanium/plus),-voyage-200)
+  * [Asstermo-D 0.18 para TI-nSpire](#asstermo-d-0.18-para-ti-nspire)
+  * [Todos downloads](#todos-downloads)
+
 ## Asstermo-K 2.15 para TI-89/92 (inclusive Titanium/Plus), Voyage 200
 Versão de 13/14-05-2009, agora considerada estável, visto que não têm havido relatos de problemas. Compatível com AMS 2.08 ou 3.08 e superiores.
 
@@ -31,6 +35,7 @@ Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relat
 <br>
 ##Todos downloads
 A lista completa de ficheiros (incluindo os antigos) para download estão disponíveis nos seguintes locais:
+
   * [Versões do Asstermo-K](https://github.com/asstermo/K/releases)
   * [Versões do Asstermo-D](https://github.com/asstermo/D/releases)
   * [Documentação adicional](https://github.com/asstermo/documentation/releases)
