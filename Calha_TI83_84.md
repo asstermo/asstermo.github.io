@@ -1,0 +1,104 @@
+
+
+# Introdução
+Existem planos de criar uma variante do Asstermo para as TI-83/84 Plus/SE. No entanto, há alguns limites tecnológicos que ainda têm de ser ultrapassados para se conseguir atingir uma qualidade semelhante à obtida com o Asstermo original para TI-89/92/200.
+
+Enquanto não for possível ter o Asstermo nestas calculadoras, usem estas tabelas: [Property Libraries for Pocket Calculators](http://www.steamtables-pocket-calculators.com)
+
+Nome planeado para a variante de Asstermo para TI-nSpire: Asstermo-Z80
+
+No entanto, para evitar problemas com _trademarks_, irá se chamar somente **Asstermo-Z**.
+
+# Limites Tecnológicos a ultrapassar
+
+  * Programa de compressão
+    * Solução possível: compilar o [miniLZO](http://www.oberhumer.com/opensource/lzo/) utilizando o [z88dk](http://www.z88dk.org). Para mais info ver [aqui](http://forum.ticalcs.net/showthread.php?tid=432&page=3).
+    * Acho que vai se ter **esquecer compressão** por completo nas TI-83/84.
+    * Aparenta haver um algoritmo muito bom no [BasicBuilder](http://www.ticalc.org/archives/files/fileinfo/321/32127.html), mas novamente poderá não ser possível usar, devido às dimensões das tabelas.
+  * Programa para apresentar caixas de diálogo de jeito, porque as letras "naturais" da calculadora são monstruosas
+    * Solução possível: criar uma função/subrotina genérica com base no [cheetah](http://www.ticalc.org/archives/files/fileinfo/318/31801.html).
+  * Descobrir como armazenar tabelas tão grandes como as do Asstermo, quando o que as TI 83/84 têm são apenas listas muita estranhas.
+    * Pelos vistos a única solução é guardar os dados num ficheiro flash (.8xk). Só assim é que podemos armazenar os dados todos que quisermos. Isto significa que a dita aplicação flash tem de ser um sistema interno de organização de dados.
+  * Ou então, converter as tabelas para longos polinómios... para mais, ver os "[Apontamentos - parte 2](#Apontamentos_-_parte_2.md)".
+
+Muito provavelmente a única solução mais viável será criar um programa mais centrado em assembly do que basic.
+Vantagem de criar um Asstermo para TI-83/84 é que este deveria depois funcionar nas TI-nSpire (sem CAS e com o teclado TI-84).
+
+**Se souberem mais detalhes para alguns destes pontos, por favor comentem nesta página wiki que estão a ler!**
+
+<br>
+<h1>Apontamentos - parte 1</h1>
+<ul><li>As TI-83 originais estão excluídas logo à partida. Só têm 27kB de RAM. Só dá para fazer interpolações.<br>
+</li><li>Doors CS é uma referência importante no mundo das TI-83/84. No entanto:<br>
+<ul><li>apesar de eles terem uma biblioteca para comunicação quase infinita (2 milhões!) entre calculadoras ao mesmo tempo, não aparentam ter ainda um sistema avançado de gestão de ficheiros.<br>
+</li><li>Funciona também na virtualização nas TI-nSpire, o que deverá tornar mais possível ter-se o Asstermo nas nSpire em simultâneo...<br>
+</li></ul></li><li>Armazenar cerca de 180kB em tabelas (a maior são 25.5kB!) só será possível dentro de uma aplicação flash. Se se excluir "combustão", passam a ser cerca de 150Kb. Face a este limite, as calculadoras TI-83 Plus estão no limiar de memória (máximo de 160kB na Flash ROM), o que iria requerer compressão de dados, der por onde der. Só as TI-83 +SE, TI-84 Plus e TI-84 +SE é que estão dentro dos parâmetros operacionais.<br>
+</li><li>Em teoria, para se poder escapar a se ter de escrever todo o código em assembly, pode-se ter uma aplicação em TI-flash com as tabelas todas e com um sistema de procura integrado (o Asstermo para TI-89/92/200 tem a procura feita em C, mas as tabelas podem ser acessíveis directamente). No entanto, quando se compara com o facto que no Asstermo original, em 350kB:<br>
+<ul><li>182kB em 22 tabelas e 2 listas;<br>
+</li><li>148kB em 70 programas;<br>
+</li><li>5kB em 21 funções;<br>
+</li><li>15kB em 4 aplicações em assembly/C.<br>
+</li></ul></li></ul><blockquote>Face a estas características da versão original, é questionável se será exequível nas TI-83/84 ter tanto programa "perdido" na calculadora. Isto implica que muito provavelmente todo o programa tem se ser feito numa só "flash app".<br>
+</blockquote><ul><li>Isto pode ajudar na parte de arrumar os N programas em basic numa só "flash app", fora o facto que tem compressão de dados também, o que pode dar muito jeito:<br>
+<ul><li><a href='http://www.ticalc.org/archives/files/fileinfo/321/32127.html'>BasicBuilder 3.0</a>
+</li><li><a href='http://www.ticalc.org/archives/files/fileinfo/389/38998.html'>Tutorial para o BasicBuilder</a>
+</li><li><a href='http://sourceforge.net/projects/basicbuilder/'>Código fonte</a></li></ul></li></ul>
+
+<h2>Investigação sobre aplicações TI-Flash e Assembly</h2>
+Eis uma lista de informações adicionais que podem ajudar no desenvolvimento:<br>
+<ul><li>Lista de fontes sobre como desenvolver aplicações em Assembly:<br>
+<ul><li><a href='http://www.ticalc.org/basics/calculators/ti-83plus-se.html#9'>http://www.ticalc.org/basics/calculators/ti-83plus-se.html#9</a>
+</li><li><a href='http://www.omnimaga.org/index.php?topic=8316.0'>Another guide on Assembly</a>
+</li><li><a href='http://www.unitedti.org/forum/index.php?showtopic=174'>A more complete list of teaching yourself ASM</a>
+</li><li><a href='http://wikiti.brandonw.net/?title=Calculator_Documentation#Z80_programming'>http://wikiti.brandonw.net/?title=Calculator_Documentation#Z80_programming</a>
+</li><li><a href='http://tifreakware.net/tutorials/asmresc.htm'>http://tifreakware.net/tutorials/asmresc.htm</a>
+</li><li><a href='http://www.ticalc.org/archives/files/fileinfo/268/26877.html'>ASM em 28 dias</a>
+</li><li><a href='http://www.ticalc.org/archives/files/fileinfo/69/6961.html'>ASM guru</a>
+</li><li><a href='http://z80-heaven.wikidot.com/flash-applications'>Flash multipages</a>
+</li><li><a href='http://www.alvasoft.net/ti83-cours-a-telecharger-assembleur-z80-14-11.html'>http://www.alvasoft.net/ti83-cours-a-telecharger-assembleur-z80-14-11.html</a>
+</li></ul></li><li>Exemplos úteis:<br>
+<ul><li><a href='http://www.ticalc.org/archives/files/fileinfo/324/32459.html'>Equation Editing Aplication</a> - útil talvez apenas por causa do interface.<br>
+</li><li><a href='http://www.ticalc.org/archives/files/fileinfo/250/25021.html'>GUI v0.2 for Z80</a> - útil para a interface gráfica.<br>
+</li></ul></li><li>Editores vários:<br>
+<ul><li>Assembly:<br>
+<ul><li><a href='http://www.ticalc.org/archives/files/fileinfo/158/15892.html'>Assembly Studio (asstudio eheheh)</a>
+</li><li><a href='http://wabbit.codeplex.com/releases/view/45275'>Wabbitcode</a>
+</li></ul></li><li>Linguagens alternativas:<br>
+<ul><li><a href='http://tibasicdev.wikidot.com/basicbuilder'>More info on Basic Builder</a>
+</li><li>Como usar o z88dk:<br>
+<ul><li><a href='http://www.z88dk.org/forum/viewtopic.php?id=4880'>Exemplo</a>
+</li><li><a href='http://www.z88dk.org/forum/viewtopic.php?id=4883'>Solução para um problema com o appmake</a>
+</li><li><a href='http://www.z88dk.org/wiki/doku.php?id=platform:ticalc'>Mais info na wiki do z88dk</a>
+</li><li><a href='https://github.com/cemeyer/tisdcc/wiki'>tisdcc</a> baseado no sdcc. Pode ser bom para sacar alguma coisa daqui...<br>
+</li></ul></li><li><a href='http://www.ticalc.org/archives/files/fileinfo/414/41454.html'>SquirrelBox 1.6 alpha</a> - um meio termo entre Basic/C/Java e ASM. Quase parece ser a solução...<br>
+<ul><li><a href='http://code.google.com/p/opia/'>OPIA for z80</a> - esta é a linguagem mais à frente do mesmo criador. Seria ideal conseguir-se usar esta linguagem, mas... ainda está agora em desenvolvimento! Começou este ano a ser implementada!!<br>
+</li><li><a href='http://dancookplusplus.blogspot.pt/'>OPIA blog</a>
+</li></ul></li></ul></li></ul></li><li>Mais listas de informação:<br>
+<ul><li><a href='http://www.tumblr.com/tagged/ti83%2b'>sobre o wabbit</a></li></ul></li></ul>
+
+<h2>Conclusões</h2>
+<ol><li>Só as TI-83 +SE, TI-84 Plus e TI-84 +SE é que estão dentro dos parâmetros operacionais.<br>
+</li><li>Face às necessidades operacionais de uma variante do Asstermo, só será possível se se fizer uma aplicação completa em TI-Flash. Isto implica aprender Z80 Assembly específico para estas calculadoras: <a href='http://education.ti.com/downloads/guidebooks/sdk/83p/sdk83pguide.pdf'>Manual do SDK para TI-83</a>
+</li><li>O BasicBuilder pode ajudar a reduzir as lacunas criadas ao se usar somente Assembly. Deverá permitir que mais facilmente se consiga criar uma aplicação flash <i>super poderosa</i>, em que parte do código seja escrito em Basic e o que faltar seja em Assembly. Algumas arestas potencialmente também poderão ser colmatadas ao usar o z88dk.<br>
+</li><li>Esta variante será a que apresenta um maior desafio, quando comparada à versão original e às variantes Asstermo-D e Asstermo-N.</li></ol>
+
+
+<br />
+<h1>Apontamentos - parte 2</h1>
+Depois de muito pensar sobre o assunto, parece que a solução que se tem de atingir é algo que tem de ser mais prático. Desenvolver uma brutal tecnologia para algo que está a gradualmente sair do mercado, em favor das nSpire, acho que a solução a implementar terá de ser algo bem mais prático.<br>
+<br>
+Assim sendo, o plano provavelmente será o seguinte:<br>
+<br>
+<ol><li>Converter as tabelas de vapor sobre-aquecido para superfícies 3D (Tabelas A-4 do livro), recorrendo ao MATLAB ou ao R. Isto implica que resultarão 20 equações, em que a pressão é sempre conhecida e depois 1 das 5 propriedades vs outra. Exemplo:<br>
+<ul><li>p,T -> h<br>
+</li><li>p,T -> s<br>
+</li><li>p,T -> u<br>
+</li><li>p,T -> v<br>
+</li></ul></li><li>Criar uma routina ou função que pergunta pelo par de valores e depois devolve os resultados respectivos.<br>
+</li><li>Converter para Assembly utilizando o <a href='http://www.ticalc.org/archives/files/fileinfo/321/32127.html'>BasicBuilder 3.0</a>, que fornece um menu mais ou menos catita.<br>
+</li><li>Salvo erro, o objectivo é provar e levar a cabo uma rotina para cada procura e se agrupam as 5 ou 10 ou 20 procuras num só programa com o BasicBuilder. E depois tem-se uma aplicação por cada grupo principal, tal como foi feito para o Asstermo-D.<br>
+</li><li>Atingir o mesmo ponto onde o Asstermo-D 0.18 atingiu seria um bom alvo, ou seja, ter as tabelas para: Água, Amónia, Refrigerante 22, Refrigerante 134a, Propano, Ar.</li></ol>
+
+
+<h2>Conclusão</h2>
+Seguindo este plano, acho que se torna mais prático ter assim algo mais realista, apesar de que os resultados atingidos serão na realidade interpolações de grande escala, ou seja, brutais polinómios de 4 a 8 graus, correlacionando cada trio de valores tabelados. A vantagem é que assim não se tem de arquivar bateladas de tabelas em listas armazenadas duma forma não nativa às TI-83/84.
