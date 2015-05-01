@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215Agua"
-category: doc
+title: "Opção 1: Água"
+category: docK215
+permalink: /ManualAsstermo215Agua.md
 date: 2015-05-01 18:29:40
 ---
 

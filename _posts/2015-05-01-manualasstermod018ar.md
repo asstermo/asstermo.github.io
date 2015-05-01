@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermoD018Ar"
-category: doc
+title: "Asstermo-D-Ar"
+category: docD018
+permalink: /ManualAsstermoD018Ar.md
 date: 2015-05-01 18:29:40
 ---
 

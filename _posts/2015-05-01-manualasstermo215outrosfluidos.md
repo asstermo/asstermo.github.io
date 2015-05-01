@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215OutrosFluidos"
-category: doc
+title: "Opções 2 a 5: Tabelas..."
+category: docK215
+permalink: /ManualAsstermo215OutrosFluidos.md
 date: 2015-05-01 18:29:40
 ---
 

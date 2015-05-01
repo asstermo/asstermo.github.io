@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermoD018Instalar"
-category: doc
+title: "Instruções de Instalação"
+category: docD018
+permalink: /ManualAsstermoD018Instalar.md
 date: 2015-05-01 18:29:40
 ---
 

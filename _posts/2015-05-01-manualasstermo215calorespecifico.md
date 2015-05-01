@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215CalorEspecifico"
-category: doc
+title: "Opção 7: Calor Específico"
+category: docK215
+permalink: /ManualAsstermo215CalorEspecifico.md
 date: 2015-05-01 18:29:40
 ---
 

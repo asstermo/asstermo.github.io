@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215Utilizacao"
-category: doc
+title: "Instruções de utilização do ASSTERMO"
+category: docK215
+permalink: /ManualAsstermo215Utilizacao.md
 date: 2015-05-01 18:29:40
 ---
 

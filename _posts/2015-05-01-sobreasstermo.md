@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "SobreAsstermo"
+title: "Sobre este projeto"
 category: about
+permalink: /SobreAsstermo.md
 date: 2015-05-01 18:29:41
 ---
 
@@ -10,7 +11,7 @@ O Asstermo - nome completo: Assistente de Termodinâmica; fonética: A.S.S.Termo
 
 O Asstermo-D é a variante **Asstermo-Document** que está em desenvolvimento para funcionar para **TI-nSpire**. Ainda não tem todas as funcionalidades que o Asstermo original.
 
-O Asstermo-K será o novo nome do Asstermo original, para ser mais fácil distinguir as versões.
+O Asstermo-K é o novo nome do Asstermo original, para ser mais fácil distinguir as versões.
 
 <br>
 <h1>Capacidades do Asstermo</h1>

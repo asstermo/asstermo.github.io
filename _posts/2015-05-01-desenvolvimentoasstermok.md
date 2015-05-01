@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "DesenvolvimentoAsstermoK"
+title: "Desenvolvimento do Asstermo-K"
 category: dev
+permalink: /DesenvolvimentoAsstermoK.md
 date: 2015-05-01 18:29:40
 ---
 

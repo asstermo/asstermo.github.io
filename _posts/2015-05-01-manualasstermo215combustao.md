@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215Combustao"
-category: doc
+title: "Opção A: Assistente de Combustão"
+category: docK215
+permalink: /ManualAsstermo215Combustao.md
 date: 2015-05-01 18:29:40
 ---
 

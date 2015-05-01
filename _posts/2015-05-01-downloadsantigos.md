@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "DownloadsAntigos"
+title: "Versões Antigas"
 category: down
+permalink: /DownloadsAntigos.md
 date: 2015-05-01 18:29:40
 ---
 

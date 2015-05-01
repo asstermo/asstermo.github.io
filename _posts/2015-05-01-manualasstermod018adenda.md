@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermoD018Adenda"
-category: doc
+title: "Adenda"
+category: docD018
+permalink: /ManualAsstermoD018Adenda.md
 date: 2015-05-01 18:29:40
 ---
 

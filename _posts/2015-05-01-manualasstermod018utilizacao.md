@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermoD018Utilizacao"
-category: doc
+title: "Instruções de utilização do ASSTERMO-D"
+category: docD018
+permalink: /ManualAsstermoD018Utilizacao.md
 date: 2015-05-01 18:29:40
 ---
 

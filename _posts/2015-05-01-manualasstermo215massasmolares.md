@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215MassasMolares"
-category: doc
+title: "Opção 6: Massas Molares+R’s"
+category: docK215
+permalink: /ManualAsstermo215MassasMolares.md
 date: 2015-05-01 18:29:40
 ---
 

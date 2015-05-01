@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215Adenda"
-category: doc
+title: "Adenda"
+category: docK215
+permalink: /ManualAsstermo215Adenda.md
 date: 2015-05-01 18:29:40
 ---
 

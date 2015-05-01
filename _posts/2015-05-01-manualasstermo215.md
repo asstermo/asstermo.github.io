@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215"
-category: doc
+title: "Manual online para o Asstermo 2.15"
+category: docK215
+permalink: /ManualAsstermo215.md
 date: 2015-05-01 18:29:40
 ---
 

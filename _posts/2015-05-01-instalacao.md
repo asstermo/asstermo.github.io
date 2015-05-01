@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Instalacao"
+title: "Notas sobre instalação"
 category: doc
+permalink: /Instalacao.md
 date: 2015-05-01 18:29:40
 ---
 

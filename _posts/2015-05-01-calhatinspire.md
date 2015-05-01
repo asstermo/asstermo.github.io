@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Calha_TInSpire"
+title: "Na calha para as TI-nSpire"
 category: todo
+permalink: /Calha_TInSpire.md
 date: 2015-05-01 18:29:39
 ---
 

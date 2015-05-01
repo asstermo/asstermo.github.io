@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermo215Intro"
-category: doc
+title: "Nota introdutória"
+category: docK215
+permalink: /ManualAsstermo215Intro.md
 date: 2015-05-01 18:29:40
 ---
 

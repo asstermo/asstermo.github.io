@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Downloads"
+title: "Versões disponíveis"
 category: down
+permalink: /Downloads.md
 date: 2015-05-01 18:29:40
 ---
 

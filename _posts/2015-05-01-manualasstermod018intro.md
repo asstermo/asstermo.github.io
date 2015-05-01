@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "ManualAsstermoD018Intro"
-category: doc
+title: "Nota introdutória"
+category: docD018
+permalink: /ManualAsstermoD018Intro.md
 date: 2015-05-01 18:29:40
 ---
 

@@ -19,10 +19,12 @@ codeurl: 'https://github.com/asstermo'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['about', 'Sobre o Asstermo'],
+    ['about', 'Sobre'],
     ['news', 'Notícias'],
     ['down', 'Versões'],
-    ['doc', 'Manuais'],
+    ['doc', 'Documentação'],
+    ['docK215', 'Manual: Asstermo-K 2.15'],
+    ['docD018', 'Manual: Asstermo-D 0.18'],
     ['dev', 'Desenvolvimento'],
     ['todo', 'Planeamento'],
     ['post', 'Posts']
