@@ -24,7 +24,7 @@ sections: [
     ['down', 'Versões'],
     ['doc', 'Manuais'],
     ['dev', 'Desenvolvimento'],
-    ['todo', 'Planeamento']
+    ['todo', 'Planeamento'],
     ['post', 'Posts']
 ]
 
