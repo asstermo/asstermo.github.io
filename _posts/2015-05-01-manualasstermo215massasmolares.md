@@ -2,7 +2,7 @@
 layout: page
 title: "Opção 6: Massas Molares+R’s"
 category: dock
-permalink: /ManualAsstermo215MassasMolares.md
+permalink: ManualAsstermo215MassasMolares.md
 date: 2015-05-01 18:29:40
 order: 8
 ---

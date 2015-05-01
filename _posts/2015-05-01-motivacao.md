@@ -2,7 +2,7 @@
 layout: page
 title: "Motivação"
 category: about
-permalink: /Motivacao.md
+permalink: Motivacao.md
 date: 2015-05-01 18:29:41
 order: 2
 ---

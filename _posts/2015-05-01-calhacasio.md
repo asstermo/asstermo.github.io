@@ -2,7 +2,7 @@
 layout: page
 title: "Na calha para as calculadoras CASIO"
 category: todo
-permalink: /Calha_CASIO.md
+permalink: Calha_CASIO.md
 date: 2015-05-01 18:29:39
 order: 4
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "Instruções de utilização do ASSTERMO-D"
 category: docd
-permalink: /ManualAsstermoD018Utilizacao.md
+permalink: ManualAsstermoD018Utilizacao.md
 date: 2015-05-01 18:29:40
 order: 5
 ---

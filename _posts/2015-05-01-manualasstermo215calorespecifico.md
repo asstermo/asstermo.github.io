@@ -2,7 +2,7 @@
 layout: page
 title: "Opção 7: Calor Específico"
 category: dock
-permalink: /ManualAsstermo215CalorEspecifico.md
+permalink: ManualAsstermo215CalorEspecifico.md
 date: 2015-05-01 18:29:40
 order: 9
 ---

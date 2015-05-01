@@ -2,7 +2,7 @@
 layout: page
 title: "Adenda"
 category: docd
-permalink: /ManualAsstermoD018Adenda.md
+permalink: ManualAsstermoD018Adenda.md
 date: 2015-05-01 18:29:40
 order: 8
 ---

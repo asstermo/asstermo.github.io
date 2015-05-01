@@ -2,7 +2,7 @@
 layout: page
 title: "Manual online para o Asstermo 2.15"
 category: dock
-permalink: /ManualAsstermo215.md
+permalink: ManualAsstermo215.md
 date: 2015-05-01 18:29:40
 order: 1
 ---

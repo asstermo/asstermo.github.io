@@ -2,7 +2,7 @@
 layout: page
 title: "Asstermo-D-Ar"
 category: docd
-permalink: /ManualAsstermoD018Ar.md
+permalink: ManualAsstermoD018Ar.md
 date: 2015-05-01 18:29:40
 order: 7
 ---

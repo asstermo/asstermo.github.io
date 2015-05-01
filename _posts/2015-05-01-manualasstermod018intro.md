@@ -2,7 +2,7 @@
 layout: page
 title: "Nota introdutória"
 category: docd
-permalink: /ManualAsstermoD018Intro.md
+permalink: ManualAsstermoD018Intro.md
 date: 2015-05-01 18:29:40
 order: 3
 ---
