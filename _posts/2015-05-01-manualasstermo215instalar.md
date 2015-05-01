@@ -17,14 +17,14 @@ Se fez o download deste programa da página [asstermo.no.sapo.pt](http://assterm
   1. Corra o programa **ASSTERMO\ZCOMPILE()** - ainda no _Var-Link_, carregue no **Z** e deve calhar mesmo em cima do **ZCOMPILE**; carregue em _Enter_ e depois no **)** e **Enter** de novo. Aguarde enquanto ele compila todos os programas e funções, por forma a todo o projecto correr em velocidade optimizada!
   1. Já tá pronto a correr! **ASSTERMO\ASSTERMO()** para correr o programa!
 
-Caso tenha dificuldades a instalar o Asstermo na calculadora, veja a página detalhada de [instalação](Instalacao.md) (via wiki, ver [Notas sobre instalação](Instalacao.md)).
+Caso tenha dificuldades a instalar o Asstermo na calculadora, veja a página detalhada de [instalação](/Instalacao) (via wiki, ver [Notas sobre instalação](Instalacao.md)).
 
 # Instrucoes de transferencia/copia para outra calculadora
 Existem duas soluções:
   1. Utilizar o **F3:Link\Send** que está no _Var-Link_;
   1. Utilizar o programa **ASSTERMO\ZCOPIAR()**.
 
-A primeira está explicada no manual da calculadora e após a cópia feita, seguir os passos descritos acima [Instruções de instalação](#Instrucoes_de_Instalacao.md). A segunda tive deu um trabalho razoável a criar, para tornar o processo mais automatizado.
+A primeira está explicada no manual da calculadora e após a cópia feita, seguir os passos descritos acima [Instruções de instalação](#Instrucoes_de_Instalacao). A segunda tive deu um trabalho razoável a criar, para tornar o processo mais automatizado.
 
 Como utilizar o **ZCOPIAR**: Execute o programa, indo ao _Var-Link_, de seguida carregue em **Z** três vezes e deve estar lá; carregue em **Enter** e depois **)** e **Enter** de novo! A seguinte imagem aparece:
 

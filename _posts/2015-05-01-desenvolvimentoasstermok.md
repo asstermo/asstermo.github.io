@@ -10,7 +10,7 @@ order: 2
 **NOTA**: Neste momento este artigo ainda é só um esboço e espaço de apontamentos.
 
 # Introducao
-Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](DesenvolvimentoSoftware.md) para mais informações sobre este sistema.
+Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 
 Este texto divide-se nos seguintes capítulos:
   * [Acesso ao codigo](#Acesso_ao_codigo) - onde estão descritos os acessos aos códigos fonte.
@@ -19,7 +19,7 @@ Este texto divide-se nos seguintes capítulos:
 
 <br>
 <h1>Acesso ao codigo</h1>
-Ver secção <a href='DesenvolvimentoSoftware.md#Acesso_ao_codigo'>Acesso ao código</a> na página <i>parente</i>.<br>
+Ver secção <a href='DesenvolvimentoSoftware#Acesso_ao_codigo'>Acesso ao código</a> na página <i>parente</i>.<br>
 <br>
 <br>
 <h1>Desenvolvimento dos programas e funcoes em TI-Basic 68k</h1>

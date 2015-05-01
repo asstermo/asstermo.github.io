@@ -19,6 +19,6 @@ Portanto, o Asstermo-D actual divide-se em vários ficheiros/documentos:
   * `AsstermoDLib` - onde estão as tabelas completas em formato de matrizes e as funções/programas do núcleo do Asstermo-D.
 
 Nos seguintes capítulos serão descritos cada um dos documentos interactivos:
-  * [Asstermo-D-Agua](ManualAsstermoD018Agua.md)
+  * [Asstermo-D-Agua](/ManualAsstermoD018Agua)
   * O interface dos refrigerantes é em tudo semelhante ao da água, mas com a excepção que não há tabelas para líquido comprimido.
-  * [Asstermo-D-Ar](ManualAsstermoD018Ar.md)
+  * [Asstermo-D-Ar](/ManualAsstermoD018Ar)

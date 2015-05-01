@@ -10,7 +10,7 @@ order: 3
 **NOTA**: Neste momento este artigo ainda é só um esboço e espaço de apontamentos.
 
 # Introducao
-Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](DesenvolvimentoSoftware.md) para mais informações sobre este sistema.
+Todo o sistema de gestão de código neste projecto está gerido pelo sistema Mercurial; ver a página [Desenvolvimento do Software Asstermo](/DesenvolvimentoSoftware) para mais informações sobre este sistema.
 
 Este texto divide-se nos seguintes capítulos:
   * [Acesso ao codigo](#Acesso_ao_codigo) - onde estão descritos os acessos aos códigos fonte.
@@ -18,11 +18,11 @@ Este texto divide-se nos seguintes capítulos:
 
 <br>
 <h1>Acesso ao codigo</h1>
-Ver secção <a href='DesenvolvimentoSoftware.md#Acesso_ao_codigo'>Acesso ao código</a> na página <i>parente</i>.<br>
+Ver secção <a href='DesenvolvimentoSoftware#Acesso_ao_codigo'>Acesso ao código</a> na página <i>parente</i>.<br>
 <br>
 <br>
 <h1>Desenvolvimento dos programas e funcoes em TI-Basic nSpire</h1>
-A maioria do código da versão Asstermo-D foi copiada directamente do código em TI-Basic do Asstermo original. Isto só foi possível porque o TI-Basic das TI-nSpire foi herdado do TI-Basic 68k. O desenvolvimento do código é muito semelhante ao descrito na secção <a href='DesenvolvimentoAsstermoK.md#Desenvolvimento_de_codigo_do_TI-Basic_68k'>Desenvolvimento de código do TI-Basic 68k</a> da página <a href='DesenvolvimentoAsstermoK.md'>Desenvolvimento do Software Asstermo-K</a>, mas com uma particular adição: ao passar do texto para o software da calculadora, as linhas têm de ser colapsadas com o símbolo de dois pontos <code>:</code>.<br>
+A maioria do código da versão Asstermo-D foi copiada directamente do código em TI-Basic do Asstermo original. Isto só foi possível porque o TI-Basic das TI-nSpire foi herdado do TI-Basic 68k. O desenvolvimento do código é muito semelhante ao descrito na secção <a href='DesenvolvimentoAsstermoK#Desenvolvimento_de_codigo_do_TI-Basic_68k'>Desenvolvimento de código do TI-Basic 68k</a> da página <a href='DesenvolvimentoAsstermoK.md'>Desenvolvimento do Software Asstermo-K</a>, mas com uma particular adição: ao passar do texto para o software da calculadora, as linhas têm de ser colapsadas com o símbolo de dois pontos <code>:</code>.<br>
 <br>
 <br>
 <h2>Software para TI-Basic/nSpire</h2>

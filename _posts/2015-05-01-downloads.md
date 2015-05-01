@@ -14,7 +14,7 @@ Download (inclui manual): [asstermo.2.15.zip](https://github.com/asstermo/K/rele
 
 Manual em PDF: [O.manual.do.ASSTERMO.2.15.pdf](https://github.com/asstermo/K/releases/download/v2.15/O.manual.do.ASSTERMO.2.15.pdf)
 
-Para instruções detalhadas de instalação ver: [Notas sobre instalação](Instalacao.md)
+Para instruções detalhadas de instalação ver: [Notas sobre instalação](/Instalacao)
 
 Se tiver problemas com o Asstermo, utilize a zona dedicada deste site para relatar os problemas: [Issues/Problemas](https://github.com/asstermo/asstermo.github.io/issues).
 

@@ -21,7 +21,7 @@ De acordo com uma investigação que fiz há uns anos atrás, as únicas calcula
 
 Mas o número de utilizadores de calculadoras CASIO versus o número de utilizadores potenciais do Asstermo é neste momento muito pequeno. Neste caso, é a desvantagem de ser-se _original_... E por _ironia_ do destino, parece que é mais fácil programar para estas calculadoras, visto que a programação pode ser feita directamente em C em vez de Assembly, como acontece com as TI-83/84.
 
-As limitações tecnológicas são no entanto também semelhantes ao que se sucede com as [TI-83/84](Calha_TI83_84.md).
+As limitações tecnológicas são no entanto também semelhantes ao que se sucede com as [TI-83/84](/Calha_TI83_84).
 
 Nomes planeados para as variantes de Asstermo para estas calculadoras:
   * 9860G e companhia: Asstermo-G
