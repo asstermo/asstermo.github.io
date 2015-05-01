@@ -110,7 +110,7 @@
             if (document.querySelectorAll) orderNav();
         </script>
 
-        <!-- Source: http://blog.parkermoore.de/2014/08/01/header-anchor-links-in-vanilla-javascript-for-github-pages-and-jekyll/ -->
+        <!-- Based on: http://blog.parkermoore.de/2014/08/01/header-anchor-links-in-vanilla-javascript-for-github-pages-and-jekyll/ -->
         <script>
             var anchorForId = function (id) {
               var anchor = document.createElement("a");
@@ -133,7 +133,7 @@
 
             document.onreadystatechange = function () {
               if (this.readyState === "complete") {
-                var contentBlock = document.getElementsByClassName("docs")[0] || document.getElementsByClassName("news")[0];
+                var contentBlock = document.getElementsByClassName("container")[0];
                 if (!contentBlock) {
                   return;
                 }
