@@ -10,6 +10,7 @@ O software em si é gratuito,  mas aconselha-se que na sua utilização (e conse
 Este software foi concebido para auxiliar os estudantes com as disciplinas/cadeiras de Termodinâmica, nomeadamente no cálculo das interpolações de valores a partir das tabelas do livro. Este software permite reduzir o tempo de resolução de um problema de 20 minutos para aproximadamente 5 minutos.
 
 Para mais informações:
+
   * [Mais sobre o Asstermo](SobreAsstermo.md)
   * [Notícias](Noticias.md)
   * [@asstermo](https://twitter.com/asstermo) (Twitter)
