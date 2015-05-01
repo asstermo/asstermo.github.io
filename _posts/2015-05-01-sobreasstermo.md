@@ -42,7 +42,7 @@ A partir da versão 1.34, agora tem o Assistente de Combustão, que tem as tabel
 <br>
 ##Por onde começar
 
-O melhor mesmo é ter um espírito aventureiro e começar a utilizar o programa! O programa está disponível [aqui](/Downloads'>aqui</a> e o manual <a href='/Manuais). À medida que se vai aprendendo Termodinâmica e se vai sentindo as necessidades de obter valores das tabelas, é que se vê que este programa "sacia" essas necessidades! <b>No entanto</b>, <b>só</b> se trata de um <i>Assistente</i>, <b>não é um faz tudo</b>... ou seja, só calcula a informação a partir das tabelas, não calcula <i>trabalhos</i> e <i>calores</i>!<br>
+O melhor mesmo é ter um espírito aventureiro e começar a utilizar o programa! O programa está disponível [aqui](/Downloads) e o manual [aqui](/Manuais). À medida que se vai aprendendo Termodinâmica e se vai sentindo as necessidades de obter valores das tabelas, é que se vê que este programa "sacia" essas necessidades! <b>No entanto</b>, <b>só</b> se trata de um <i>Assistente</i>, <b>não é um faz tudo</b>... ou seja, só calcula a informação a partir das tabelas, não calcula <i>trabalhos</i> e <i>calores</i>!<br>
 <br>
 <br>
 ##Informações Importantes
@@ -53,6 +53,6 @@ Locais onde este livro pode ser adquirido: [Fundamentals of Engineering Thermody
 O Asstermo <b>não</b> é suportado pelos autores deste livro nem pela sua publicadora. Este programa tenta preencher uma lacuna no ensino de Termodinâmica, visto que os engenheiros têm mais em que se <i>preocupar</i> do que <i>andar a interpolar valores a torto e a direito</i>...<br>
 <br>
 <br>
-<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por [mim <b>sozinho</b>](https://github.com/wyldckat) neste programa. Para mais informações, ver os [Issues](/Manuais'>manuais</a>! Se tiver problemas com o programa, utilize a zona dedicada deste site: <a href='https://github.com/asstermo/asstermo.github.io/issues).<br>
+<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por [mim <b>sozinho</b>](https://github.com/wyldckat) neste programa. Para mais informações, ver os [manuais](/Manuais]! Se tiver problemas com o programa, utilize a zona dedicada deste site: [Issues](https://github.com/asstermo/asstermo.github.io/issues).<br>
 <br>
 <b>NOTE</b>: this software project still doesn't have an English version.

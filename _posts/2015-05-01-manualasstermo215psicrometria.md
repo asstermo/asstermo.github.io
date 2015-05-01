@@ -48,7 +48,7 @@ Os seguintes três ecrãs mostram o que cada uma das três primeiras opções le
 Quanto às opções seguintes:<br>
 <ul><li><b>4:Para Trás</b> - regressa ao menu anterior.<br>
 </li><li><b>5:Psicrometria: Sair</b> - sai do programa de psicrometria, que é o que este capítulo descreve.<br>
-</li><li><b>6:Fazer umas contas</b> - Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).</li></ul>
+</li><li><b>6:Fazer umas contas</b> - Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).</li></ul>
 
 <br>
 ##3:Obter HR
@@ -63,7 +63,7 @@ Estes são os ecrãs correspondentes às 3 primeiras opções listadas:<br>
 Quanto às opções seguintes:<br>
 <ul><li><b>4:Para Trás</b> - regressa ao menu anterior.<br>
 </li><li><b>5:Psicrometria: Sair</b> - sai do programa de psicrometria, que é o que este capítulo descreve.<br>
-</li><li><b>6:Fazer umas contas</b> - Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).</li></ul>
+</li><li><b>6:Fazer umas contas</b> - Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).</li></ul>
 
 <br>
 ##4:Obter h com T e w
@@ -178,7 +178,7 @@ Sair do programa de Psicrometria.<br>
 <br>
 <br>
 ###B:Fazer umas contas
-Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
 <br>
 <br>
 ##9:Psicrometria: Sair
@@ -186,4 +186,4 @@ Sair do programa de Psicrometria.<br>
 <br>
 <br>
 ##A:Fazer uma contas
-Já foi descrito antes no capítulo de [9:Fazer umas contas](/ManualAsstermo215Agua'>Água</a>, secção <a href='/ManualAsstermo215Agua#9:Fazer_umas_contas).
+Já foi descrito antes no capítulo de [Água](/ManualAsstermo215Agua), secção [9:Fazer umas contas](/ManualAsstermo215Agua#9:Fazer_umas_contas).<br>
