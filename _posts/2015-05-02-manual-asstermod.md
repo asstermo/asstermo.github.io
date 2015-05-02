@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: printready
 title: "Manual Asstermo-D"
 category: printing
 printcategory: docd

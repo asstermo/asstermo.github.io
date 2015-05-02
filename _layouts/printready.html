@@ -4,12 +4,37 @@ layout: empty
 
 {{ content | replace:'<table','<table class="table table-bordered"' }}
 
-{% for section in site.sections %}
-    {% assign attr = section[0] %}
-    {% assign label = section[1] %}
+{% assign mycounter = 1 %}
+{% assign noneFoundCounter = 0 %}
+
+{% for i in (1..100) %}
+
+    {% assign foundMyItem = false %}
 
     {% for page2 in site.categories[page.printcategory] %}
-        <h1>{{ page2.title }}</h1>
-        {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
+
+        {% if mycounter == page2.order %}
+
+            <h1>{{ page2.title }}</h1>
+            {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
+
+            {% assign foundMyItem = true %}
+            {% break %}
+
+        {% endif %}
+
     {% endfor %}
+
+    {% if !foundMyItem %}
+
+        {% assign noneFoundCounter = noneFoundCounter + 1 %}
+
+        {% if noneFoundCounter >= 10 %}
+            {% break %}
+        {% endif %}
+
+    {% endif %}
+
+    {% assign mycounter = mycounter + 1 %}
+
 {% endfor %}
