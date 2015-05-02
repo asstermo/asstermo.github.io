@@ -142,13 +142,17 @@ Definir a humidade relativa em fracção ou razão, ou seja não percentualmente
 
 
 ###2:Alterar pontos
-Escolhe-se o ponto pelo nome o ponto que se pretende alterar.
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_20.png' />
+
+|Escolhe-se o ponto pelo nome o ponto que se pretende alterar.
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_20.png' />
 
 
 ###3:Remover pontos
-Escolhe-se também pelo o nome que se pretende remover. Notar que os diálogos são diferentes qb para minimizar confusões.
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_21.png' />                            
+
+|Escolhe-se também pelo o nome que se pretende remover. Notar que os diálogos são diferentes qb para minimizar confusões.
+|:---:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_21.png' />                            
 
 
 ###4:Intersectar rectas
