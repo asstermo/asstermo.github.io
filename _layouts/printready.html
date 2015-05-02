@@ -13,11 +13,10 @@ layout: empty
 
     {% for page2 in site.categories[page.printcategory] %}
     
-        <p>{{ mycounter }} vs {{ page2.order }}</p>
+        <!-- <p>{{ mycounter }} vs {{ page2.order }}</p> -->
 
         {% if mycounter == page2.order %}
 
-            <p>Got in</p>
             <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
             {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
 
@@ -33,7 +32,7 @@ layout: empty
         {% assign noneFoundCounter = noneFoundCounter | plus:1 %}
 
         {% if noneFoundCounter >= 10 %}
-            <p>Breaked: {{ noneFoundCounter }} </p>
+            <!-- <p>Breaked: {{ noneFoundCounter }} </p> -->
             {% break %}
         {% endif %}
 
