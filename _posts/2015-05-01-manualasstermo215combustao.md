@@ -7,9 +7,11 @@ date: 2015-05-01 18:29:40
 order: 12
 ---
 
-Este assistente vem completar a parte que faltava para a parte de Combustão. O menu seguinte é o primeiro a ser apresentado:
+Este assistente vem completar a parte que faltava para a parte de Combustão.
 
-![http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png](http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png)
+|O menu seguinte é o primeiro a ser apresentado:
+|:---:
+|![http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png](http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png)
 
 Cada uma destas opções tem uma secção dedicada:
 
@@ -56,12 +58,11 @@ Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra 
 * <b>Nomes:</b> – escolha um dos nomes listados e carregue <b>OK</b>, se na <b>Qual lista?</b> tiver escolhido <b>Nome</b>.
 * <b>Fórmulas:</b> – escolha uma das fórmulas (moléculas) listadas e carregue <b>OK</b>, se na <b>Qual lista?</b> tiver escolhido <b>Fórmula</b>.
 
+De seguida é mostrado a seguinte imagem:
 
-|De seguida é mostrado a seguinte imagem:
-|:----:
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_09.png' />
-
-As seis primeiras linhas são as propriedades do que foi escolhido! Notar o título que indica o nome e a molécula escolhidos!
+|:----:
+| As seis primeiras linhas são as propriedades do que foi escolhido! Notar o título que indica o nome e a molécula escolhidos!
 
 Permite ainda continuar a procurar valores, como se pode reparar nas três opções da caixa de diálogo anterior!
 
@@ -111,7 +112,9 @@ Cada opção do menu tem uma sub-secção dedicada:
 
 ###1:Equacao: <code>R0</code> <code>P0</code>
 
-|Este é o Assistente de Química para Combustão. O seguinte menu é mostrado:
+Este é o Assistente de Química para Combustão.
+
+|O seguinte menu é mostrado:
 |:----:
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_16.png' />
 
@@ -132,12 +135,13 @@ Cada opção do menu tem uma sub-secção dedicada, apesar que algumas são aglo
 ####1:Adic.Reagentes: 0
 ####2:Adic.Produtos: 0
 
-|Ao adicionar novos reagentes ou produtos, o seguinte processo tem que ocorrer:
-|:----:
+Ao adicionar novos reagentes ou produtos, o seguinte processo tem que ocorrer:
+
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_17.png' />
+|:----:
+|Exemplo de caixa de diálogo para adicionar novos reagentes ou produtos.
 
 1. Escolhe-se uma molécula (em <b>Moléculas:</b>), ou insere-se uma (em <b>Fórmula Quim.:</b>, mas deixa-se em vazio se se quiser que seja da lista), e indica-se o número de moles ou partes desta molécula. Este número pode ser:
-
   * ou um valor (exemplos: <b>2</b>, <b>3.5</b>, <b>5/2</b>);
   * ou uma variável (de preferência um só caracter e minúsculo. exemplo: <b>a</b>, <b>b</b>, <b>c</b>);
   * ou ainda uma pequena função: <b>(1+z)</b>, <b>3.76<code>*</code>z</b>, <b>a+b</b>.
@@ -150,9 +154,11 @@ Cada opção do menu tem uma sub-secção dedicada, apesar que algumas são aglo
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_18.png' /> </th></thead><tbody>
 <tr><td>Aqui, se se carregar no <b>ESC</b> sem introduzir um valor, vai assumir que "" é o valor introduzido... por isso cuidado com os dedos! No entanto, no cálculo das entalpias não há grande problema (acho eu), ou seja, não as calcula bem... azar!</td></tr></tbody></table>
 
-<b>NOTA</b>: não é possível adicionar equações/moléculas com parenteses. O programa vai fazer algo não antevisto com essa informação! Para adicionar o ar (<b>O<sub>2</sub> + 3.76N<sub>2</sub></b>) tem que ser adicionado por partes, <b>O<sub>2</sub></b> e <b>3.76N<sub>2</sub></b>, uma molécula de cada vez.
+<b>NOTAS</b>:
 
-<b>NOTA 2</b>: nos casos em que seja preciso obter os valores de x e y em C<sub>x</sub>H<sub>y</sub>, basta primeiro adicionar primeiro xC e yH, fazer <b>solve</b>, e depois re-inserir a molécula como um todo, com os valores calculados!
+* Não é possível adicionar equações/moléculas com parenteses. O programa vai fazer algo não antevisto com essa informação! Para adicionar o ar (<b>O<sub>2</sub> + 3.76N<sub>2</sub></b>) tem que ser adicionado por partes, <b>O<sub>2</sub></b> e <b>3.76N<sub>2</sub></b>, uma molécula de cada vez.
+
+* Nos casos em que seja preciso obter os valores de x e y em C<sub>x</sub>H<sub>y</sub>, basta primeiro adicionar primeiro xC e yH, fazer <b>solve</b>, e depois re-inserir a molécula como um todo, com os valores calculados!
 
 
 ####3:Alterar Reagentes
@@ -169,9 +175,10 @@ De seguida, volta à caixa de diálogo de selecção de moléculas, onde se pode
 ####4:Remover Reagentes
 ####6:Remover Produtos
 
-|Remover Reagentes e Produtos, mostra também a caixa de selecção e pergunta se quer mesmo apagar, como mostrada na imagem seguinte:
-|:----:
+Remover Reagentes e Produtos, mostra também a caixa de selecção e pergunta se quer mesmo apagar, como mostrada na imagem seguinte:
+
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_21.png' />
+|:----:
 | Uma vez <b>OK</b> ou <b>ESC</b>, volta a mostrar a caixa de selecção.
 
 
@@ -182,6 +189,7 @@ De seguida, volta à caixa de diálogo de selecção de moléculas, onde se pode
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_22.png' />
 
 Onde:
+
 * <b>Ver equações</b> permite escolher se se quer ver um dos lados só ou ambos da equação.
 * <b>Ver também...</b> permite escolher se se quer ver as equações com as incógnitas definidas (e valores para as que não têm incógnitas) ou se se quer ver com os valores calculados com o Solve (mostra as variáveis quando ainda não foi calculado!).
 
@@ -257,7 +265,7 @@ Uma vez calculadas as entalpias, são mostradas as seguintes caixas de diálogo:
 
 O procedimento é idêntico ao dos reagentes, como descrito acima, como se pode observar (ver imagens na mesma ordem que se lê):
 <table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_40.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_41.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_42.png' /> </th></thead><tbody>
-<tr><td> Resultados (as duas imagens à direita):                                                      </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_43.png' /><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_44.png' /> </td></tr></tbody></table>
+<tr><td> Resultados (as duas imagens à direita):                                                      </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_43.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_44.png' /> </td></tr></tbody></table>
 
 Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:
 
@@ -281,7 +289,7 @@ Uma vez isto feito, vai-se à opção [3:Calc.Temp.Intermed](#3:calc.temp.interm
 
 
 <table><thead><th> É mostrada a informação relativa à escolha, que é apresentada nas 2 imagens seguintes. <b>OK</b> nesta: </th><th> <b>OK</b> ou <b>ESC</b> nesta para continuar. </th></thead><tbody>
-<tr><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_54.png' /><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_55.png' /> </td></tr></tbody></table>
+<tr><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_54.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> </td><td> <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_55.png' /> </td></tr></tbody></table>
 
 
 <table><thead><th> A seguinte imagem permite indicar que o que foi escolhido é o que ser quer como informação relativa à primeira temperatura: </th><th> <b>OK</b> para indicar que sim. </th><th> Logo se é avisado que se vai passar para a segunda fase. Escolhe-se de seguida a 3ª opção do <b>Hreag</b>, como na imagem abaixo: </th></thead><tbody>
