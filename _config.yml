@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Assistente de Termodinâmica'
-subtitle: 'para TI-89/92 e Voyage 200 - Thermodynamics Assistant for TI-89/92 and Voyage 200'
+title: 'Assistente de Termodinâmica para TI-89/92, Voyage 200 e TI-nSpire'
+subtitle: 'Thermodynamics Assistant for TI-89/92, Voyage 200 and TI-nSpire'
 logo: '/images/logo.png'
 
 # if you wish to integrate disqus on pages set your shortname here
