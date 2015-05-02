@@ -14,9 +14,10 @@ Nesta opção é apresentada a fórmula química, a massa molar e o R mássico d
 | Conversão de massa molar para R mássico.
 
 Onde:
+
 * _M_ - Massa molar
 * _R_ - R mássico
-* **8.314** - é a constante dos gases perfeitos.
+* `8.314` é a constante dos gases perfeitos.
 
 Eis os ecrãs correspondentes a “Massas Molares+R’s”:
 
