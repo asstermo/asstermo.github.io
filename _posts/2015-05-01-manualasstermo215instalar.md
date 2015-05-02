@@ -8,7 +8,7 @@ order: 4
 ---
 
 ## Instrucoes de Instalacao
-Se fez o download deste programa da página [asstermo.no.sapo.pt](http://asstermo.no.sapo.pt) ou [asstermo no GitHub]({{ site.url }}) e transferiu para a calculadora, trate de executar os seguintes passos:
+Se fez o download deste programa da página [asstermo.no.sapo.pt](http://asstermo.no.sapo.pt) ou [asstermo no GitHub](http://asstermo.github.io) e transferiu para a calculadora, trate de executar os seguintes passos:
 
   1. Arquivar os ficheiros todos na calculadora. Para tal:
     1. **2nd** + **–** para aceder ao _Var-Link_, vá até à pasta **ASSTERMO** e carregue no **F4** quando a selecção estiver sobre o nome da pasta **ASSTERMO**;
@@ -30,7 +30,7 @@ A primeira está explicada no manual da calculadora e após a cópia feita, segu
 
 Como utilizar o **ZCOPIAR**: Execute o programa, indo ao _Var-Link_, de seguida carregue em **Z** três vezes e deve estar lá; carregue em **Enter** e depois **)** e **Enter** de novo! A seguinte imagem aparece:
 
-![{{ site.url }}/img215/ManualAsstermo215Instalar_01.png]({{ site.url }}/img215/ManualAsstermo215Instalar_01.png)
+![http://asstermo.github.io/img215/ManualAsstermo215Instalar_01.png](http://asstermo.github.io/img215/ManualAsstermo215Instalar_01.png)
 
 A seguir... basta seguir as instruções que estão lá escritas!
 

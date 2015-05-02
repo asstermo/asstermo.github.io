@@ -21,7 +21,7 @@ vr | razão de volume
 
 Abra o documento `Asstermo-D-Ar`. Deverá aparecer o seguinte ecrã:
 
-![{{ site.url }}/imgD018/Image022.jpg]({{ site.url }}/imgD018/Image022.jpg)
+![http://asstermo.github.io/imgD018/Image022.jpg](http://asstermo.github.io/imgD018/Image022.jpg)
 
 Neste documento estão representados os seguintes _Problems_:
 
@@ -45,7 +45,7 @@ Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Proble
 ##2 - Proc. por T
 Cada problema permite procurar pelas propriedades descritas no início deste capítulo. Este é o aspecto da procura por temperatura conhecida em Kelvin:
 
-<img src='{{ site.url }}/imgD018/Image025.jpg' />
+<img src='http://asstermo.github.io/imgD018/Image025.jpg' />
 
 Relembrando os detalhes:
 
@@ -59,20 +59,20 @@ Nas seguintes secções 3 a 7 está uma apresentação de cada página.
 
 ##3 - Proc. por h
 
-<img src='{{ site.url }}/imgD018/Image026.jpg' />
+<img src='http://asstermo.github.io/imgD018/Image026.jpg' />
 
 ##4 - Proc. por u
 
-<img src='{{ site.url }}/imgD018/Image027.jpg' />
+<img src='http://asstermo.github.io/imgD018/Image027.jpg' />
 
 ##5 - Proc. por s0
 
-<img src='{{ site.url }}/imgD018/Image028.jpg' />
+<img src='http://asstermo.github.io/imgD018/Image028.jpg' />
 
 ##6 - Proc. por pr
 
-<img src='{{ site.url }}/imgD018/Image029.jpg' />
+<img src='http://asstermo.github.io/imgD018/Image029.jpg' />
 
 ##7 - Proc. por vr
 
-<img src='{{ site.url }}/imgD018/Image030.jpg' />
+<img src='http://asstermo.github.io/imgD018/Image030.jpg' />
