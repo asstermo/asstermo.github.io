@@ -18,9 +18,11 @@
  <a class=brand href="{{ site.baseurl }}/">{{ site.title }}</a>
  </div>
  
+ {% if site.subtitle %}
  <div>
- <span itemprop="description">{% if site.subtitle %}<small>{{ site.subtitle }}</small>{% endif %}</span></a>
+ <small>{{ site.subtitle }}</small>
  </div>
+ {% endif %}
  
  </td>
  </tr>
