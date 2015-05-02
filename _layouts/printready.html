@@ -17,7 +17,8 @@ layout: empty
 
         {% if mycounter == page2.order %}
         
-            {% unless page.pagesToIgnore[page2.permalink] %}
+            <p>{{ page.pagesToIgnore }}, {{ page2.url }}, {{ page.pagesToIgnore[page2.url] }}</p>
+            {% unless page.pagesToIgnore[page2.url] %}
 
                 <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
                 {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
