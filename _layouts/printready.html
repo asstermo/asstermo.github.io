@@ -28,7 +28,7 @@ layout: empty
 
     {% endfor %}
 
-    {% if !foundMyItem %}
+    {% if foundMyItem == false %}
 
         {% assign noneFoundCounter = noneFoundCounter | plus:1 %}
 
