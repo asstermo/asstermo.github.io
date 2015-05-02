@@ -13,62 +13,73 @@ Abra o documento `Asstermo-D-Agua`. Deverá aparecer o seguinte ecrã:
 
 Neste documento estão representados os seguintes _Problems_:
 
-  * [1 - Asstermo-D-Agua](#1---asstermo-d-agua) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
-  * [2 - Proc. por p e/ou T](#2---proc.-por-p-e/ou-t) - Segundo problema, onde se pode procurar por _p_ e/ou _T_ em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
-  * [3 - Proc. por h e p](#3---proc.-por-h-e-p)
-  * [4 - Proc. por s e p](#4---proc.-por-s-e-p)
-  * [5 - Proc. por v e p](#5---proc.-por-v-e-p)
-  * [6 - Proc. por u e p](#6---proc.-por-u-e-p)
+* [1 - Asstermo-D-Agua](#1---asstermo-d-agua) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
+* [2 - Proc. por p e/ou T](#2---proc.-por-p-e/ou-t) - Segundo problema, onde se pode procurar por _p_ e/ou _T_ em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
+* [3 - Proc. por h e p](#3---proc.-por-h-e-p)
+* [4 - Proc. por s e p](#4---proc.-por-s-e-p)
+* [5 - Proc. por v e p](#5---proc.-por-v-e-p)
+* [6 - Proc. por u e p](#6---proc.-por-u-e-p)
 
-<br>
+
 ##1 - Asstermo-D-Agua
-Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:<br>
-<ul><li>1.1 - A introdução e índice.<br>
-</li><li>[1.2](#1.2) - Interpolação de valores.<br>
-</li><li>[1.3](#1.3) - Sobre o Asstermo-D</li></ul>
+Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:
 
-<br>
+* 1.1 - A introdução e índice.
+* [1.2](#1.2) - Interpolação de valores.
+* [1.3](#1.3) - Sobre o Asstermo-D
+
+
+
 ##1.2
-<b>Interpolações</b> - A página apresentada é a seguinte:<br>
-<br>
+<b>Interpolações</b> - A página apresentada é a seguinte:
+
 <img src='http://asstermo.github.io/imgD018/Image002.jpg' />
 
-Detalhes:<br>
-<ul><li>A azul são os campos editáveis.<br>
-</li><li>Editar apenas os valores azuis, deixar intacto a atribuição à variável.<br>
-</li><li>Os valores estão entre chavetas porque é possível criar listas de valores e interpolá-los a todos duma só vez.</li></ul>
+Detalhes:
 
-A funcionalidade aqui é idêntica à do Asstermo-K (o original para TI-89):<br>
-<b>Detalhe importante</b>: por exemplo, para <b>X1</b>, <b>X2</b> e <b>x</b> (ver imagens que se seguem), pode-se escolher <b>{1,5}</b>, <b>{2,6}</b> e <b>{3,7}</b>, respectivamente, retorna <b>{6,6}</b>. Basicamente, pode-se escolher listas de valores, retornando assim uma lista de valores. Útil para obter uma interpolação de vários valores, como por exemplo, obter uma linha inteira de valores interpolados para uma temperatura intermédia.<br>
-<br>
-Exemplos na TI-89:<br>
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_22.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_23.png' /> </th></thead><tbody>
-<tr><td> Exemplo simples...                                                                       </td><td> ... dá um resultado simples!                                                            </td></tr></tbody></table>
+* A azul são os campos editáveis.
+* Editar apenas os valores azuis, deixar intacto a atribuição à variável.
+* Os valores estão entre chavetas porque é possível criar listas de valores e interpolá-los a todos duma só vez.
 
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_24.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_25.png' /> </th></thead><tbody>
-<tr><td> Um exemplo mais complexo, como sugerido antes no <b>Detalhe importante</b>               </td><td> Obtém-se uma interpolação da mesma posição para vários valores!                    </td></tr></tbody></table>
 
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_26.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_27.png' /> </th></thead><tbody>
-<tr><td> Um exemplo prático.                                                                     </td><td> Este é um exemplo do que o Asstermo permite fazer muito mais rapidamente.               </td></tr></tbody></table>
+A funcionalidade aqui é idêntica à do Asstermo-K (o original para TI-89):
 
-<br>
+<b>Detalhe importante</b>: por exemplo, para <b>X1</b>, <b>X2</b> e <b>x</b> (ver imagens que se seguem), pode-se escolher <b>{1,5}</b>, <b>{2,6}</b> e <b>{3,7}</b>, respectivamente, retorna <b>{6,6}</b>. Basicamente, pode-se escolher listas de valores, retornando assim uma lista de valores. Útil para obter uma interpolação de vários valores, como por exemplo, obter uma linha inteira de valores interpolados para uma temperatura intermédia.
+
+Exemplos na TI-89:
+
+Exemplo simples...  | ... dá um resultado simples!
+:---: | :---:
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_22.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_23.png' /> 
+
+Um exemplo mais complexo, como sugerido antes no <b>Detalhe importante</b> | Obtém-se uma interpolação da mesma posição para vários valores!
+:---: | :---:
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_24.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_25.png' /> </th></thead><tbody>
+
+Um exemplo prático.| Este é um exemplo do que o Asstermo permite fazer muito mais rapidamente.
+:---: | :---:
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_26.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_27.png' /> </th></thead><tbody>
+
+
 ##1.3
-Aqui está a indicação da versão do Asstermo-D que está a ser utilizado (a imagem está desactualizada):<br>
-<br>
+Aqui está a indicação da versão do Asstermo-D que está a ser utilizado (a imagem está desactualizada):
+
 <img src='http://asstermo.github.io/imgD018/Image003.jpg' />
 
-<br>
-##2 - Proc. por p e/ou T
-Cada página deste problema permite procurar por <i>p</i> e/ou <i>T</i>  em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.<br>
-<br>
-Detalhes:<br>
-<ul><li>A azul são os campos editáveis.<br>
-</li><li>Editar apenas os valores azuis, deixar intacto a atribuição à variável. Carregar em <code>Enter</code> para que o valor seja <i>activado</i>.<br>
-</li><li>Em algumas páginas há mais resultados do lado direito, o que requer que se <i>ande para baixo</i> para ver o que falta.<br>
-</li><li>No fundo do lado esquerdo de cada página, ignorar a lista verde e <b>não editá-la de forma alguma</b>! Caso esta lista seja pertubada, os valores do lado direito da página irão ser afectados.</li></ul>
 
-Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.<br>
-<br>
+##2 - Proc. por p e/ou T
+Cada página deste problema permite procurar por <i>p</i> e/ou <i>T</i>  em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
+
+Detalhes:
+
+* A azul são os campos editáveis.
+* Editar apenas os valores azuis, deixar intacto a atribuição à variável. Carregar em <code>Enter</code> para que o valor seja <i>activado</i>.
+* Em algumas páginas há mais resultados do lado direito, o que requer que se <i>ande para baixo</i> para ver o que falta.
+* No fundo do lado esquerdo de cada página, ignorar a lista verde e <b>não editá-la de forma alguma</b>! Caso esta lista seja pertubada, os valores do lado direito da página irão ser afectados.
+
+
+Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.
+
 ##2.1
 
 <img src='http://asstermo.github.io/imgD018/Image004.jpg' />
@@ -85,7 +96,7 @@ Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.<br>
 
 <img src='http://asstermo.github.io/imgD018/Image007.jpg' />
 
-<br>
+
 ##3 - Proc. por h e p
 
 ##3.1
@@ -100,12 +111,12 @@ Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.<br>
 
 <img src='http://asstermo.github.io/imgD018/Image010.jpg' />
 
-<br>
+
 ##4 - Proc. por s e p
 
 ##4.1
-Esta página é diferente das outras pelo simples motivo porque aqui é onde é calculada a evolução em líquido comprimido pelo cálculo do trabalho.<br>
-<br>
+Esta página é diferente das outras pelo simples motivo porque aqui é onde é calculada a evolução em líquido comprimido pelo cálculo do trabalho.
+
 <img src='http://asstermo.github.io/imgD018/Image011.jpg' />
 
 ##4.2
@@ -120,7 +131,7 @@ Esta página é diferente das outras pelo simples motivo porque aqui é onde é 
 
 <img src='http://asstermo.github.io/imgD018/Image015.jpg' />
 
-<br>
+
 ##5 - Proc. por v e p
 
 ##5.1
@@ -135,7 +146,7 @@ Esta página é diferente das outras pelo simples motivo porque aqui é onde é 
 
 <img src='http://asstermo.github.io/imgD018/Image018.jpg' />
 
-<br>
+
 ##6 - Proc. por u e p
 
 ##6.1
