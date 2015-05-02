@@ -13,7 +13,7 @@ Quanto ao diagrama: está restringido entre 0.01 e 70ºC; e é análogo ao diagr
 
 |Este é o menu principal da psicrometria:
 |:----:
-|![http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png](http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png)
+|![/img215/ManualAsstermo215Psicrometria_01.png](/img215/ManualAsstermo215Psicrometria_01.png)
 
 Cada opção tem uma secção dedicada neste capítulo:
 

@@ -9,7 +9,7 @@ order: 6
 
 Abra o documento `Asstermo-D-Agua`. Deverá aparecer o seguinte ecrã:
 
-![http://asstermo.github.io/imgD018/Image001.jpg](http://asstermo.github.io/imgD018/Image001.jpg)
+![/imgD018/Image001.jpg](/imgD018/Image001.jpg)
 
 Neste documento estão representados os seguintes _Problems_:
 

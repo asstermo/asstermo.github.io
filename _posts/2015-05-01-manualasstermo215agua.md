@@ -9,7 +9,7 @@ order: 6
 
 Na figura seguinte estão as opções disponíveis para a água:
 
-|![http://asstermo.github.io/img215/ManualAsstermo215Agua_01.png](http://asstermo.github.io/img215/ManualAsstermo215Agua_01.png)
+|![/img215/ManualAsstermo215Agua_01.png](/img215/ManualAsstermo215Agua_01.png)
 |:----:
 | Menu de opçoẽs para a água.
 
@@ -40,7 +40,7 @@ Onde:
 ### 1:Proc. Por P e/ou T
 |O menu seguinte é apresentado:
 |:----:
-|![http://asstermo.github.io/img215/ManualAsstermo215Agua_02.png](http://asstermo.github.io/img215/ManualAsstermo215Agua_02.png)
+|![/img215/ManualAsstermo215Agua_02.png](/img215/ManualAsstermo215Agua_02.png)
 
 1. Permite acede aos valores/tabelas de **Líquido Comprimido**.
 1. Permite acede aos valores/tabelas de **Líquido/Vapor Saturado**.

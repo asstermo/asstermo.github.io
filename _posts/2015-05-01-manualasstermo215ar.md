@@ -20,13 +20,13 @@ A tabela do ar (A-22) indica as seguintes propriedades:
 
 Ao aceder à secção da tabela do ar, é possível procurar com uma propriedade para obter as outras! É também possível ver a tabela propriamente dita. Algumas imagens das capacidades de análise da tabela do ar:
 
-![http://asstermo.github.io/img215/ManualAsstermo215Ar_01.png](http://asstermo.github.io/img215/ManualAsstermo215Ar_01.png) | ![http://asstermo.github.io/img215/ManualAsstermo215Ar_02.png](http://asstermo.github.io/img215/ManualAsstermo215Ar_02.png) | ![http://asstermo.github.io/img215/ManualAsstermo215Ar_03.png](http://asstermo.github.io/img215/ManualAsstermo215Ar_03.png)
+![/img215/ManualAsstermo215Ar_01.png](/img215/ManualAsstermo215Ar_01.png) | ![/img215/ManualAsstermo215Ar_02.png](/img215/ManualAsstermo215Ar_02.png) | ![/img215/ManualAsstermo215Ar_03.png](/img215/ManualAsstermo215Ar_03.png)
 :---:|:---:|:---:
 Este é o menu da tabela do ar. | Um exemplo de procurar por temperatura, mas qualquer outra procura nesta _zona_ terá o mesmo interface. | Um exemplo da informação mostrada em relação a cada procura.
 
 Os dois ecrãs seguintes mostram como ver a tabela do ar e como é mostrada.
 
-|![http://asstermo.github.io/img215/ManualAsstermo215Ar_04.png](http://asstermo.github.io/img215/ManualAsstermo215Ar_04.png) | ![http://asstermo.github.io/img215/ManualAsstermo215Ar_05.png](http://asstermo.github.io/img215/ManualAsstermo215Ar_05.png) 
+|![/img215/ManualAsstermo215Ar_04.png](/img215/ManualAsstermo215Ar_04.png) | ![/img215/ManualAsstermo215Ar_05.png](/img215/ManualAsstermo215Ar_05.png) 
 |:---:|:---:
 | | Só são mostradas 8 entradas de cada vez e é preciso escolher se é para ver a razão de pressão ou a de volume.
 

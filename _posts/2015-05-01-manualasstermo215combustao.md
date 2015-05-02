@@ -11,7 +11,7 @@ Este assistente vem completar a parte que faltava para a parte de Combustão.
 
 |O menu seguinte é o primeiro a ser apresentado:
 |:---:
-|![http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png](http://asstermo.github.io/img215/ManualAsstermo215Combustao_01.png)
+|![/img215/ManualAsstermo215Combustao_01.png](/img215/ManualAsstermo215Combustao_01.png)
 
 Cada uma destas opções tem uma secção dedicada:
 

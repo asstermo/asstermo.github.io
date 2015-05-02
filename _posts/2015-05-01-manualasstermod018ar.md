@@ -21,7 +21,7 @@ vr | razão de volume
 
 Abra o documento `Asstermo-D-Ar`. Deverá aparecer o seguinte ecrã:
 
-![http://asstermo.github.io/imgD018/Image022.jpg](http://asstermo.github.io/imgD018/Image022.jpg)
+![/imgD018/Image022.jpg](/imgD018/Image022.jpg)
 
 Neste documento estão representados os seguintes _Problems_:
 
