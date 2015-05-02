@@ -55,16 +55,19 @@ Onde:
 A seguir é possível ver o que se sucede ao aceder a esta opção e o resultado após escolher os valores. Não esquecer que se pode escolher a unidade da pressão! Quanto à temperatura... se se souber como converter para Celsius, é só indicar a conta na entrada da temperatura.
 
 <img src='/img215/ManualAsstermo215Agua_03.png' /> | <img src='/img215/ManualAsstermo215Agua_04.png' />
-:---: | :---: | :---:
+:---: | :---:
 Exemplo: 300-273.15, para converter de Kelvin para Celsius. | Os valores definidos como <b>undef</b> significam que não existem nas tabelas. <b>NOTA</b>: a pressão mínima que está na tabela A-5 é de 25 bar.
 
 ####2:Liquido/Vapor Sat
 Eis o que se vê para esta opção:
 
-<img src='/img215/ManualAsstermo215Agua_05.png' /> | <img src='/img215/ManualAsstermo215Agua_06.png' /> | <img src='/img215/ManualAsstermo215Agua_07.png' />
-:---: | :---: | :---:
-Não esquecer definir valores/opções adequado/as para cada campo. | Esta imagem é um exemplo das propriedades que o Asstermo apresenta.| Exemplo: um aviso aparece ao lado do valor do título, alertando para o facto de que o valor não está dentro do intervalo permitido para o título.
+<img src='/img215/ManualAsstermo215Agua_05.png' /> | <img src='/img215/ManualAsstermo215Agua_06.png' /> 
+:---: | :---:
+Não esquecer definir valores/opções adequado/as para cada campo. | Esta imagem é um exemplo das propriedades que o Asstermo apresenta.
 
+|<img src='/img215/ManualAsstermo215Agua_07.png' />
+|:---:
+|Exemplo: um aviso aparece ao lado do valor do título, alertando para o facto de que o valor não está dentro do intervalo permitido para o título.
 
 ####3:Vapor Sobreaquecid
 Para esta opção:
@@ -85,9 +88,13 @@ Eis os ecrãs para cada opção:
 
 * <b>1:Liquido Comprimido</b>
 
-<img src='/img215/ManualAsstermo215Agua_11.png' /> | <img src='/img215/ManualAsstermo215Agua_12.png' /> | <img src='/img215/ManualAsstermo215Agua_13.png' />
-:---: | :---: | :---:
-Indica qual a tabela do livro e pergunta para que pressão ver a tabela.| É quase impossível ter a tabela toda num só ecrã, por isso aqui escolhe-se que parte da tabela se quer ver. Reduzir o número de entradas pode ser útil para que os resultados apareçam mais depressa. | Eis um exemplo de apresentação de resultados. A apresentação não é perfeita, mas o objectivo aqui é só para se poder validar e confirmar se os valores <i>batem certo</i>.
+<img src='/img215/ManualAsstermo215Agua_11.png' /> | <img src='/img215/ManualAsstermo215Agua_12.png' />
+:---: | :---:
+Indica qual a tabela do livro e pergunta para que pressão ver a tabela.| É quase impossível ter a tabela toda num só ecrã, por isso aqui escolhe-se que parte da tabela se quer ver. Reduzir o número de entradas pode ser útil para que os resultados apareçam mais depressa.
+
+|<img src='/img215/ManualAsstermo215Agua_13.png' />
+|:---:
+|Eis um exemplo de apresentação de resultados. A apresentação não é perfeita, mas o objectivo aqui é só para se poder validar e confirmar se os valores <i>batem certo</i>.
 
 
 * <b>2:Liquido/Vapor Sat</b> – aqui as tabelas são muito mais complexas.

@@ -46,9 +46,13 @@ A primeira opção permite escolher a pressão do ar húmido. Este valor é util
 
 Os seguintes três ecrãs mostram o que cada uma das três primeiras opções leva a:
 
-1:w: Tendo pv | 2:w: Tendo HR e T | 3:w: Tendo as massas
-:---: | :---: | :---:
-<img src='/img215/ManualAsstermo215Psicrometria_04.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_05.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_06.png' />
+1:w: Tendo pv | 2:w: Tendo HR e T
+:---: | :---: 
+<img src='/img215/ManualAsstermo215Psicrometria_04.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_05.png' />
+
+| 3:w: Tendo as massas
+| :---:
+| <img src='/img215/ManualAsstermo215Psicrometria_06.png' />
 
 Quanto às opções seguintes:
 
@@ -66,9 +70,13 @@ Quanto às opções seguintes:
 
 Estes são os ecrãs correspondentes às 3 primeiras opções listadas:
 
-1:HR: Com T e w | 2:HR: Com T e pv | 3:HR: Com pv e pvSat
-:---: | :---: | :---:
-<img src='/img215/ManualAsstermo215Psicrometria_08.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_09.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_10.png' />
+1:HR: Com T e w | 2:HR: Com T e pv 
+:---: | :---: 
+<img src='/img215/ManualAsstermo215Psicrometria_08.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_09.png' />
+
+| 3:HR: Com pv e pvSat
+| :---:
+| <img src='/img215/ManualAsstermo215Psicrometria_10.png' />
 
 Quanto às opções seguintes:
 

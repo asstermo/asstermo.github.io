@@ -40,15 +40,20 @@ Basicamente, Escolhe-se:
 Obtém-se por exemplo:
 
 <img src='/img215/ManualAsstermo215Combustao_03.png' /> | <img src='/img215/ManualAsstermo215Combustao_04.png' />
-:---: | :---: | :---:
+:---: | :---:
 Este ecrã indica que está em cálculos...| E este mostra os resultados encontrados!<br><b>h0f</b> é a entalpia de formação.<br><b>h(298K ref)</b> é o valor da entalpia total da molécula, com a referência da temperatura em 298K: h<sub>298K ref</sub> = h<sup>0</sup><sub>f</sub> + h<sub>298K</sub>
+
 
 Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra o seguinte:
 
 
-<img src='/img215/ManualAsstermo215Combustao_05.png' /> | <img src='/img215/ManualAsstermo215Combustao_06.png' /> | <img src='/img215/ManualAsstermo215Combustao_07.png' />
-:---: | :---: | :---:
-Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela. | Neste escolhe-se o gás, a temperatura onde começa a listar e quantas entradas listar. Quantas menos listar, mais rápido o acesso!<br>As temperaturas que se podem escolher são de intervalos de 6 em 6 (por exemplo: `300,360,420`, em vez de `300,310,320...410,420`), por forma ao programa correr mais depressa. | Uma vez escolhido, mostra o seguinte a imagem acima. Notar o título minúsculo da caixa de diálogo... mostra o gás escolhido e a entalpia de formação!
+<img src='/img215/ManualAsstermo215Combustao_05.png' /> | <img src='/img215/ManualAsstermo215Combustao_06.png' />
+:---: | :---:
+Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela. | Neste escolhe-se o gás, a temperatura onde começa a listar e quantas entradas listar. Quantas menos listar, mais rápido o acesso!<br>As temperaturas que se podem escolher são de intervalos de 6 em 6 (por exemplo: `300,360,420`, em vez de `300,310,320...410,420`), por forma ao programa correr mais depressa.
+
+|<img src='/img215/ManualAsstermo215Combustao_07.png' />
+|:---:
+|Uma vez escolhido, mostra o seguinte a imagem acima. Notar o título minúsculo da caixa de diálogo... mostra o gás escolhido e a entalpia de formação!
 
 
 ##2:Prop. TermoQuim.
@@ -293,9 +298,14 @@ Onde se se carregar no <b>OK</b>, mostra o diálogo à direita. | Esta caixa aci
 
 O procedimento é idêntico ao dos reagentes, como descrito acima, como se pode observar (ver imagens na mesma ordem que se lê):
 
-<img src='/img215/ManualAsstermo215Combustao_40.png' /> | <img src='/img215/ManualAsstermo215Combustao_41.png' /> | <img src='/img215/ManualAsstermo215Combustao_42.png' />
-:---: | :---: | :---:
-Resultados (as duas imagens à direita):   | <img src='/img215/ManualAsstermo215Combustao_43.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> | <img src='/img215/ManualAsstermo215Combustao_44.png' />
+<img src='/img215/ManualAsstermo215Combustao_40.png' /> | <img src='/img215/ManualAsstermo215Combustao_41.png' />
+:---: | :---:
+<img src='/img215/ManualAsstermo215Combustao_42.png' /> | 
+
+Resultados:
+<img src='/img215/ManualAsstermo215Combustao_43.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> | <img src='/img215/ManualAsstermo215Combustao_44.png' />
+:---: | :---:
+Exemplo de equação dos produtos. | Exemplo das entalpias para os ditos produtos.
 
 Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:
 
@@ -307,10 +317,13 @@ Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:
 ###3:Calc.Temp.Intermed
 Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:calc.entalpias-tot): as entalpias totais não são iguais e a dos produtos é fixa. aí é que pode ajudar esta opção [3:calc.temp.intermed](#3:calc.temp.intermed). assumindo que o problema a resolver é encontrar a temperatura dos reagentes, recorre-se à opção [2:calc.entalpias tot](#2:calc.entalpias-tot) novamente, calcula-se mais uma vez a parte dos reagentes para outra temperatura e grava-se a informação, como demonstrado a seguir:
 
-<img src='/img215/ManualAsstermo215Combustao_46.png' /> | <img src='/img215/ManualAsstermo215Combustao_47.png' /> | <img src='/img215/ManualAsstermo215Combustao_48.png' />
-:---: | :---: | :---:
-Calcular só o lado dos reagentes.         | Escolher uma temperatura mais baixa (ou alta, dependendo do caso).  | Obtém-se os primeiros resultados gerais. <b>OK</b> para continuar.
+<img src='/img215/ManualAsstermo215Combustao_46.png' /> | <img src='/img215/ManualAsstermo215Combustao_47.png' />
+:---: | :---:
+Calcular só o lado dos reagentes.         | Escolher uma temperatura mais baixa (ou alta, dependendo do caso).
 
+| <img src='/img215/ManualAsstermo215Combustao_48.png' />
+| :---:
+| Obtém-se os primeiros resultados gerais. <b>OK</b> para continuar.
 
 
 <img src='/img215/ManualAsstermo215Combustao_49.png' /> | <img src='/img215/ManualAsstermo215Combustao_50.png' />
@@ -319,11 +332,13 @@ São mostradas as entalpias por molécula. | <b>OK</b> para gravar os resultados
 
 Uma vez isto feito, vai-se à opção [3:Calc.Temp.Intermed](#3:calc.temp.intermed). O seguinte processo se decorrerá:
 
-É mostrada uma caixa de diálogo a explicar o procedimento: | É mostrada uma caixa a seguir a avisar a fase em curso. | Depois escolhe-se a 2 opção do <b>H<sub>reag</sub></b>:
-:---: | :---: | :---:
-<img src='/img215/ManualAsstermo215Combustao_51.png' /> | <img src='/img215/ManualAsstermo215Combustao_52.png' /> |  <img src='/img215/ManualAsstermo215Combustao_53.png' />
+É mostrada uma caixa de diálogo a explicar o procedimento: | É mostrada uma caixa a seguir a avisar a fase em curso.
+:---: | :---:
+<img src='/img215/ManualAsstermo215Combustao_51.png' /> | <img src='/img215/ManualAsstermo215Combustao_52.png' />
 
-
+| Depois escolhe-se a 2 opção do <b>H<sub>reag</sub></b>:
+| :---:
+|  <img src='/img215/ManualAsstermo215Combustao_53.png' />
 
 É mostrada a informação relativa à escolha, que é apresentada nas 2 imagens seguintes. <b>OK</b> nesta: | <b>OK</b> ou <b>ESC</b> nesta para continuar.
 :---: | :---:
@@ -331,11 +346,13 @@ Uma vez isto feito, vai-se à opção [3:Calc.Temp.Intermed](#3:calc.temp.interm
 
 
 
-A seguinte imagem permite indicar que o que foi escolhido é o que ser quer como informação relativa à primeira temperatura: | <b>OK</b> para indicar que sim. | Logo se é avisado que se vai passar para a segunda fase. Escolhe-se de seguida a 3ª opção do <b>Hreag</b>, como na imagem abaixo:
-:---: | :---: | :---:
-<img src='/img215/ManualAsstermo215Combustao_56.png' />  | <img src='/img215/ManualAsstermo215Combustao_57.png' /> | <img src='/img215/ManualAsstermo215Combustao_58.png' />       
+A seguinte imagem permite indicar que o que foi escolhido é o que ser quer como informação relativa à primeira temperatura: | <b>OK</b> para indicar que sim.
+:---: | :---:
+<img src='/img215/ManualAsstermo215Combustao_56.png' />  | <img src='/img215/ManualAsstermo215Combustao_57.png' />
 
-
+| Logo se é avisado que se vai passar para a segunda fase. Escolhe-se de seguida a 3ª opção do <b>Hreag</b>, como na imagem abaixo:
+| :---:
+| <img src='/img215/ManualAsstermo215Combustao_58.png' />       
 
 A imagem seguinte é mostrada, a indicar a informação relevante. <b>ESC</b> salta a outra informação | Aqui a seguir (imagem abaixo) <b>OK</b> para seguir em frente.
 :---: | :---:
@@ -343,10 +360,9 @@ A imagem seguinte é mostrada, a indicar a informação relevante. <b>ESC</b> sa
 
 
 A caixa de diálogo abaixo é mostrada de seguida, pedindo se é para calcular a temperatura intermédia com base nos reagentes ou nos produtos. | A imagem seguinte mostra a caixa consecutiva:
-:---: | :---: | :---:
-<img src='/img215/ManualAsstermo215Combustao_61.png' />  | <img src='/img215/ManualAsstermo215Combustao_62.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>H(kJ/kmol)</b> </td></tr>
+:---: | :---:
+<img src='/img215/ManualAsstermo215Combustao_61.png' />  | <img src='/img215/ManualAsstermo215Combustao_62.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>H(kJ/kmol)</b>
 Ou seja, os produtos devem dar entalpia igual aos reagentes (opção <b>Produtos</b>) ou vice versa (<b>Reagentes</b>)? | Aqui pede-se a que entalpia é que a dos Reagentes ou os Produtos tem de ser igual a. Aqui pode-se inserir o valor “à pata” (insere-se o valor e <b>OK</b>) ou ir buscar da mesma forma que a restante informação (<b>ESC</b>, independente do valor).
-
 
 
 Neste exemplo, <b>ESC</b> leva ao seguinte: | Aqui (imagem abaixo) escolhe-se a 2 opção do <b>Hprod</b>. Parece que isto poderá ser um mau exemplo, face aos valores em questão, <i>mas que se lixe</i> que é só um exemplo :)
