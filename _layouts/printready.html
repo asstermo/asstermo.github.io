@@ -16,11 +16,15 @@ layout: empty
         <!-- <p>{{ mycounter }} vs {{ page2.order }}</p> -->
 
         {% if mycounter == page2.order %}
+        
+            {% unless page.pagesToIgnore[page2.permalink] %}
 
-            <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
-            {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
+                <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
+                {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
 
-            <div class="pagebreak"></div>
+                <div class="pagebreak"></div>
+
+            {% endunless %}
 
             {% assign foundMyItem = true %}
             {% break %}
