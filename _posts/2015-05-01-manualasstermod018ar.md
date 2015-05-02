@@ -9,8 +9,9 @@ order: 7
 
 A tabela do ar (A-22) indica as seguintes propriedades:
 
+Propriedade | Descrição
+:---:|:---:
 T | temperatura (K) 
-:--:|:----------------:
 h | entalpia (kJ/kg)
 u | energia interna (kJ/kg)
 s0 | entropia de referência (kJ/kg.K)
