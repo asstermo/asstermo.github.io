@@ -20,17 +20,22 @@ Permission is granted to copy, distribute and/or modify this document under the 
 
 A copy of the license is included in the section entitled "GNU Free Documentation License". If not present, see online: http://www.gnu.org/copyleft/fdl.html
 
-
 ---
 
-<br>
+
 ##Índice
 
-<ul><li>[GNU Free Documentation License v1.3](/GFDL13)
-</li><li>[Nota Introdutória](/ManualAsstermoD018Intro)
-</li><li>[Instruções de instalação](/ManualAsstermoD018Instalar)
-</li><li>[Instruções de utilização do ASSTERMO](/ManualAsstermoD018Utilizacao)
-<ul><li>[Tabelas de Água](/ManualAsstermoD018Agua)
-</li><li>[Tabelas de Ar](/ManualAsstermoD018Ar)
-</li></ul></li><li>[Adenda](/ManualAsstermoD018Adenda)
-</li></ul>
+
+* [GNU Free Documentation License v1.3](/GFDL13)
+
+* [Nota Introdutória](/ManualAsstermoD018Intro)
+
+* [Instruções de instalação](/ManualAsstermoD018Instalar)
+
+* [Instruções de utilização do ASSTERMO](/ManualAsstermoD018Utilizacao)
+
+  * [Tabelas de Água](/ManualAsstermoD018Agua)
+
+  * [Tabelas de Ar](/ManualAsstermoD018Ar)
+
+* [Adenda](/ManualAsstermoD018Adenda)
