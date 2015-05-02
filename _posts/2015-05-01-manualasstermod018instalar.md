@@ -20,6 +20,6 @@ Existem 2 ficheiros a ser instalados:
 
 Eis o aspecto da pasta `MyLib` onde a biblioteca `AsstermoDLib` deverá ser colocada:
 
-> ![http://asstermo.github.io/imgD018/MyLib.jpg](http://asstermo.github.io/imgD018/MyLib.jpg)
+> ![{{ site.url }}/imgD018/MyLib.jpg]({{ site.url }}/imgD018/MyLib.jpg)
 
 É aconselhável actualizar o sistema de gestão de bibliotecas, nomeadamente _Refresh Libraries_.

@@ -9,7 +9,7 @@ order: 6
 
 Abra o documento `Asstermo-D-Agua`. Deverá aparecer o seguinte ecrã:
 
-![http://asstermo.github.io/imgD018/Image001.jpg](http://asstermo.github.io/imgD018/Image001.jpg)
+![{{ site.url }}/imgD018/Image001.jpg]({{ site.url }}/imgD018/Image001.jpg)
 
 Neste documento estão representados os seguintes _Problems_:
 
@@ -33,7 +33,7 @@ Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Proble
 ##1.2
 <b>Interpolações</b> - A página apresentada é a seguinte:
 
-<img src='http://asstermo.github.io/imgD018/Image002.jpg' />
+<img src='{{ site.url }}/imgD018/Image002.jpg' />
 
 Detalhes:
 
@@ -50,21 +50,21 @@ Exemplos na TI-89:
 
 Exemplo simples...  | ... dá um resultado simples!
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_22.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_23.png' /> 
+<img src='{{ site.url }}/img215/ManualAsstermo215Agua_22.png' /> | <img src='{{ site.url }}/img215/ManualAsstermo215Agua_23.png' /> 
 
 Um exemplo mais complexo, como sugerido antes no <b>Detalhe importante</b> | Obtém-se uma interpolação da mesma posição para vários valores!
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_24.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_25.png' /> </th></thead><tbody>
+<img src='{{ site.url }}/img215/ManualAsstermo215Agua_24.png' /> | <img src='{{ site.url }}/img215/ManualAsstermo215Agua_25.png' /> </th></thead><tbody>
 
 Um exemplo prático.| Este é um exemplo do que o Asstermo permite fazer muito mais rapidamente.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_26.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_27.png' /> </th></thead><tbody>
+<img src='{{ site.url }}/img215/ManualAsstermo215Agua_26.png' /> | <img src='{{ site.url }}/img215/ManualAsstermo215Agua_27.png' /> </th></thead><tbody>
 
 
 ##1.3
 Aqui está a indicação da versão do Asstermo-D que está a ser utilizado (a imagem está desactualizada):
 
-<img src='http://asstermo.github.io/imgD018/Image003.jpg' />
+<img src='{{ site.url }}/imgD018/Image003.jpg' />
 
 
 ##2 - Proc. por p e/ou T
@@ -82,34 +82,34 @@ Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.
 
 ##2.1
 
-<img src='http://asstermo.github.io/imgD018/Image004.jpg' />
+<img src='{{ site.url }}/imgD018/Image004.jpg' />
 
 ##2.2
 
-<img src='http://asstermo.github.io/imgD018/Image005.jpg' />
+<img src='{{ site.url }}/imgD018/Image005.jpg' />
 
 ##2.3
 
-<img src='http://asstermo.github.io/imgD018/Image006.jpg' />
+<img src='{{ site.url }}/imgD018/Image006.jpg' />
 
 ##2.4
 
-<img src='http://asstermo.github.io/imgD018/Image007.jpg' />
+<img src='{{ site.url }}/imgD018/Image007.jpg' />
 
 
 ##3 - Proc. por h e p
 
 ##3.1
 
-<img src='http://asstermo.github.io/imgD018/Image008.jpg' />
+<img src='{{ site.url }}/imgD018/Image008.jpg' />
 
 ##3.2
 
-<img src='http://asstermo.github.io/imgD018/Image009.jpg' />
+<img src='{{ site.url }}/imgD018/Image009.jpg' />
 
 ##3.3
 
-<img src='http://asstermo.github.io/imgD018/Image010.jpg' />
+<img src='{{ site.url }}/imgD018/Image010.jpg' />
 
 
 ##4 - Proc. por s e p
@@ -117,47 +117,47 @@ Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.
 ##4.1
 Esta página é diferente das outras pelo simples motivo porque aqui é onde é calculada a evolução em líquido comprimido pelo cálculo do trabalho.
 
-<img src='http://asstermo.github.io/imgD018/Image011.jpg' />
+<img src='{{ site.url }}/imgD018/Image011.jpg' />
 
 ##4.2
 
-<img src='http://asstermo.github.io/imgD018/Image012.jpg' />
+<img src='{{ site.url }}/imgD018/Image012.jpg' />
 
 ##4.3
 
-<img src='http://asstermo.github.io/imgD018/Image014.jpg' />
+<img src='{{ site.url }}/imgD018/Image014.jpg' />
 
 ##4.4
 
-<img src='http://asstermo.github.io/imgD018/Image015.jpg' />
+<img src='{{ site.url }}/imgD018/Image015.jpg' />
 
 
 ##5 - Proc. por v e p
 
 ##5.1
 
-<img src='http://asstermo.github.io/imgD018/Image016.jpg' />
+<img src='{{ site.url }}/imgD018/Image016.jpg' />
 
 ##5.2
 
-<img src='http://asstermo.github.io/imgD018/Image017.jpg' />
+<img src='{{ site.url }}/imgD018/Image017.jpg' />
 
 ##5.3
 
-<img src='http://asstermo.github.io/imgD018/Image018.jpg' />
+<img src='{{ site.url }}/imgD018/Image018.jpg' />
 
 
 ##6 - Proc. por u e p
 
 ##6.1
 
-<img src='http://asstermo.github.io/imgD018/Image019.jpg' />
+<img src='{{ site.url }}/imgD018/Image019.jpg' />
 
 ##6.2
 
-<img src='http://asstermo.github.io/imgD018/Image020.jpg' />
+<img src='{{ site.url }}/imgD018/Image020.jpg' />
 
 ##6.3
 
-<img src='http://asstermo.github.io/imgD018/Image021.jpg' />
+<img src='{{ site.url }}/imgD018/Image021.jpg' />
 

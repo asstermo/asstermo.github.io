@@ -11,7 +11,7 @@ Nesta opção é apresentada a fórmula química, a massa molar e o R mássico d
 
 | O R mássico é calculado da seguinte forma:
 |:---
-| ![http://asstermo.github.io/img215/R_8314_M.png](http://asstermo.github.io/img215/R_8314_M.png)
+| ![{{ site.url }}/img215/R_8314_M.png]({{ site.url }}/img215/R_8314_M.png)
 
 Onde:
 
@@ -21,7 +21,7 @@ Onde:
 
 Eis os ecrãs correspondentes a “Massas Molares+R’s”:
 
-| ![http://asstermo.github.io/img215/ManualAsstermo215MassasMolares_01.png](http://asstermo.github.io/img215/ManualAsstermo215MassasMolares_01.png) | ![http://asstermo.github.io/img215/ManualAsstermo215MassasMolares_02.png](http://asstermo.github.io/img215/ManualAsstermo215MassasMolares_02.png)
+| ![{{ site.url }}/img215/ManualAsstermo215MassasMolares_01.png]({{ site.url }}/img215/ManualAsstermo215MassasMolares_01.png) | ![{{ site.url }}/img215/ManualAsstermo215MassasMolares_02.png]({{ site.url }}/img215/ManualAsstermo215MassasMolares_02.png)
 |:---:|:---:
 | Daqui pode-se escolher uma das várias substâncias disponíveis. | Deste ecrã pode-se continuar a procurar as outras substâncias disponíveis.
 

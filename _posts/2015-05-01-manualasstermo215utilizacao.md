@@ -9,7 +9,7 @@ order: 5
 
 Corra o programa **ASSTERMO\ASSTERMO()**. Na figura seguinte é possível ver as seguintes hipóteses disponíveis:
 
-|![http://asstermo.github.io/img215/ManualAsstermo215Utilizacao_01.png](http://asstermo.github.io/img215/ManualAsstermo215Utilizacao_01.png)
+|![{{ site.url }}/img215/ManualAsstermo215Utilizacao_01.png]({{ site.url }}/img215/ManualAsstermo215Utilizacao_01.png)
 |:---:
 | Exemplo do menu principal.
 

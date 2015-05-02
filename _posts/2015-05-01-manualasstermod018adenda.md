@@ -16,8 +16,8 @@ order: 8
 
 Este manual ainda está em desenvolvimento. Links úteis:
 
-* Página online do Asstermo: http://asstermo.github.io
-* Manuais actualizados directamente online: http://asstermo.github.io/Manuais
+* Página online do Asstermo: {{ site.url }}
+* Manuais actualizados directamente online: {{ site.url }}/Manuais
 * Página onde submeter problemas e sugestões: https://github.com/asstermo/asstermo.github.io/issues
 
 **NOTA**: Este programa/projecto foi desenvolvido com o máximo de cuidado, verificando sempre se as contas e os valores tabelados estão e dão certo. No entanto, como sou apenas humano e fiz o projecto todo praticamente sozinho, só posso dar garantia deste programa ser _quase_ 100% fiável.
