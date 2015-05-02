@@ -303,6 +303,7 @@ O procedimento é idêntico ao dos reagentes, como descrito acima, como se pode 
 <img src='/img215/ManualAsstermo215Combustao_42.png' /> | 
 
 Resultados:
+
 <img src='/img215/ManualAsstermo215Combustao_43.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> | <img src='/img215/ManualAsstermo215Combustao_44.png' />
 :---: | :---:
 Exemplo de equação dos produtos. | Exemplo das entalpias para os ditos produtos.
