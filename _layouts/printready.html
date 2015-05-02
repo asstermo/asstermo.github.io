@@ -6,7 +6,7 @@ layout: empty
 
 {% assign mycounter = 1 %}
 {% assign noneFoundCounter = 0 %}
-{% assign pagesToIgnore = page.pagesToIgnore | split:" " %}
+{% assign pagesToIgnore = page.pagesToIgnore | split:"," %}
 
 {% for i in (1..100) %}
 
