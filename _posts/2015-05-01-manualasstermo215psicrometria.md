@@ -35,20 +35,20 @@ A primeira opção permite escolher a pressão do ar húmido. Este valor é util
 
 |Este valor é guardado na variável <b>b_par</b>.
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_02.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_02.png' />
 
 
 ##2:Obter w
 
 |A segunda opção acede a um segundo menu que permite obter a humidade específica <b>w</b> (o símbolo normalmente utilizado é <b>ω</b> - ómega minúsculo) a partir de um outro par de valores:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_03.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_03.png' />
 
 Os seguintes três ecrãs mostram o que cada uma das três primeiras opções leva a:
 
 1:w: Tendo pv | 2:w: Tendo HR e T | 3:w: Tendo as massas
 :---: | :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_04.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_05.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_06.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_04.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_05.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_06.png' />
 
 Quanto às opções seguintes:
 
@@ -62,13 +62,13 @@ Quanto às opções seguintes:
 
 |Este é o sub-menu acedido a partir da 3ª opção do menu de psicrometria:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_07.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_07.png' />
 
 Estes são os ecrãs correspondentes às 3 primeiras opções listadas:
 
 1:HR: Com T e w | 2:HR: Com T e pv | 3:HR: Com pv e pvSat
 :---: | :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_08.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_09.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_10.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_08.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_09.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_10.png' />
 
 Quanto às opções seguintes:
 
@@ -82,28 +82,28 @@ Quanto às opções seguintes:
 
 |Este é o diálogo apresentado por aceder à opção 4 do menu de psicrometria:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_11.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_11.png' />
 
 
 ##5:Obter p T ou T p
 
 |Este é o menu apresentado por aceder à opção 5 do menu de psicrometria:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_12.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_12.png' />
 
 
 ##6:Obter p vapor (pv)
 
 |Este é o menu atingido por aceder à opção 6 do menu de psicrometria:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_13.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_13.png' />
 
 
 ##7:Calculo de massas
 
 |Este é o menu atingido por aceder à opção 6 do menu de psicrometria:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_14.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_14.png' />
 
 É de notar que na caixa de diálogo que mostra os resultados, também mostra a fórmula/equação utilizada!
 
@@ -112,7 +112,7 @@ Quanto às opções seguintes:
 
 |Este é o sub-menu da opção 8 do menu de psicrometria, é o menu do diagrama psicrométrico numérico:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_15.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_15.png' />
 
 O modo de utilizar é semelhante ao diagrama em papel... desenha-se o ponto no diagrama a partir de duas propriedades/valores. Não esquecer que no menu principal é possível escolher a pressão do ar húmido.
 
@@ -139,13 +139,13 @@ Os 2 ecrãs abaixo mostram o que se encontra quando se quer adicionar um ponto n
 
 Definir o nome ou número do ponto. | Menu de hipóteses para a adição de um ponto novo.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_16.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_17.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_16.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_17.png' />
 
 Os seguintes dois ecrãs mostram um exemplo de como adicionar um ponto, a partir da humidade relativa e da temperatura. Os pontos ficam sempre definidos pela temperatura e pela massa específica.
 
 Definir a humidade relativa em fracção ou razão, ou seja não percentualmente; e da temperatura, dentro dos limites estipulados. | Resultado para as opções seleccionadas. O ponto fica sempre definido pela temperatura e pela massa específica.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_18.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_19.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_18.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_19.png' />
 
 <b>NOTA IMPORTANTE</b>: Como os pontos ficam armazenados pela definição de temperatura e massa específica, é possível alterar a <i>pressão do sistema</i> sem perda de caracterização ([1:Pressão(bar):x.xxx](#1:pressao(bar):x.xxx)), <b>mas somente</b> se os pontos todos foram adicionados com o par temperatura e massa específica! Caso contrário terão de alterar os pontos já adicionados, para corrigir os valores respectivos!
 
@@ -154,14 +154,14 @@ Definir a humidade relativa em fracção ou razão, ou seja não percentualmente
 
 |Escolhe-se o ponto pelo nome o ponto que se pretende alterar.
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_20.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_20.png' />
 
 
 ###3:Remover pontos
 
 |Escolhe-se também pelo o nome que se pretende remover.
 |:---:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_21.png' />
+|<img src='/img215/ManualAsstermo215Psicrometria_21.png' />
 |Notar que os diálogos são diferentes qb para minimizar confusões.
 
 
@@ -170,7 +170,7 @@ Estes dois seguintes mostram a opção de criar e intersectar duas rectas de mod
 
 De notar que se escolhe os pontos que definem cada recta pelos nomes atribuídos. Daí dar jeito ter um diagrama desenhado numa folha de papel. | Depois de escolhidos os pontos que definem cada recta, eis um exemplo de resultado:
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_22.png' />                                                | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_23.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_22.png' />                                                | <img src='/img215/ManualAsstermo215Psicrometria_23.png' />
 
 Se se quiser adicionar o ponto de intersecção, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "**2: Definir com w e T**". Só assim se depois pode observar todas as propriedades que o definem.
 
@@ -180,7 +180,7 @@ Para ver o diagrama é necessário seleccionar algumas opções pertinentes:
 
 Exemplo do diálogo de definir as opções para criar o gráfico. | De seguida é dada a opção de limpar ou manter o diagrama, ou seja, se a informação prévia é para manter no gráfico.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_24.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_25.png' />                           
+<img src='/img215/ManualAsstermo215Psicrometria_24.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_25.png' />                           
 
 
 ###6:Obter hs e hl
@@ -188,7 +188,7 @@ Estes dois abaixo mostram o antes e o depois quando se escolhe a opção de obte
 
 Escolhem-se dois pontos diferentes para os cálculos. | Exemplo dos resultados obtidos e do ponto intermédio correspondente ao cálculo efectuado.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_26.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_27.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_26.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_27.png' />
 
 Se se quiser adicionar este ponto intermédio, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "**2: Definir com w e T**". Só assim se depois pode observar todas as propriedades que o definem.
 
@@ -198,7 +198,7 @@ Aqui acede-se à informação completa sobre os pontos. Só é possível ver um 
 
 O primeiro diálogo só aparece quando se escolhe do menu | O segundo aparece sempre que se escolhe um ponto a partir de qualquer um deles.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_28.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_29.png' />
+<img src='/img215/ManualAsstermo215Psicrometria_28.png' /> | <img src='/img215/ManualAsstermo215Psicrometria_29.png' />
 
 
 ###8:Apagar Todos

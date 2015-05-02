@@ -28,7 +28,7 @@ Cada uma destas opções tem uma secção dedicada:
 
 |Em modo <b>Valores</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) é mostrado o seguinte:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_02.png' />
+|<img src='/img215/ManualAsstermo215Combustao_02.png' />
 
 Basicamente, Escolhe-se:
 
@@ -39,14 +39,14 @@ Basicamente, Escolhe-se:
 
 Obtém-se por exemplo:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_03.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_04.png' />
+<img src='/img215/ManualAsstermo215Combustao_03.png' /> | <img src='/img215/ManualAsstermo215Combustao_04.png' />
 :---: | :---: | :---:
 Este ecrã indica que está em cálculos...| E este mostra os resultados encontrados!<br><b>h0f</b> é a entalpia de formação.<br><b>h(298K ref)</b> é o valor da entalpia total da molécula, com a referência da temperatura em 298K: h<sub>298K ref</sub> = h<sup>0</sup><sub>f</sub> + h<sub>298K</sub>
 
 Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra o seguinte:
 
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_05.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_06.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_07.png' />
+<img src='/img215/ManualAsstermo215Combustao_05.png' /> | <img src='/img215/ManualAsstermo215Combustao_06.png' /> | <img src='/img215/ManualAsstermo215Combustao_07.png' />
 :---: | :---: | :---:
 Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela. | Neste escolhe-se o gás, a temperatura onde começa a listar e quantas entradas listar. Quantas menos listar, mais rápido o acesso!<br>As temperaturas que se podem escolher são de intervalos de 6 em 6 (por exemplo: `300,360,420`, em vez de `300,310,320...410,420`), por forma ao programa correr mais depressa. | Uma vez escolhido, mostra o seguinte a imagem acima. Notar o título minúsculo da caixa de diálogo... mostra o gás escolhido e a entalpia de formação!
 
@@ -55,7 +55,7 @@ Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela.
 
 |Este só tem um modo de selecção e apresentação dos resultados:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_08.png' />
+|<img src='/img215/ManualAsstermo215Combustao_08.png' />
 
 
 * <b>Qual lista?</b> – se é para obter a listagem de resultados da opção <b>Nomes</b> ou <b>Fórmulas</b>.
@@ -64,7 +64,7 @@ Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela.
 
 De seguida é mostrado a seguinte imagem:
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_09.png' />
+|<img src='/img215/ManualAsstermo215Combustao_09.png' />
 |:----:
 | As seis primeiras linhas são as propriedades do que foi escolhido! Notar o título que indica o nome e a molécula escolhidos!
 
@@ -77,19 +77,19 @@ Permite ainda continuar a procurar valores, como se pode reparar nas três opç�
 
 |Em modo <b>Valores</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) é mostrado o seguinte:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_10.png' />
+|<img src='/img215/ManualAsstermo215Combustao_10.png' />
 
 Escolha a <b>Fórmula</b> pela qual quer procurar (não deu para apresentar toda a fórmula neste diálogo), por qual propriedade pretende procurar (Temperatura, Log<sub>10</sub>(K) ou K) e escolher o valor para essa propriedade. Após o <b>OK</b>, é mostrado o seguinte:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_11.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_12.png' />
+<img src='/img215/ManualAsstermo215Combustao_11.png' /> | <img src='/img215/ManualAsstermo215Combustao_12.png' />
 :---: | :---:
 Este ecrã indica que está em cálculos...| Uma vez encontrado, aqui mostra os valores encontrados.     
 
 Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra o seguinte:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_13.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_14.png' />
+<img src='/img215/ManualAsstermo215Combustao_13.png' /> | <img src='/img215/ManualAsstermo215Combustao_14.png' />
 :---: | :---:
-Aqui escolhe-se também a fórmula, por qual temperatura começar e quantas entradas mostrar. Neste, ao contrário das outras tabelas, permite ver 2x2 colunas ao mesmo tempo, logo permite até 16 entradas! | O <img src='http://asstermo.github.io/img215/2verticalbars.png' /> é o <i>separador central</i> das 2x2 colunas. Notar que no título mostra a fórmula completa!
+Aqui escolhe-se também a fórmula, por qual temperatura começar e quantas entradas mostrar. Neste, ao contrário das outras tabelas, permite ver 2x2 colunas ao mesmo tempo, logo permite até 16 entradas! | O <img src='/img215/2verticalbars.png' /> é o <i>separador central</i> das 2x2 colunas. Notar que no título mostra a fórmula completa!
 
 
 ##4:Modo(T\V):Valores
@@ -104,7 +104,7 @@ Como o nome dá a entender, trata da parte de química de combustão. É um assi
 
 |O menu seguinte é mostrado:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_15.png' />
+|<img src='/img215/ManualAsstermo215Combustao_15.png' />
 
 Cada opção do menu tem uma sub-secção dedicada:
 
@@ -124,7 +124,7 @@ Este é o Assistente de Química para Combustão.
 
 |O seguinte menu é mostrado:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_16.png' />
+|<img src='/img215/ManualAsstermo215Combustao_16.png' />
 
 Cada opção do menu tem uma sub-secção dedicada, apesar que algumas são aglomeradas por serem muito semelhantes:
 
@@ -145,7 +145,7 @@ Cada opção do menu tem uma sub-secção dedicada, apesar que algumas são aglo
 
 Ao adicionar novos reagentes ou produtos, o seguinte processo tem que ocorrer:
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_17.png' />
+|<img src='/img215/ManualAsstermo215Combustao_17.png' />
 |:----:
 |Exemplo de caixa de diálogo para adicionar novos reagentes ou produtos.
 
@@ -160,7 +160,7 @@ Ao adicionar novos reagentes ou produtos, o seguinte processo tem que ocorrer:
 3. Se a molécula não for da lista, é pedida a entalpia de formação desta molécula, com indicada na imagem abaixo:</ol>
 
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_18.png' />
+|<img src='/img215/ManualAsstermo215Combustao_18.png' />
 |:---:
 |Aqui, se se carregar no <b>ESC</b> sem introduzir um valor, vai assumir que "" é o valor introduzido... por isso cuidado com os dedos! No entanto, no cálculo das entalpias não há grande problema (acho eu), ou seja, não as calcula bem... azar!
 
@@ -177,7 +177,7 @@ Ao adicionar novos reagentes ou produtos, o seguinte processo tem que ocorrer:
 
 Na parte de Alterar Reagentes e Produtos, a caixa de diálogo seguinte é mostrada: | Onde se escolhe a molécula a editar, carrega-se <b>OK</b> e o seguinte diálogo aparece:
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_19.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_20.png' />
+<img src='/img215/ManualAsstermo215Combustao_19.png' /> | <img src='/img215/ManualAsstermo215Combustao_20.png' />
 
 Pode-se redefinir ou até ver a quantidade de moléculas que lá existe! Notar que pode ser mais uma vez um caracter ou algo do género. No caso de ser uma molécula dada pelo utilizador, pode-se também a seguir voltar a alterar a entalpia de formação da molécula (kJ/kmol)!
 
@@ -189,7 +189,7 @@ De seguida, volta à caixa de diálogo de selecção de moléculas, onde se pode
 
 Remover Reagentes e Produtos, mostra também a caixa de selecção e pergunta se quer mesmo apagar, como mostrada na imagem seguinte:
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_21.png' />
+|<img src='/img215/ManualAsstermo215Combustao_21.png' />
 |:----:
 | Uma vez <b>OK</b> ou <b>ESC</b>, volta a mostrar a caixa de selecção.
 
@@ -198,7 +198,7 @@ Remover Reagentes e Produtos, mostra também a caixa de selecção e pergunta se
 
 |Ver Equações dá acesso à seguinte caixa de selecção:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_22.png' />
+|<img src='/img215/ManualAsstermo215Combustao_22.png' />
 
 Onde:
 
@@ -209,7 +209,7 @@ Onde:
 
 Em seguida ao <b>OK</b> é mostrada uma caixa de diálogo semelhante à seguinte: | Se não houver produtos ou reagentes, uma caixa como a seguinte é mostrada:
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_23.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_24.png' />
+<img src='/img215/ManualAsstermo215Combustao_23.png' /> | <img src='/img215/ManualAsstermo215Combustao_24.png' />
 Onde é mostrada em cada linha a quantidade e a molécula por ordem de inserção! | 
 
 
@@ -217,19 +217,19 @@ Onde é mostrada em cada linha a quantidade e a molécula por ordem de inserçã
 
 O Solve Incógnitas trata de resolver a equação, quando esta não está toda resolvida. O seguinte exemplo demonstra a equação existente:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_25.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_26.png' />
+<img src='/img215/ManualAsstermo215Combustao_25.png' /> | <img src='/img215/ManualAsstermo215Combustao_26.png' />
 :---: | :---:
 Estes são os reagentes.  | Estes são os produtos.  
 
 Em seguida, é mostrada a seguinte imagem:
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_27.png' />
+|<img src='/img215/ManualAsstermo215Combustao_27.png' />
 |:---:
 |Como se pode observar, há um momento de preparação das equações. Isto pode demorar um pouco...
 
 A caixa de diálogo a seguir (imagem abaixo), permite escolher uma variável que estará em excesso (situação de "<b>n</b> equações - <b>n+1</b> incógnitas"), para que possa ser indicado ao <i>solver</i> como resolver em função dessa variável. Útil para o excesso de ar <b>z</b>, por exemplo!
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_28.png' />
+|<img src='/img215/ManualAsstermo215Combustao_28.png' />
 |:---:
 |Basta escrever a letra da variável, como por exemplo: <b>z</b>    
 
@@ -239,7 +239,7 @@ Continuando o exemplo, uma vez resolvido o problema, volta ao menu das equaçõe
 
 |Os produtos calculados resultou no seguinte, ver imagem abaixo:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_29.png' />
+|<img src='/img215/ManualAsstermo215Combustao_29.png' />
 
 E prontos, este exemplo já está demonstrado!
 
@@ -247,7 +247,7 @@ E prontos, este exemplo já está demonstrado!
 ####9:Apagar Equacoes
 Se pretender apagar as equações, as seguintes 2 caixas serão mostradas (uma de cada vez):
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_30.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_31.png' />
+<img src='/img215/ManualAsstermo215Combustao_30.png' /> | <img src='/img215/ManualAsstermo215Combustao_31.png' />
 :---: | :---:
 Primeiro pergunta sobre os reagentes.      | Depois sobre os produtos.
 
@@ -266,40 +266,40 @@ Esta opção trata de calcular as entalpias totais, com base nas equações quí
 
 |... a caixa seguinte é a primeira a ser mostrada:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_32.png' />
+|<img src='/img215/ManualAsstermo215Combustao_32.png' />
 
 Um vez escolhido quais (lados: Ambos, Reagentes ou Produtos) a calcular, a seguinte caixa é mostrada (neste exemplo é para ambos os lados):
 
 | | Caso <b>ESC</b> seja escolhido na imagem ao lado, então o diálogo abaixo é mostrado:
 |:---: | :---:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_33.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_34.png' />
+|<img src='/img215/ManualAsstermo215Combustao_33.png' /> | <img src='/img215/ManualAsstermo215Combustao_34.png' />
 |Aqui escolhe-se a temperatura geral dos reagentes. Se se quiser uma específica para um deles, carrega-se no <b>ESC</b>, caso contrário, no <b>OK</b> vai tudo pela mesma temperatura. | Como se pode observar, tem-se de definir uma temperatura para cada molécula.
 
 Uma vez escolhidas as temperaturas, o programa trata de calcular as entalpias:
 
 Se uma das moléculas não tiver as entalpias <i>sensíveis</i> em tabela, tal informação é indicada, como a imagem seguinte demonstra para este exemplo: | Esta imagem é mostrada enquanto está a calcular:
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_35.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_36.png' />
+<img src='/img215/ManualAsstermo215Combustao_35.png' /> | <img src='/img215/ManualAsstermo215Combustao_36.png' />
 
 Uma vez calculadas as entalpias, são mostradas as seguintes caixas de diálogo:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_37.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_38.png' />
+<img src='/img215/ManualAsstermo215Combustao_37.png' /> | <img src='/img215/ManualAsstermo215Combustao_38.png' />
 :---: | :---:
 Onde se se carregar no <b>OK</b>, mostra o diálogo à direita. | Esta caixa acima não seria mostrada se se tivesse carregado no <b>ESC</b>, passando logo para a fase seguinte.
 
 |A próxima fase é tratar dos produtos:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_39.png' />
+|<img src='/img215/ManualAsstermo215Combustao_39.png' />
 
 O procedimento é idêntico ao dos reagentes, como descrito acima, como se pode observar (ver imagens na mesma ordem que se lê):
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_40.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_41.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_42.png' />
+<img src='/img215/ManualAsstermo215Combustao_40.png' /> | <img src='/img215/ManualAsstermo215Combustao_41.png' /> | <img src='/img215/ManualAsstermo215Combustao_42.png' />
 :---: | :---: | :---:
-Resultados (as duas imagens à direita):   | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_43.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_44.png' />
+Resultados (as duas imagens à direita):   | <img src='/img215/ManualAsstermo215Combustao_43.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hprod(kJ/kmol)</b> | <img src='/img215/ManualAsstermo215Combustao_44.png' />
 
 Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_45.png' />
+|<img src='/img215/ManualAsstermo215Combustao_45.png' />
 |:----:
 | <b>OK</b> grava a informação para futuras utilizações. <b>ESC</b> ignora a informação gerada!
 
@@ -307,13 +307,13 @@ Após as entalpias dos Produtos estarem calculadas, vem a seguinte pergunta:
 ###3:Calc.Temp.Intermed
 Continuando o exemplo da secção [2:Calc.Entalpias Tot](#2:calc.entalpias-tot): as entalpias totais não são iguais e a dos produtos é fixa. aí é que pode ajudar esta opção [3:calc.temp.intermed](#3:calc.temp.intermed). assumindo que o problema a resolver é encontrar a temperatura dos reagentes, recorre-se à opção [2:calc.entalpias tot](#2:calc.entalpias-tot) novamente, calcula-se mais uma vez a parte dos reagentes para outra temperatura e grava-se a informação, como demonstrado a seguir:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_46.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_47.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_48.png' />
+<img src='/img215/ManualAsstermo215Combustao_46.png' /> | <img src='/img215/ManualAsstermo215Combustao_47.png' /> | <img src='/img215/ManualAsstermo215Combustao_48.png' />
 :---: | :---: | :---:
 Calcular só o lado dos reagentes.         | Escolher uma temperatura mais baixa (ou alta, dependendo do caso).  | Obtém-se os primeiros resultados gerais. <b>OK</b> para continuar.
 
 
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_49.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_50.png' />
+<img src='/img215/ManualAsstermo215Combustao_49.png' /> | <img src='/img215/ManualAsstermo215Combustao_50.png' />
 :---: | :---:
 São mostradas as entalpias por molécula. | <b>OK</b> para gravar os resultados.      
 
@@ -321,42 +321,42 @@ Uma vez isto feito, vai-se à opção [3:Calc.Temp.Intermed](#3:calc.temp.interm
 
 É mostrada uma caixa de diálogo a explicar o procedimento: | É mostrada uma caixa a seguir a avisar a fase em curso. | Depois escolhe-se a 2 opção do <b>H<sub>reag</sub></b>:
 :---: | :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_51.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_52.png' /> |  <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_53.png' />
+<img src='/img215/ManualAsstermo215Combustao_51.png' /> | <img src='/img215/ManualAsstermo215Combustao_52.png' /> |  <img src='/img215/ManualAsstermo215Combustao_53.png' />
 
 
 
 É mostrada a informação relativa à escolha, que é apresentada nas 2 imagens seguintes. <b>OK</b> nesta: | <b>OK</b> ou <b>ESC</b> nesta para continuar.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_54.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_55.png' />
+<img src='/img215/ManualAsstermo215Combustao_54.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> | <img src='/img215/ManualAsstermo215Combustao_55.png' />
 
 
 
 A seguinte imagem permite indicar que o que foi escolhido é o que ser quer como informação relativa à primeira temperatura: | <b>OK</b> para indicar que sim. | Logo se é avisado que se vai passar para a segunda fase. Escolhe-se de seguida a 3ª opção do <b>Hreag</b>, como na imagem abaixo:
 :---: | :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_56.png' />  | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_57.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_58.png' />       
+<img src='/img215/ManualAsstermo215Combustao_56.png' />  | <img src='/img215/ManualAsstermo215Combustao_57.png' /> | <img src='/img215/ManualAsstermo215Combustao_58.png' />       
 
 
 
 A imagem seguinte é mostrada, a indicar a informação relevante. <b>ESC</b> salta a outra informação | Aqui a seguir (imagem abaixo) <b>OK</b> para seguir em frente.
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_59.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_60.png' />
+<img src='/img215/ManualAsstermo215Combustao_59.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> | <img src='/img215/ManualAsstermo215Combustao_60.png' />
 
 
 A caixa de diálogo abaixo é mostrada de seguida, pedindo se é para calcular a temperatura intermédia com base nos reagentes ou nos produtos. | A imagem seguinte mostra a caixa consecutiva:
 :---: | :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_61.png' />  | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_62.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>H(kJ/kmol)</b> </td></tr>
+<img src='/img215/ManualAsstermo215Combustao_61.png' />  | <img src='/img215/ManualAsstermo215Combustao_62.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>H(kJ/kmol)</b> </td></tr>
 Ou seja, os produtos devem dar entalpia igual aos reagentes (opção <b>Produtos</b>) ou vice versa (<b>Reagentes</b>)? | Aqui pede-se a que entalpia é que a dos Reagentes ou os Produtos tem de ser igual a. Aqui pode-se inserir o valor “à pata” (insere-se o valor e <b>OK</b>) ou ir buscar da mesma forma que a restante informação (<b>ESC</b>, independente do valor).
 
 
 
 Neste exemplo, <b>ESC</b> leva ao seguinte: | Aqui (imagem abaixo) escolhe-se a 2 opção do <b>Hprod</b>. Parece que isto poderá ser um mau exemplo, face aos valores em questão, <i>mas que se lixe</i> que é só um exemplo :)
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_63.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_64.png' />     
+<img src='/img215/ManualAsstermo215Combustao_63.png' /> | <img src='/img215/ManualAsstermo215Combustao_64.png' />     
 
 
 A sequência de teclas a seguir é: <b>OK</b>, <b>OK</b>, <b>ESC</b> e chega-se à seguinte caixa mais uma vez: | Uma vez <b>OK</b>, resulta no seguinte resultado:
 :---: | :---:
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_65.png' />  | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_66.png' />
+<img src='/img215/ManualAsstermo215Combustao_65.png' />  | <img src='/img215/ManualAsstermo215Combustao_66.png' />
 
 Como se pode observar... <i><b>QUENTE</b></i>... mas é um mau exemplo! E esta temperatura não vem nas tabelas!!!
 
@@ -368,13 +368,13 @@ Basicamente, este processo foi o que foi utilizado 3 vezes no exemplo anterior!
 
 |A imagem seguinte é mostrada:
 |:----:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_67.png' />
+|<img src='/img215/ManualAsstermo215Combustao_67.png' />
 
 Pode-se obter a informação que se pretende visualizar a partir de 4 vias possíveis, o que convém escolher uma apenas. E também dá uma forma de acesso rápido à informação, ie, às entalpias totais de cada cálculo. Uma vez escolhida uma das 4 opções e se se pretender ver <b>Reagentes</b>/<b>Produtos</b> ou <b>Ambos</b>, carrega-se no <b>OK</b> e vê-se a informação correspondente.
 
 Por exemplo, escolhendo <b>Reagentes</b>, <b>opção 2</b> e <b>ver Reagentes</b> resulta nas seguintes duas imagens:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_68.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_69.png' />
+<img src='/img215/ManualAsstermo215Combustao_68.png' /> | <img src='/img215/ManualAsstermo215Combustao_69.png' />
 :---: | :---:
 Exemplo de equação de reagentes. | Exemplo das entalpias para os ditos reagentes.
 
