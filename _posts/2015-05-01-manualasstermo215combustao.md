@@ -41,14 +41,14 @@ Obtém-se por exemplo:
 
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_03.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_04.png' />
 :---: | :---: | :---:
-Este ecrã indica que está em cálculos...| E este mostra os resultados encontrados!<b>h0f</b> é a entalpia de formação.<b>h(298K ref)</b> é o valor da entalpia total da molécula, com a referência da temperatura em 298K: h<sub>298K ref</sub> = h<sup>0</sup><sub>f</sub> + h<sub>298K</sub>
+Este ecrã indica que está em cálculos...| E este mostra os resultados encontrados!<br><b>h0f</b> é a entalpia de formação.<br><b>h(298K ref)</b> é o valor da entalpia total da molécula, com a referência da temperatura em 298K: h<sub>298K ref</sub> = h<sup>0</sup><sub>f</sub> + h<sub>298K</sub>
 
 Em modo <b>Tabelas</b> (ver [4:Modo(T\V):Valores](#4:modo(t\v):valores)) mostra o seguinte:
 
 
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_05.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_06.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_07.png' />
 :---: | :---: | :---:
-Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela. | Neste escolhe-se o gás, a temperatura onde começa a listar e quantas entradas listar. Quantas menos listar, mais rápido o acesso! As temperaturas que se podem escolher são de intervalos de 6 em 6 (por exemplo:300,360,420, em vez de 300,310,320...410,420), por forma ao programa correr mais depressa. | Uma vez escolhido, mostra o seguinte a imagem acima. Notar o título minúsculo da caixa de diálogo... mostra o gás escolhido e a entalpia de formação!
+Indica que está a preparar a caixa de diálogo de controlo do acesso à tabela. | Neste escolhe-se o gás, a temperatura onde começa a listar e quantas entradas listar. Quantas menos listar, mais rápido o acesso!<br>As temperaturas que se podem escolher são de intervalos de 6 em 6 (por exemplo: `300,360,420`, em vez de `300,310,320...410,420`), por forma ao programa correr mais depressa. | Uma vez escolhido, mostra o seguinte a imagem acima. Notar o título minúsculo da caixa de diálogo... mostra o gás escolhido e a entalpia de formação!
 
 
 ##2:Prop. TermoQuim.
@@ -114,8 +114,8 @@ Cada opção do menu tem uma sub-secção dedicada:
 * [4:Ver EntalpListadas](#4:ver-entalplistadas) – Permite aceder à informação gravada das entalpias já calculadas. Útil para auxiliar nas iterações manuais!
 * [5:Apagar Entalpias](#5:apagar-entalpias) – Apaga todas as entalpias calculadas. Uma a uma dava muito trabalho, visto que há muita informação para ver!!!
 * [6:SolverQ: Para trás](#6:solverq:-para-tras) – voltar ao menu anterior.
-* [7:AssCombustao:<i>Sair 7:AssCombustao: Sair] – Sair do Assistente de Combustão.
-* [8:Fazer umas contas](#8:fazer-umas-contas) e [9:interpolações](#9:interpolacoes) são os já conhecidos, que</i>andam por aqui<i>porque nunca se sabe quando poderão vir a serem necessários.</i>
+* [7:AssCombustao:<i>Sair](#7:asscombustao:-sair) – Sair do Assistente de Combustão.
+* [8:Fazer umas contas](#8:fazer-umas-contas) e [9:interpolações](#9:interpolacoes) são os já conhecidos, que </i>andam por aqui <i>porque nunca se sabe quando poderão vir a serem necessários.</i>
 
 
 ###1:Equacao: <code>R0</code> <code>P0</code>
@@ -342,10 +342,10 @@ A imagem seguinte é mostrada, a indicar a informação relevante. <b>ESC</b> sa
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_59.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>Hreag(kJ/kmol)</b> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_60.png' />
 
 
-|A caixa de diálogo abaixo é mostrada de seguida, pedindo se é para calcular a temperatura intermédia com base nos reagentes ou nos produtos. Ou seja, os produtos devem dar entalpia igual aos reagentes (opção <b>Produtos</b>) ou vice versa (<b>Reagentes</b>)? | A imagem seguinte mostra a caixa consecutiva:
-|:---: | :---: | :---:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_61.png' />  | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_62.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>H(kJ/kmol)</b> </td></tr>
-| | Aqui pede-se a que entalpia é que a dos Reagentes ou os Produtos tem de ser igual a. Aqui pode-se inserir o valor “à pata” (insere-se o valor e <b>OK</b>) ou ir buscar da mesma forma que a restante informação (<b>ESC</b>, independente do valor).
+A caixa de diálogo abaixo é mostrada de seguida, pedindo se é para calcular a temperatura intermédia com base nos reagentes ou nos produtos. | A imagem seguinte mostra a caixa consecutiva:
+:---: | :---: | :---:
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_61.png' />  | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_62.png' /><br><b>NOTA</b>: erro na imagem, deve mostrar <b>H(kJ/kmol)</b> </td></tr>
+Ou seja, os produtos devem dar entalpia igual aos reagentes (opção <b>Produtos</b>) ou vice versa (<b>Reagentes</b>)? | Aqui pede-se a que entalpia é que a dos Reagentes ou os Produtos tem de ser igual a. Aqui pode-se inserir o valor “à pata” (insere-se o valor e <b>OK</b>) ou ir buscar da mesma forma que a restante informação (<b>ESC</b>, independente do valor).
 
 
 
@@ -374,7 +374,9 @@ Pode-se obter a informação que se pretende visualizar a partir de 4 vias poss�
 
 Por exemplo, escolhendo <b>Reagentes</b>, <b>opção 2</b> e <b>ver Reagentes</b> resulta nas seguintes duas imagens:
 
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_68.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_69.png' /></tbody></table>
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_68.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Combustao_69.png' />
+:---: | :---:
+Exemplo de equação de reagentes. | Exemplo das entalpias para os ditos reagentes.
 
 Uma vez vista a informação, chega-se à caixa inicial para se poder ver outras informações. <b>ESC</b> volta ao menu do Solver Químico!
 
