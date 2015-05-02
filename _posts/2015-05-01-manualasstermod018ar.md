@@ -10,12 +10,13 @@ order: 7
 A tabela do ar (A-22) indica as seguintes propriedades:
 
 T | temperatura (K) 
-:--|:----------------
+:--:|:----------------:
 h | entalpia (kJ/kg)
 u | energia interna (kJ/kg)
 s0 | entropia de referência (kJ/kg.K)
 pr | razão de pressão
 vr | razão de volume
+
 
 Abra o documento `Asstermo-D-Ar`. Deverá aparecer o seguinte ecrã:
 
