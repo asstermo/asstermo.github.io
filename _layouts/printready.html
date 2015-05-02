@@ -20,6 +20,8 @@ layout: empty
             <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
             {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
 
+            <div class="pagebreak"></div>
+
             {% assign foundMyItem = true %}
             {% break %}
 
