@@ -54,6 +54,6 @@ Locais onde este livro pode ser adquirido: [Fundamentals of Engineering Thermody
 O Asstermo <b>não</b> é suportado pelos autores deste livro nem pela sua publicadora. Este programa tenta preencher uma lacuna no ensino de Termodinâmica, visto que os engenheiros têm mais em que se <i>preocupar</i> do que <i>andar a interpolar valores a torto e a direito</i>...
 
 
-<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por [mim <b>sozinho</b>](https://github.com/wyldckat) neste programa. Para mais informações, ver os [manuais](/Manuais]! Se tiver problemas com o programa, utilize a zona dedicada deste site: [Issues](https://github.com/asstermo/asstermo.github.io/issues).
+<b>NOTA</b>: utilize o programa ao seu <b>próprio risco</b>. Foi testado até ao máximo das minhas possibilidades "temporais". Cerca de 205 a 220 horas foram empregues por [mim <b>sozinho</b>](https://github.com/wyldckat) neste programa. Para mais informações, ver os [manuais](/Manuais)! Se tiver problemas com o programa, utilize a zona dedicada deste site: [Issues](https://github.com/asstermo/asstermo.github.io/issues).
 
 <b>NOTE</b>: this software project still doesn't have an English version.

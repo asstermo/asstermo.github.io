@@ -1,4 +1,35 @@
+{% if site.logo %}
+
+<table cellspacing="0" cellpadding="0" itemtype="http://schema.org/CreativeWork" itemscope="" style="padding:0px; margin: 0px 0px 10px 0px; width:100%">
+ <tbody><tr style="height: 58px;">
+
+ <td>
+ <link href="/" itemprop="url">
+ <a href="/">
+
+ <img itemprop="image" alt="Logo" src="{{ site.logo }}">
+ 
+ </a>
+ </td>
+ 
+ <td style="padding-left: 0.5em">
+ 
+ <div>
+ <a class=brand href="{{ site.baseurl }}/">{{ site.title }}</a>
+ </div>
+ 
+ <div>
+ <span itemprop="description">{% if site.subtitle %}<small>{{ site.subtitle }}</small>{% endif %}</span></a>
+ </div>
+ 
+ </td>
+ </tr>
+ </tbody></table>
+
+{% else %}
+ 
 <h4><a class=brand href="{{ site.baseurl }}/">{{ site.title }}</a>
     {% if site.subtitle %}<small>{{ site.subtitle }}</small>{% endif %}
 </h4>
 
+{% endif %}
