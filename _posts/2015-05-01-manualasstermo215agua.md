@@ -94,7 +94,7 @@ Indica qual a tabela do livro e pergunta para que pressão ver a tabela.| É qua
 
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_14.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_15.png' />
 :---: | :---:
-Não esquecer escolher ou a pressão ou a temperatura e a partir de que valor listar, correspondentemente à opção. | Em ambos os ecrãs é possível listar v, u, h e s.      
+Não esquecer escolher ou a pressão ou a temperatura e a partir de que valor listar, correspondentemente à opção. | Em ambos os ecrãs é possível listar **v**, **u**, **h** e **s**.      
 
 * <b>3:Vapor Sobreaquecid</b> – não tem imagens porque o aspecto quase é idêntico ao da opção <b>1:Liquido Comprimido</b>.
 
