@@ -5,10 +5,10 @@
 
   @page
   {
-    margin-left: 1.5cm;
+    margin-left: 1.0cm;
     margin-right: 1.0cm;
-    margin-top: 1.5cm;
-    margin-bottom: 1.5cm;
+    margin-top: 2.0cm;
+    margin-bottom: 2.0cm;
   }
 
   div.pagebreak { page-break-before:always; }
