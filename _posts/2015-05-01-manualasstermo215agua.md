@@ -53,39 +53,48 @@ Onde:
 
 ####1:Liquido Comprimido
 A seguir é possível ver o que se sucede ao aceder a esta opção e o resultado após escolher os valores. Não esquecer que se pode escolher a unidade da pressão! Quanto à temperatura... se se souber como converter para Celsius, é só indicar a conta na entrada da temperatura.
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_03.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_04.png' /> </th></thead><tbody>
-<tr><td> Exemplo: 300-273.15, para converter de Kelvin para Celsius                               </td><td> Os valores definidos como <b>undef</b> significam que não existem nas tabelas. <b>NOTA</b>: a pressão mínima que está na tabela A-5 é de 25 bar. </td></tr></tbody></table>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_03.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_04.png' />
+:---: | :---: | :---:
+Exemplo: 300-273.15, para converter de Kelvin para Celsius. | Os valores definidos como <b>undef</b> significam que não existem nas tabelas. <b>NOTA</b>: a pressão mínima que está na tabela A-5 é de 25 bar.
 
 ####2:Liquido/Vapor Sat
 Eis o que se vê para esta opção:
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_05.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_06.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_07.png' /> </th></thead><tbody>
-<tr><td> Não esquecer definir valores/opções adequado/as para cada campo.                      </td><td> Esta imagem é um exemplo das propriedades que o Asstermo apresenta.                     </td><td> Exemplo: um aviso aparece ao lado do valor do título, alertando para o facto de que o valor não está dentro do intervalo permitido para o título. </td></tr></tbody></table>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_05.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_06.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_07.png' />
+:---: | :---: | :---:
+Não esquecer definir valores/opções adequado/as para cada campo. | Esta imagem é um exemplo das propriedades que o Asstermo apresenta.| Exemplo: um aviso aparece ao lado do valor do título, alertando para o facto de que o valor não está dentro do intervalo permitido para o título.
 
 
 ####3:Vapor Sobreaquecid
 Para esta opção:
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_08.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_09.png' /> </th></thead><tbody>
-<tr><td> Um exemplo aleatório. E cuidado com as unidades escolhidas e ao inserir valores...      </td><td> Caso contrário isto é um exemplo do que pode acontecer.                                </td></tr></tbody></table>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_08.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_09.png' />
+:---: | :---:
+Um exemplo aleatório. E cuidado com as unidades escolhidas e ao inserir valores... | Caso contrário isto é um exemplo do que pode acontecer.
 
 
 ####4:Modo(T\V): Tabelas
 Nesta opção, ao activar o modo <b>Tabelas</b>, eis como fica o menu:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_10.png' />
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_10.png' />
+|:---:
+|Menu em modo **Tabelas**.
 
 Eis os ecrãs para cada opção:
 
 * <b>1:Liquido Comprimido</b>
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_11.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_12.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_13.png' /> </th></thead><tbody>
-<tr><td> Indica qual a tabela do livro e pergunta para que pressão ver a tabela.                 </td><td> É quase impossível ter a tabela toda num só ecrã, por isso aqui escolhe-se que parte da tabela se quer ver. Reduzir o número de entradas pode ser útil para que os resultados apareçam mais depressa. </td><td> Eis um exemplo de apresentação de resultados. A apresentação não é perfeita, mas o objectivo aqui é só para se poder validar e confirmar se os valores <i>batem certo</i>. </td></tr>
-</tbody></table>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_11.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_12.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_13.png' />
+:---: | :---: | :---:
+Indica qual a tabela do livro e pergunta para que pressão ver a tabela.| É quase impossível ter a tabela toda num só ecrã, por isso aqui escolhe-se que parte da tabela se quer ver. Reduzir o número de entradas pode ser útil para que os resultados apareçam mais depressa. | Eis um exemplo de apresentação de resultados. A apresentação não é perfeita, mas o objectivo aqui é só para se poder validar e confirmar se os valores <i>batem certo</i>.
+
 
 * <b>2:Liquido/Vapor Sat</b> – aqui as tabelas são muito mais complexas.
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_14.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_15.png' /> </th></thead><tbody>
-<tr><td> Não esquecer escolher ou a pressão ou a temperatura e a partir de que valor listar, correspondentemente à opção. </td><td> Em ambos os ecrãs é possível listar v, u, h e s.                                      </td></tr>
-</ul>
-</tbody></table>
 
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_14.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_15.png' />
+:---: | :---:
+Não esquecer escolher ou a pressão ou a temperatura e a partir de que valor listar, correspondentemente à opção. | Em ambos os ecrãs é possível listar v, u, h e s.      
 
 * <b>3:Vapor Sobreaquecid</b> – não tem imagens porque o aspecto quase é idêntico ao da opção <b>1:Liquido Comprimido</b>.
 
@@ -93,8 +102,10 @@ Eis os ecrãs para cada opção:
 
 ###2:Proc. Por h e P
 Procurando por <b>h</b> e <b>p</b> (entalpia e pressão):
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_16.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_17.png' /> </th></thead><tbody>
-<tr><td> Não esquecer escolher em que parte do diagrama procurar (liquido comprimido, água saturada, vapor sobreaquecido). </td><td> Como se pode observar, esquecer-se de definir a parte do diagrama não dá <i>resultado</i>. </td></tr></tbody></table>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_16.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_17.png' />
+:---: | :---:
+Não esquecer escolher em que parte do diagrama procurar (liquido comprimido, água saturada, vapor sobreaquecido). | Como se pode observar, esquecer-se de definir a parte do diagrama não dá <i>resultado</i>.
 
 
 ---
@@ -107,8 +118,10 @@ Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>s</b> e <b>p</b
 
 ###4:Proc. s e P(L.Sat)
 Permite obter a entalpia “final”, de uma evolução a entropia constante, sabendo a entalpia, volume específico e a pressão iniciais; claro que também é preciso a pressão final.
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_18.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_19.png' /> </th></thead><tbody>
-<tr><td>                                                                                          </td><td> Como se pode observar, a fórmula matemática é <img src='http://asstermo.github.io/img215/hf_hi_v_pf_pi.png' />. </td></tr></tbody></table>
+
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_18.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_19.png' />
+|:---: | :---:
+| | Como se pode observar, a fórmula matemática é <img src='http://asstermo.github.io/img215/hf_hi_v_pf_pi.png' />.
 
 
 ---
@@ -141,31 +154,35 @@ Esta opção serve para se sair expeditamente do Asstermo. <b>IMPORTANTE</b>: N�
 Para as contas mais <i>básicas</i>, não é preciso sair do Asstermo para as fazer. Esta opção está disponível na maioria dos menus do Asstermo. Este fornece um sistema simplificado de avaliação de expressões que a calculadora reconhece por natureza. Tem o bónus de dar acesso a alguns dos valores recentemente calculados, acelerando assim o processo de resolução dos problemas.
 
 Eis um exemplo prático:
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_20.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_21.png' /> </th></thead><tbody>
-<tr><td> No primeiro, coloque a expressão pretendida.                                            </td><td> Eis um exemplo de se poder usar a pressão recentemente calculada para fazer uma conta com ela. </td></tr></tbody></table>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_20.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_21.png' />
+:---: | :---:
+No primeiro, coloque a expressão pretendida.| Eis um exemplo de se poder usar a pressão recentemente calculada para fazer uma conta com ela.
 
 <b>Dicas</b> – Esta opção serve para fazer contas sem ter de sair do programa, como por exemplo, quando é preciso calcular o calor produzido, uma vez que se tem as entalpias! Aqui se pode utilizar quase qualquer expressão que se ponha na "Home", excepto utilizar ":", "solve" e coisas do género.
 
 "Sin", "cos", "approx" e por <i>aí a fora</i> já é permitido. Contas que envolvam valores encontrados recentemente, como entalpia, entropia, temperatura, etc, basta utilizar as letras correspondentes nas contas. Lista de variáveis (unidades SI):
-<table><thead><th> T </th><th> Temperatura (ºC em geral) </th></thead><tbody>
-<tr><td> p </td><td> pressão (bar)             </td></tr>
-<tr><td> v </td><td> volume específico         </td></tr>
-<tr><td> h </td><td> entalpia                   </td></tr>
-<tr><td> u </td><td> energia interna            </td></tr>
-<tr><td> s </td><td> entropia                   </td></tr>
-<tr><td> pv </td><td> pressão do vapor de água do ar húmido (bar) </td></tr>
-<tr><td> pvsat </td><td> pressão de saturação do vapor de água (bar) </td></tr>
-<tr><td> w </td><td> humidade específica       </td></tr>
-<tr><td> HR </td><td> humidade relativa (não percentual, ou seja de 0 a 1) </td></tr>
-<tr><td> s0 </td><td> entropia de referência do ar </td></tr>
-<tr><td> pr </td><td> pressão "relativa" do ar  </td></tr>
-<tr><td> vr </td><td> volume "relativo" do ar    </td></tr>
-<tr><td> l10k </td><td> log10(k) para a combustão </td></tr>
-<tr><td> k </td><td> o valor de K para a combustão; cp/cv para os calores específicos. </td></tr>
-<tr><td> h0f </td><td> entalpia de formação     </td></tr>
-Como esta opção existe em vários menus diferentes, convém claro apenas utilizar as variáveis disponíveis nas secções respectivas!</tbody></table>
 
+Variável | Unidade
+:---: | :---:
+T | Temperatura (ºC em geral)
+p | pressão (bar)
+v | volume específico        
+h | entalpia
+u | energia interna
+s | entropia
+pv | pressão do vapor de água do ar húmido (bar)
+pvsat | pressão de saturação do vapor de água (bar)
+w | humidade específica      
+HR | humidade relativa (não percentual, ou seja de 0 a 1)
+s0 | entropia de referência do ar
+pr | pressão "relativa" do ar 
+vr | volume "relativo" do ar   
+l10k | log10(k) para a combustão
+k | o valor de K para a combustão; cp/cv para os calores específicos.
+h0f | entalpia de formação    
 
+Como esta opção existe em vários menus diferentes, convém claro apenas utilizar as variáveis disponíveis nas secções respectivas!
 
 ---
 
@@ -177,11 +194,17 @@ Na realidade o programa <b>ainterpd</b> é que é chamado, portanto se se quiser
 <b>Detalhe importante</b>: por exemplo, para <b>X1</b>, <b>X2</b> e <b>x</b> (ver imagens que se seguem), pode-se escolher <b>{1,5}</b>, <b>{2,6}</b> e <b>{3,7}</b>, respectivamente, retorna <b>{6,6}</b>. Basicamente, pode-se escolher listas de valores, retornando assim uma lista de valores. Útil para obter uma interpolação de vários valores, como por exemplo, obter uma linha inteira de valores interpolados para uma temperatura intermédia.
 
 Os ecrãs são os seguintes (não esquecer carregar no botão alpha ao início, para tirar do modo texto e se poder escrever números... pelo menos na TI-89):
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_22.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_23.png' /> </th></thead><tbody>
-<tr><td> Exemplo simples...                                                                       </td><td> ... dá um resultado simples!                                                            </td></tr></tbody></table>
 
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_24.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_25.png' /> </th></thead><tbody>
-<tr><td> Um exemplo mais complexo, como sugerido antes no <b>Detalhe importante</b>               </td><td> Obtém-se uma interpolação da mesma posição para vários valores!                    </td></tr></tbody></table>
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_22.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_23.png' />
+:---: | :---:
+Exemplo simples... | ... dá um resultado simples!
 
-<table><thead><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_26.png' /> </th><th> <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_27.png' /> </th></thead><tbody>
-<tr><td> Um exemplo prático.                                                                     </td><td> Este é um exemplo do que o Asstermo permite fazer muito mais rapidamente.               </td></tr>
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_24.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_25.png' />
+:---: | :---:
+Um exemplo mais complexo, como sugerido antes no <b>Detalhe importante</b>. | Obtém-se uma interpolação da mesma posição para vários valores!
+
+
+<img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_26.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Agua_27.png' />
+:---: | :---:
+Um exemplo prático. | Este é um exemplo do que o Asstermo permite fazer muito mais rapidamente.
