@@ -5,26 +5,10 @@
 
   @page
   {
-    /*The A4 paper size is 210 mm wide by 297 mm high*/
-    size: 210mm 297mm;
-
-    margin-left: 2.5cm;
-    margin-right: 1.5cm;
-    margin-top: 2.0cm;
-    margin-bottom: 2.0cm;
-
-    @top-center
-    {
-        content: "Assistente de Termodinâmica";
-        font-family: Helvetica, Arial, sans-serif;
-        font-size: 8pt;
-    }
-    @bottom-center
-    {
-        content: "Página " counter(page);
-        font-family: Helvetica, Arial, sans-serif;
-        font-size: 8pt;
-    }
+    margin-left: 1.5cm;
+    margin-right: 1.0cm;
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
   }
 
   div.pagebreak { page-break-before:always; }
