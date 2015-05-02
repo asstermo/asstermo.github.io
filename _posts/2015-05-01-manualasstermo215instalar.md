@@ -30,9 +30,9 @@ A primeira está explicada no manual da calculadora e após a cópia feita, segu
 
 Como utilizar o **ZCOPIAR**: Execute o programa, indo ao _Var-Link_, de seguida carregue em **Z** três vezes e deve estar lá; carregue em **Enter** e depois **)** e **Enter** de novo! A seguinte imagem aparece:
 
-![/img215/ManualAsstermo215Instalar_01.png](/img215/ManualAsstermo215Instalar_01.png)
-
-A seguir... basta seguir as instruções que estão lá escritas!
+| ![/img215/ManualAsstermo215Instalar_01.png](/img215/ManualAsstermo215Instalar_01.png)
+|:---:
+| A seguir... basta seguir as instruções que estão lá escritas!
 
 O resto do programa de transferência é o mais interactivo possível, não necessitando assim de manual... assim esperamos.
 Em caso de erro... o mais simples é **ESC** para cancelar e arrancar com os programas de novo!
