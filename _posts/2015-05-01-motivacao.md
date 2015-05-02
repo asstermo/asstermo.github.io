@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:41
 order: 2
 ---
 
-## Motivação
+## Motivação da criação deste programa
 Este programa "Assistente de Termodinâmica", composto por cento e pouco ficheiros, que tem de estar obrigatoriamente na pasta "asstermo", foi desenvolvido por mim como resultado de ter saído extremamente chateado do segundo exame de Termodinâmica II, que eu pensava que não ia passar... mas que acabei por passar com 12.
 
 
