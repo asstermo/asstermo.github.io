@@ -8,10 +8,8 @@ layout: empty
     {% assign attr = section[0] %}
     {% assign label = section[1] %}
 
-    {% for page2 in site.categories[attr] %}
-        {% if page2.categories[page.printcategory] %}
-            <h1>{{ page2.title }}</h1>
-            {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
-        {% endif %}
+    {% for page2 in site.categories[page.printcategory] %}
+        <h1>{{ page2.title }}</h1>
+        {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
     {% endfor %}
 {% endfor %}
