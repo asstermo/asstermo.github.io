@@ -62,7 +62,12 @@ Criação do repositório de desenvolvimento de código para o Asstermo-D. Acho 
 Transferir as tabelas todas para o novo <i>Document</i> do Asstermo-D. | Completo!
 Recuperar código em Basic de procura e interpolação do Asstermo original, antes deste ter passado a adoptar o TIGCC. | Completo!
 Criação do formulário e respectiva interacção com este, mas para já só para a Água. | Completo!
-Criação dos formulários e respectivas interacções com estes, para as tabelas restantes que são semelhantes às da Água, nomeadamente:- Amónia- Refrigerante 22- Refrigerante 134a- Propano | Completo!
+Criação dos formulários e respectivas interacções com estes, para as tabelas restantes que são semelhantes às da Água, nomeadamente:
+- Amónia
+- Refrigerante 22
+- Refrigerante 134a
+- Propano
+| Completo!
 Adicionar as tabelas do Ar. | Completo!
 Interface em Lua | por fazer
 Adicionar Psicrometria, excepto o Diagrama Psicrométrico Numérico. | por fazer
