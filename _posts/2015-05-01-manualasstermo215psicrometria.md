@@ -31,8 +31,7 @@ Cada opção tem uma secção dedicada neste capítulo:
 
 ##1:Pressao(bar):x.xxx
 
-|A primeira opção permite escolher a pressão do ar húmido. Este valor é utilizado ao longo de todo a psicrometria. Este valor é guardado na
-variável <b>b_par</b>.
+|A primeira opção permite escolher a pressão do ar húmido. Este valor é utilizado ao longo de todo a psicrometria. Este valor é guardado na variável <b>b_par</b>.
 |:----:
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_02.png' />
 
