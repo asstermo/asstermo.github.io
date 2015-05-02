@@ -36,7 +36,7 @@ Ass.: Bruno M. S. Santos, 12/09/2004
 Este programa precisa de cerca de 10 a 100kB livres de RAM para correr e ocupa cerca de 152kB quando arquivado.
 Tem de estar obrigatoriamente na pasta <b>ASSTERMO</b>. Foi desenvolvido para correr numa TI-89 e foi testado para correr numa TI-92. Em principio também corre numa Voyage 200 e na TI-89 Titanium.
 
-Os ficheiros necessários são (120 no total) estão na Tabela 1.
+Os ficheiros necessários são (120 no total) estão na tabela abaixo.
 
 As variáveis <b>b_par</b>, <b>b_pontos</b> e <b>b_numpt</b> são as associadas à psicrometria! Existem outras que podem aparecer quando se desenha o diagrama psicrométrico, mas como podem ser apagadas pelo próprio programa, eu não as indicarei aqui! Todas as outras variáveis começadas por <b>b</b> são variáveis de armazenamento de informação relevante ou à combustão ou a outra cena qualquer!
 
