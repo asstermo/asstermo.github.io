@@ -11,9 +11,9 @@ Como se pode observar pelas imagens seguintes, a parte de psicrometria permite f
 
 Quanto ao diagrama: está restringido entre 0.01 e 70ºC; e é análogo ao diagrama em papel. É ir adicionando os pontos, consoante a informação conhecida. Pode levar mais tempo que no papel, mas se não se tiver nenhum por perto, sempre ajuda. Eu comparei o diagrama psicrométrico numérico com outros diagramas: bate certo com o do livro, mas com outro mais antigo, já não batia certo para temperaturas superiores a 30ºC.
 
-Este é o menu principal da psicrometria:
-
-![http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png](http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png)
+|Este é o menu principal da psicrometria:
+|:----:
+|![http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png](http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_01.png)
 
 Cada opção tem uma secção dedicada neste capítulo:
 
@@ -30,16 +30,18 @@ Cada opção tem uma secção dedicada neste capítulo:
 
 
 ##1:Pressao(bar):x.xxx
-A primeira opção permite escolher a pressão do ar húmido. Este valor é utilizado ao longo de todo a psicrometria. Este valor é guardado na
-variável <b>b_par</b>.
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_02.png' />
+|A primeira opção permite escolher a pressão do ar húmido. Este valor é utilizado ao longo de todo a psicrometria. Este valor é guardado na
+variável <b>b_par</b>.
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_02.png' />
 
 
 ##2:Obter w
-A segunda opção acede a um segundo menu que permite obter a humidade específica <b>w</b> (o símbolo normalmente utilizado é <b>ω</b> - ómega minúsculo) a partir de um outro par de valores:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_03.png' />
+|A segunda opção acede a um segundo menu que permite obter a humidade específica <b>w</b> (o símbolo normalmente utilizado é <b>ω</b> - ómega minúsculo) a partir de um outro par de valores:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_03.png' />
 
 Os seguintes três ecrãs mostram o que cada uma das três primeiras opções leva a:
 
@@ -56,9 +58,10 @@ Quanto às opções seguintes:
 
 
 ##3:Obter HR
-Este é o sub-menu acedido a partir da 3ª opção do menu de psicrometria:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_07.png' />
+|Este é o sub-menu acedido a partir da 3ª opção do menu de psicrometria:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_07.png' />
 
 Estes são os ecrãs correspondentes às 3 primeiras opções listadas:
 
@@ -75,35 +78,40 @@ Quanto às opções seguintes:
 
 
 ##4:Obter h com T e w
-Este é o diálogo apresentado por aceder à opção 4 do menu de psicrometria:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_11.png' />
+|Este é o diálogo apresentado por aceder à opção 4 do menu de psicrometria:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_11.png' />
 
 
 ##5:Obter p T ou T p
-Este é o menu apresentado por aceder à opção 5 do menu de psicrometria:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_12.png' />
+|Este é o menu apresentado por aceder à opção 5 do menu de psicrometria:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_12.png' />
 
 
 ##6:Obter p vapor (pv)
-Este é o menu atingido por aceder à opção 6 do menu de psicrometria:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_13.png' />
+|Este é o menu atingido por aceder à opção 6 do menu de psicrometria:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_13.png' />
 
 
 ##7:Calculo de massas
-Este é o menu atingido por aceder à opção 6 do menu de psicrometria:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_14.png' />
+|Este é o menu atingido por aceder à opção 6 do menu de psicrometria:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_14.png' />
 
 É de notar que na caixa de diálogo que mostra os resultados, também mostra a fórmula/equação utilizada!
 
 
 ##8:Diag Psicrometrico
-Este é o sub-menu da opção 8 do menu de psicrometria, é o menu do diagrama psicrométrico numérico:
 
-<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_15.png' />
+|Este é o sub-menu da opção 8 do menu de psicrometria, é o menu do diagrama psicrométrico numérico:
+|:----:
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_15.png' />
 
 O modo de utilizar é semelhante ao diagrama em papel... desenha-se o ponto no diagrama a partir de duas propriedades/valores. Não esquecer que no menu principal é possível escolher a pressão do ar húmido.
 
