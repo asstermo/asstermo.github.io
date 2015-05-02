@@ -31,7 +31,9 @@ Cada opção tem uma secção dedicada neste capítulo:
 
 ##1:Pressao(bar):x.xxx
 
-|A primeira opção permite escolher a pressão do ar húmido. Este valor é utilizado ao longo de todo a psicrometria. Este valor é guardado na variável <b>b_par</b>.
+A primeira opção permite escolher a pressão do ar húmido. Este valor é utilizado ao longo de todo a psicrometria.
+
+|Este valor é guardado na variável <b>b_par</b>.
 |:----:
 |<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_02.png' />
 
@@ -157,9 +159,10 @@ Definir a humidade relativa em fracção ou razão, ou seja não percentualmente
 
 ###3:Remover pontos
 
-|Escolhe-se também pelo o nome que se pretende remover. Notar que os diálogos são diferentes qb para minimizar confusões.
+|Escolhe-se também pelo o nome que se pretende remover.
 |:---:
-|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_21.png' />                            
+|<img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_21.png' />
+|Notar que os diálogos são diferentes qb para minimizar confusões.
 
 
 ###4:Intersectar rectas
@@ -169,7 +172,7 @@ De notar que se escolhe os pontos que definem cada recta pelos nomes atribuídos
 :---: | :---:
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_22.png' />                                                | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_23.png' />
 
-Se se quiser adicionar o ponto de intersecção, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "2: Definir com w e T". Só assim se depois pode observar todas as propriedades que o definem.
+Se se quiser adicionar o ponto de intersecção, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "**2: Definir com w e T**". Só assim se depois pode observar todas as propriedades que o definem.
 
 
 ###5:Ver Diagrama
@@ -187,7 +190,7 @@ Escolhem-se dois pontos diferentes para os cálculos. | Exemplo dos resultados o
 :---: | :---:
 <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_26.png' /> | <img src='http://asstermo.github.io/img215/ManualAsstermo215Psicrometria_27.png' />
 
-Se se quiser adicionar este ponto intermédio, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "2: Definir com w e T". Só assim se depois pode observar todas as propriedades que o definem.
+Se se quiser adicionar este ponto intermédio, é só ir à opção [1:Adicionar pontos](#1:adicionar-pontos) e escolher "**2: Definir com w e T**". Só assim se depois pode observar todas as propriedades que o definem.
 
 
 ###7:Inform. dos pontos

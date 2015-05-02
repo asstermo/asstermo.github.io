@@ -7,17 +7,17 @@ date: 2015-05-01 18:29:40
 order: 8
 ---
 
-Nesta opção é apresentada a fórmula química, a massa molar e o R mássico de várias substâncias catalogadas na tabela A-1. O R mássico é calculado da seguinte forma:
+Nesta opção é apresentada a fórmula química, a massa molar e o R mássico de várias substâncias catalogadas na tabela A-1.
 
-| ![http://asstermo.github.io/img215/R_8314_M.png](http://asstermo.github.io/img215/R_8314_M.png)
+| O R mássico é calculado da seguinte forma:
 |:---
-| Conversão de massa molar para R mássico.
+| ![http://asstermo.github.io/img215/R_8314_M.png](http://asstermo.github.io/img215/R_8314_M.png)
 
 Onde:
 
 * _M_ - Massa molar
 * _R_ - R mássico
-* `8.314` é a constante dos gases perfeitos.
+* 8.314 é a constante dos gases perfeitos.
 
 Eis os ecrãs correspondentes a “Massas Molares+R’s”:
 
