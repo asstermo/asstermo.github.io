@@ -7,11 +7,11 @@ date: 2015-05-01 18:29:40
 order: 1
 ---
 
-  * [Introducao](#introducao)
-  * [Acesso ao codigo](#acesso-ao-codigo)
+  * [Introdução](#introdução)
+  * [Acesso ao código](#acesso-ao-código)
   * [Variantes do Asstermo](#variantes-do-asstermo)
 
-## Introducao
+## Introdução
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Git. Este sistema de gestão de código Git é relativamente simples de se usar. Instruções disponíveis aqui:
 
 * https://try.github.io
@@ -21,7 +21,7 @@ Todo o sistema de gestão de código neste projecto está gerido pelo sistema Gi
 Portanto, antes de começar a lidar com o código do Asstermo, primeiro convém que primeiro comecem a aprender a lidar com o Git.
 
 
-##Acesso ao codigo
+##Acesso ao código
 Para aceder ao código, basta seguir as instruções indicadas em cada página de <i>checkout</i>. No entanto, para submeter alterações ao código, só há duas formas <i>directas</i>:
 
 * Ou usa-se a funcionalidade de clonagem, que está também descrita na página de <i>checkout</i>.
