@@ -4,47 +4,39 @@ layout: forprinting
 
 {{ content | replace:'<table','<table class="table table-bordered"' }}
 
-{% assign mycounter = 1 %}
-{% assign noneFoundCounter = 0 %}
+{% assign listOfItems = '' %}
 
-{% for i in (1..100) %}
-
-    {% assign foundMyItem = false %}
-
-    {% for page2 in site.categories[page.printcategory] %}
-    
-        <!-- <p>{{ mycounter }} vs {{ page2.order }}</p> -->
-
-        {% if mycounter == page2.order %}
-        
-            {% unless page.pagesToIgnore contains page2.permalink %}
-
-                <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
-                {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
-
-                <div class="pagebreak"></div>
-
-            {% endunless %}
-
-            {% assign foundMyItem = true %}
-            {% break %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    {% if foundMyItem == false %}
-
-        {% assign noneFoundCounter = noneFoundCounter | plus:1 %}
-
-        {% if noneFoundCounter >= 10 %}
-            <!-- <p>Breaked: {{ noneFoundCounter }} </p> -->
-            {% break %}
-        {% endif %}
-
+{% for page2 in site.categories[page.printcategory] %}
+    {% if page2.order != null and page2.order >= 0 %}
+        {% unless page.pagesToIgnore contains page2.permalink %}
+            {% assign orderItem = '|00000' %}
+            {% if page2.order < 10 %}
+                {% assign orderItem = page2.order | prepend: '|0000' %}
+            {% elsif page2.order < 100 %}
+                {% assign orderItem = page2.order | prepend: '|000' %}
+            {% elsif page2.order < 1000 %}
+                {% assign orderItem = page2.order | prepend: '|00' %}
+            {% elsif page2.order < 10000 %}
+                {% assign orderItem = page2.order | prepend: '|0' %}
+            {% endif %}
+            {% assign listOfItems = listOfItems | append: orderItem %} 
+        {% endunless %}
     {% endif %}
-
-    {% assign mycounter = mycounter | plus:1 %}
-
 {% endfor %}
 
+{% assign listOfItems = listOfItems | split:'|' %}
+{% assign listOfItems = listOfItems | sort %}
+
+{% for item in listOfItems %}
+    {% for page2 in site.categories[page.printcategory] %}
+        {% assign itemNumber = item | minus:'0' %}
+        {% if itemNumber == page2.order %}
+            {% unless page.pagesToIgnore contains page2.permalink %}
+                <h1 id="{{ page2.title }}">{{ page2.title }}</h1>
+                {{ page2.content | replace:'<table','<table class="table table-bordered"' }}
+                <div class="pagebreak"></div>
+            {% endunless %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
