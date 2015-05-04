@@ -7,9 +7,9 @@
 
 cd ${0%/*} || exit 1
 
-./updateDownloads.py > ../_include/downstats.md
+./updateDownloads.py > ../_includes/downstats.md
 
-if ! git diff ../_include/downstats.md --quiet --exit-code; then
+if ! git diff -- ../_include/downstats.md --quiet --exit-code; then
 
   git add ../_include/downstats.md && \
   git commit -m "Estatísticas de downloads atualizada." && \
