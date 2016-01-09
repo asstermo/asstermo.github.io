@@ -1,7 +1,7 @@
 Nome do ficheiro | # Downloads
 ---: | :---:
 [Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 36
-[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 90
+[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 91
 [Asstermo-D-v0.14.pdf](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.pdf) | 2
 [Asstermo-D-v0.14.zip](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip) | 6
 [Asstermo-D-v0.10.pdf](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.pdf) | 1
