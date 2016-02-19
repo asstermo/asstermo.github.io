@@ -1,15 +1,15 @@
 Nome do ficheiro | # Downloads
 ---: | :---:
-[Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 49
-[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 125
+[Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 50
+[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 126
 [Asstermo-D-v0.14.pdf](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.pdf) | 2
-[Asstermo-D-v0.14.zip](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip) | 6
+[Asstermo-D-v0.14.zip](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip) | 7
 [Asstermo-D-v0.10.pdf](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.pdf) | 1
-[Asstermo-D-v0.10.zip](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.zip) | 0
-[asstermo.2.15.zip](https://github.com/asstermo/K/releases/download/v2.15/asstermo.2.15.zip) | 42
+[Asstermo-D-v0.10.zip](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.zip) | 1
+[asstermo.2.15.zip](https://github.com/asstermo/K/releases/download/v2.15/asstermo.2.15.zip) | 43
 [O.manual.do.ASSTERMO.2.15.pdf](https://github.com/asstermo/K/releases/download/v2.15/O.manual.do.ASSTERMO.2.15.pdf) | 21
-[asstermo.2.00.zip](https://github.com/asstermo/K/releases/download/v2.00/asstermo.2.00.zip) | 0
+[asstermo.2.00.zip](https://github.com/asstermo/K/releases/download/v2.00/asstermo.2.00.zip) | 1
 [O.manual.do.ASSTERMO.2.00.pdf](https://github.com/asstermo/K/releases/download/v2.00/O.manual.do.ASSTERMO.2.00.pdf) | 1
-[asstermo.1.83.zip](https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip) | 1
+[asstermo.1.83.zip](https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip) | 2
 [O.manual.do.ASSTERMO.pdf](https://github.com/asstermo/K/releases/download/v1.83/O.manual.do.ASSTERMO.pdf) | 3
 [Manual.tecnico.temporario.pdf](https://github.com/asstermo/documentation/releases/download/manual-tecnico-v1/Manual.tecnico.temporario.pdf) | 1
