@@ -13,6 +13,7 @@ order: 1
   * [Informações Importantes](#informações-importantes)
 
 ## Introdução
+
 O Asstermo - nome completo: Assistente de Termodinâmica; fonética: A.S.S.Termo - foi concebido para as calculadoras gráficas **TI-89 (Titanium)**, **TI-92 (+)** e **Voyage 200**. O software em si é gratuito, mas aconselha-se que na sua utilização (e consequente validação) das tabelas se tenha o livro "Fundamentals of Engineering Thermodynamics, by Michael J. Moran and Howard N. Shapiro".
 
 O Asstermo-D é a variante **Asstermo-Document** que está em desenvolvimento para funcionar para **TI-nSpire**. Ainda não tem todas as funcionalidades que o Asstermo original.
@@ -20,7 +21,8 @@ O Asstermo-D é a variante **Asstermo-Document** que está em desenvolvimento pa
 O Asstermo-K é o novo nome do Asstermo original, para ser mais fácil distinguir as versões.
 
 
-##Capacidades do Asstermo
+## Capacidades do Asstermo
+
 Este software mostra valores das tabelas para a:
 
   * Água;
@@ -41,12 +43,13 @@ E para facilitar as contas a fazer, e não se andar a entrar e a sair do program
 A partir da versão 1.34, agora tem o Assistente de Combustão, que tem as tabelas A-23, 25 e 27 da 4ª Edição (Propriedades dos Gases Ideais, Propriedades Termoquímicas e Log10(K)), ajuda com o equilíbrio/acerto das equações químicas (a CO2 <=> 2C + bO2 -> a=2 and b=2) e ajuda a calcular e iterar (iteração manual) os cálculos das entalpias dos reagentes e dos produtos!
 
 
-##Por onde começar
+## Por onde começar
 
 O melhor mesmo é ter um espírito aventureiro e começar a utilizar o programa! O programa está disponível [aqui](/Downloads) e o manual [aqui](/Manuais). À medida que se vai aprendendo Termodinâmica e se vai sentindo as necessidades de obter valores das tabelas, é que se vê que este programa "sacia" essas necessidades! <b>No entanto</b>, <b>só</b> se trata de um <i>Assistente</i>, <b>não é um faz tudo</b>... ou seja, só calcula a informação a partir das tabelas, não calcula <i>trabalhos</i> e <i>calores</i>!
 
 
-##Informações Importantes
+## Informações Importantes
+
 As tabelas que este programa utiliza foram extraídas do livro "Fundamentals of Engineering Thermodynamics", 4ª edição. São elas as A-1(apenas parte), 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 23, 25 e 27. A utilização devida deste programa só deverá ser feita com a posse de qualquer uma das edições deste livro. Algumas correcções às tabelas tiveram de ser feitas, estando elas [catalogadas aqui](/CorreccoesTabelas).
 
 Locais onde este livro pode ser adquirido: [Fundamentals of Engineering Thermodynamics, by Michael J. Moran and Howard N. Shapiro](http://lmgtfy.com/?q=Fundamentals+of+Engineering+Thermodynamics).

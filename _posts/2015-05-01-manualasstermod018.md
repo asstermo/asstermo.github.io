@@ -7,7 +7,7 @@ date: 2015-05-01 18:29:40
 order: 1
 ---
 
-##Assistente de Termodinâmica - Document v0.18
+## Assistente de Termodinâmica - Document v0.18
 Copyright (c) 2012 Bruno M. S. Santos
 
 Permissão cedida para copiar, distribuir e/ou modificar este documento dentro dos termos da licença "GNU Free Documentation License", versão 1.3 ou qualquer versão posterior publicada pela Free Software Foundation; sem Secções Invariantes, sem Textos de Capa ou Contra-Capa.
@@ -23,7 +23,7 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
 ---
 
 
-##Índice
+## Índice
 
 
 * [GNU Free Documentation License v1.3](/GFDL13)

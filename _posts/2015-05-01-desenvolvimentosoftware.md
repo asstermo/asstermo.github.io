@@ -21,7 +21,7 @@ Todo o sistema de gestão de código neste projecto está gerido pelo sistema Gi
 Portanto, antes de começar a lidar com o código do Asstermo, primeiro convém que primeiro comecem a aprender a lidar com o Git.
 
 
-##Acesso ao código
+## Acesso ao código
 Para aceder ao código, basta seguir as instruções indicadas em cada página de <i>checkout</i>. No entanto, para submeter alterações ao código, só há duas formas <i>directas</i>:
 
 * Ou usa-se a funcionalidade de clonagem, que está também descrita na página de <i>checkout</i>.
@@ -45,7 +45,7 @@ Repositórios disponíveis:
 
 
 
-##Variantes do Asstermo
+## Variantes do Asstermo
 Quanto ao ambiente de desenvolvimento e como desenvolver para cada variante, ver a página correspondente:
 
 * [Asstermo K](/DesenvolvimentoAsstermoK) - esta é a versão original.

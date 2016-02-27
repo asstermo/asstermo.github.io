@@ -33,7 +33,7 @@ No entanto, devido às limitações e possibilidades, estão delineadas duas var
 Devido a ser possível criar estas duas variantes, o "-ARM" não será usado para evitar problemas com _trademarks_.
 
 
-##Possibilidades existentes
+## Possibilidades existentes
 
 * A TI-nSpire (mas não a TI-nSpire CAS) tem um emulador de TI-84 integrado, por isso quando se conseguir ter uma variante para as TI-83/84, então deve ser possível automaticamente ter nas TI-nSpire. Portanto, acompanhem também o que vai [na calha para as TI-83/84](/Calha_TI83_84).
 
@@ -43,7 +43,7 @@ Devido a ser possível criar estas duas variantes, o "-ARM" não será usado par
 
 
 
-##Asstermo-D
+## Asstermo-D
 Esta variante <b>D</b> indica a designação de variante basiada em <i>Document</i> das nSpire. Nesse documento irá ficar todo o <i>ecossistema</i> do Asstermo-D e folhas de cálculo que estarão associadas a cada secção de cálculo. (Internamente o <b>D</b> também significa <i>Duuuuuhhh</i>, por causa de se ter de recorrer a formulários à lá Excel, graças ao <i>people</i> da TI que decidiu que os GUI em Basic são maus...)
 
 Esta versão ainda só está em fase de concepção. Há uma pessoa que se chegou à frente e se voluntariou para ajudar a desenvolver esta versão, como também a baseada em Ndless. Neste momento ficará anónima por motivos de privacidade, mas quando oficialmente se juntar ao projecto, será aqui indicado.
@@ -53,7 +53,7 @@ A vantagem desta versão é que deverá ser a mais rápida criação de uma vari
 Nota mental: apesar de limitado, existe a possibilidade de usar <b>message boxes</b> para os avisos de utilização indevida!
 
 
-###Etapas
+### Etapas
 
 <b>Etapa</b> | <b>Estado actual</b>
 --- | ---
@@ -73,11 +73,11 @@ Adicionar Diagrama Psicrométrico Numérico. | por fazer
 Adicionar Assistente de Solver Químico e finalizar a combustão. | por fazer
 
 
-##Asstermo-N
+## Asstermo-N
 Esta variante <b>N</b> poderá vir a ser mais poderosa que a versão original do Asstermo, mas está muito dependente do estado de evolução do [Ndless](http://hackspire.unsads.com/wiki/index.php/Main_Page).
 
 
-###Limites Tecnológicos a ultrapassar
+### Limites Tecnológicos a ultrapassar
 Via [Ndless](http://hackspire.unsads.com/wiki/index.php/Main_Page), eis o que ainda não se conhece:
 
 1. Interface gráfico, nomeadamente caixas de diálogo e popup menus de navegação. As funções de diálogo e menus das TI-89/92/200 não existem nas TI-nSpire, por escolha de design dos gajos da TI. Isto significa que têm de ser criados ainda interfaces gráficos modulares, para que o utilizador possa interagir com o Asstermo-N.
@@ -87,7 +87,7 @@ Via [Ndless](http://hackspire.unsads.com/wiki/index.php/Main_Page), eis o que ai
 3. Compressão de dados, quer de programas como tabelas. Para a TI-nSpire <b>isto não é necessário</b>, visto que nesta abunda RAM e Flash-ROM!!
 
 
-###Apontamentos
+### Apontamentos
 
 * GUI ainda parece estar muito atrasado (em 2012/2013). De momento ainda só há uma "message box": [Libndls UI](http://hackspire.unsads.com/wiki/index.php/Libndls#UI). Falta a "Popup" e a caixa de diálogo mais genérica, à lá TI-68k.
 

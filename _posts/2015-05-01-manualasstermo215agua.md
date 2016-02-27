@@ -11,7 +11,7 @@ Na figura seguinte estão as opções disponíveis para a água:
 
 |![/img215/ManualAsstermo215Agua_01.png](/img215/ManualAsstermo215Agua_01.png)
 |:----:
-| Menu de opçoẽs para a água.
+| Menu de opções para a água.
 
 Onde:
 
@@ -38,6 +38,7 @@ Onde:
 ---
 
 ### 1:Proc. Por P e/ou T
+
 |O menu seguinte é apresentado:
 |:----:
 |![/img215/ManualAsstermo215Agua_02.png](/img215/ManualAsstermo215Agua_02.png)
@@ -51,14 +52,16 @@ Onde:
 1. Permite fazer contas sem se ter de sair do programa.
 1. Permite efectuar interpolações rápidas, introduzindo os valores manualmente.
 
-####1:Liquido Comprimido
+#### 1:Liquido Comprimido
+
 A seguir é possível ver o que se sucede ao aceder a esta opção e o resultado após escolher os valores. Não esquecer que se pode escolher a unidade da pressão! Quanto à temperatura... se se souber como converter para Celsius, é só indicar a conta na entrada da temperatura.
 
 <img src='/img215/ManualAsstermo215Agua_03.png' /> | <img src='/img215/ManualAsstermo215Agua_04.png' />
 :---: | :---:
 Exemplo: 300-273.15, para converter de Kelvin para Celsius. | Os valores definidos como <b>undef</b> significam que não existem nas tabelas. <b>NOTA</b>: a pressão mínima que está na tabela A-5 é de 25 bar.
 
-####2:Liquido/Vapor Sat
+#### 2:Liquido/Vapor Sat
+
 Eis o que se vê para esta opção:
 
 <img src='/img215/ManualAsstermo215Agua_05.png' /> | <img src='/img215/ManualAsstermo215Agua_06.png' /> 
@@ -69,7 +72,8 @@ Não esquecer definir valores/opções adequado/as para cada campo. | Esta image
 |:---:
 |Exemplo: um aviso aparece ao lado do valor do título, alertando para o facto de que o valor não está dentro do intervalo permitido para o título.
 
-####3:Vapor Sobreaquecid
+#### 3:Vapor Sobreaquecid
+
 Para esta opção:
 
 <img src='/img215/ManualAsstermo215Agua_08.png' /> | <img src='/img215/ManualAsstermo215Agua_09.png' />
@@ -77,7 +81,8 @@ Para esta opção:
 Um exemplo aleatório. E cuidado com as unidades escolhidas e ao inserir valores... | Caso contrário isto é um exemplo do que pode acontecer.
 
 
-####4:Modo(T\V): Tabelas
+#### 4:Modo(T\V): Tabelas
+
 Nesta opção, ao activar o modo <b>Tabelas</b>, eis como fica o menu:
 
 |<img src='/img215/ManualAsstermo215Agua_10.png' />
@@ -107,7 +112,8 @@ Não esquecer escolher ou a pressão ou a temperatura e a partir de que valor li
 
 ---
 
-###2:Proc. Por h e P
+### 2:Proc. Por h e P
+
 Procurando por <b>h</b> e <b>p</b> (entalpia e pressão):
 
 <img src='/img215/ManualAsstermo215Agua_16.png' /> | <img src='/img215/ManualAsstermo215Agua_17.png' />
@@ -117,13 +123,15 @@ Não esquecer escolher em que parte do diagrama procurar (liquido comprimido, á
 
 ---
 
-###3:Proc. s e P (Tab)
+### 3:Proc. s e P (Tab)
+
 Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>s</b> e <b>p</b> (entropia e pressão).
 
 
 ---
 
-###4:Proc. s e P(L.Sat)
+### 4:Proc. s e P(L.Sat)
+
 Permite obter a entalpia “final”, de uma evolução a entropia constante, sabendo a entalpia, volume específico e a pressão iniciais; claro que também é preciso a pressão final.
 
 |<img src='/img215/ManualAsstermo215Agua_18.png' /> | <img src='/img215/ManualAsstermo215Agua_19.png' />
@@ -133,31 +141,36 @@ Permite obter a entalpia “final”, de uma evolução a entropia constante, sa
 
 ---
 
-###5:Proc. Por v e P
+### 5:Proc. Por v e P
+
 Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>v</b> e <b>p</b> (volume específico e pressão).
 
 
 ---
 
-###6:Proc. Por u e P
+### 6:Proc. Por u e P
+
 Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>u</b> e <b>p</b> (energia interna e pressão).
 
 
 ---
 
-###7:Agua: Para Tras
+### 7:Agua: Para Tras
+
 Esta opção não tem <i>grande ciência</i>... simplesmente retorna para o menu do qual se chegue ao menu actual.
 
 
 ---
 
-###8:ASSTermo: Sair
+### 8:ASSTermo: Sair
+
 Esta opção serve para se sair expeditamente do Asstermo. <b>IMPORTANTE</b>: Não utilizar o sistema de <i>término de programa</i> da calculadora para quando se quer sair depressa do Asstermo, caso contrário irá ficar memória ocupada escusadamente.
 
 
 ---
 
-###9:Fazer umas contas
+### 9:Fazer umas contas
+
 Para as contas mais <i>básicas</i>, não é preciso sair do Asstermo para as fazer. Esta opção está disponível na maioria dos menus do Asstermo. Este fornece um sistema simplificado de avaliação de expressões que a calculadora reconhece por natureza. Tem o bónus de dar acesso a alguns dos valores recentemente calculados, acelerando assim o processo de resolução dos problemas.
 
 Eis um exemplo prático:
@@ -193,7 +206,8 @@ Como esta opção existe em vários menus diferentes, convém claro apenas utili
 
 ---
 
-###A:Interpolacoes
+### A:Interpolacoes
+
 Esta funcionalidade de interpolação é útil para situações em que as tabelas não estão presentes no Asstermo.
 
 Na realidade o programa <b>ainterpd</b> é que é chamado, portanto se se quiser fazer interpolações sem ter de se correr ao <b>Asstermo</b>, pode-se correr o <b>ASSTERMO\AINTERPD()</b>.

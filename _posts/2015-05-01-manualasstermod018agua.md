@@ -21,7 +21,7 @@ Neste documento estão representados os seguintes _Problems_:
 * [6 - Proc. por u e p](#6---proc.-por-u-e-p)
 
 
-##1 - Asstermo-D-Agua
+## 1 - Asstermo-D-Agua
 Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:
 
 * 1.1 - A introdução e índice.
@@ -30,7 +30,7 @@ Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Proble
 
 
 
-##1.2
+## 1.2
 <b>Interpolações</b> - A página apresentada é a seguinte:
 
 <img src='/imgD018/Image002.jpg' />
@@ -61,13 +61,13 @@ Um exemplo prático.| Este é um exemplo do que o Asstermo permite fazer muito m
 <img src='/img215/ManualAsstermo215Agua_26.png' /> | <img src='/img215/ManualAsstermo215Agua_27.png' /> </th></thead><tbody>
 
 
-##1.3
+## 1.3
 Aqui está a indicação da versão do Asstermo-D que está a ser utilizado (a imagem está desactualizada):
 
 <img src='/imgD018/Image003.jpg' />
 
 
-##2 - Proc. por p e/ou T
+## 2 - Proc. por p e/ou T
 Cada página deste problema permite procurar por <i>p</i> e/ou <i>T</i>  em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
 
 Detalhes:
@@ -80,84 +80,84 @@ Detalhes:
 
 Nas seguintes secções 2.1 a 2.4 está uma apresentação de cada página.
 
-##2.1
+## 2.1
 
 <img src='/imgD018/Image004.jpg' />
 
-##2.2
+## 2.2
 
 <img src='/imgD018/Image005.jpg' />
 
-##2.3
+## 2.3
 
 <img src='/imgD018/Image006.jpg' />
 
-##2.4
+## 2.4
 
 <img src='/imgD018/Image007.jpg' />
 
 
-##3 - Proc. por h e p
+## 3 - Proc. por h e p
 
-##3.1
+## 3.1
 
 <img src='/imgD018/Image008.jpg' />
 
-##3.2
+## 3.2
 
 <img src='/imgD018/Image009.jpg' />
 
-##3.3
+## 3.3
 
 <img src='/imgD018/Image010.jpg' />
 
 
-##4 - Proc. por s e p
+## 4 - Proc. por s e p
 
-##4.1
+## 4.1
 Esta página é diferente das outras pelo simples motivo porque aqui é onde é calculada a evolução em líquido comprimido pelo cálculo do trabalho.
 
 <img src='/imgD018/Image011.jpg' />
 
-##4.2
+## 4.2
 
 <img src='/imgD018/Image012.jpg' />
 
-##4.3
+## 4.3
 
 <img src='/imgD018/Image014.jpg' />
 
-##4.4
+## 4.4
 
 <img src='/imgD018/Image015.jpg' />
 
 
-##5 - Proc. por v e p
+## 5 - Proc. por v e p
 
-##5.1
+## 5.1
 
 <img src='/imgD018/Image016.jpg' />
 
-##5.2
+## 5.2
 
 <img src='/imgD018/Image017.jpg' />
 
-##5.3
+## 5.3
 
 <img src='/imgD018/Image018.jpg' />
 
 
-##6 - Proc. por u e p
+## 6 - Proc. por u e p
 
-##6.1
+## 6.1
 
 <img src='/imgD018/Image019.jpg' />
 
-##6.2
+## 6.2
 
 <img src='/imgD018/Image020.jpg' />
 
-##6.3
+## 6.3
 
 <img src='/imgD018/Image021.jpg' />
 
