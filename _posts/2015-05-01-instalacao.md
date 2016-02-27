@@ -13,7 +13,7 @@ order: 2
     * [Finalizar a instalacao](#finalizar-a-instalacao)
   * [Asstermo-D (TI-nSpire)](#asstermo-d-(ti-nspire))
 
-## Asstermo-K (TI-89/92/200)
+<h2 id="asstermo-k-(ti-89/92/200)">Asstermo-K (TI-89/92/200)</h2>
 
 Passos detalhados sobre como instalar o Asstermo-K numa TI-89, que deverá servir minimamente para as TI-92 e Voyage 200.
 
@@ -27,7 +27,8 @@ São necessárias três fases de instalação:
   1. [Transferir o pacote](#transferir-o-pacote)
   1. [Finalizar a instalação](#finalizar-a-instalao)
 
-### Arrumar a memória
+
+<h3 id="arrumar-a-memoria">Arrumar a memória</h3>
 
 A primeira fase serve para arrumar a memória da calculadora. Isto porque o Asstermo-K requer cerca de 180kB para se instalar e 150kB de RAM para funcionar normalmente.
 
@@ -70,7 +71,7 @@ Portanto, tem-se de arquivar os ficheiros todos na calculadora. Para tal:
 
 <br>
 
-### Transferir o pacote
+<h3 id="transferir-o-pacote">Transferir o pacote</h3>
 
 Os seguintes passos requerem que o TiLP2 já esteja instalado. Apesar das imagens serem tiradas de um Windows XP, as instruções deverão ser aplicáveis noutros sistemas operativos também. Os passos são os que se seguem:<br>
 
@@ -115,7 +116,8 @@ O TiLP deve depois perguntar se é para fazer <code>Retry</code> ou <code>Skip</
 
 <br>
 
-### Finalizar a instalação
+
+<h3 id="finalizar-a-instalacao">Finalizar a instalação</h3>
 
 <b>Nota</b>: Com os <i>AMS</i> e <i>TI Connect</i> mais recentes, talvez os passos 1 a 3 da lista abaixo não sejam necessários. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário!<br>
 <br>
@@ -156,6 +158,6 @@ Se a transferência para a calculadora foi executada com sucesso, trate de execu
 
 <br>
 
-## Asstermo-D (TI-nSpire)
+<h2 id="asstermo-d-(ti-nspire)">Asstermo-D (TI-nSpire)</h2>
 
 Em princípio, basta usar o <i>TI Student Software</i> que as calculadoras TI-nSpire trazem e transferir os ficheiros tal como está descrito no manual do Asstermo-D.
