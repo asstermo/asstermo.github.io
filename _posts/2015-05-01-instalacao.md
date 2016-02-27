@@ -27,12 +27,12 @@ São necessárias três fases de instalação:
   1. [Transferir o pacote](#transferir-o-pacote)
   1. [Finalizar a instalação](#finalizar-a-instalacao)
 
-### Arrumar a memoria
+### Arrumar a memória
 
 A primeira fase serve para arrumar a memória da calculadora. Isto porque o Asstermo-K requer cerca de 180kB para se instalar e 150kB de RAM para funcionar normalmente.
 
 Portanto, tem-se de arquivar os ficheiros todos na calculadora. Para tal:
-<table border='1' title='Passos de arrumação'><tbody>
+<table border='1' title='Passos de arrumação' markdown="1"><tbody>
 <tr>
 <th> Passo </th>
 <th> Imagens </th>
@@ -113,7 +113,7 @@ O TiLP deve depois perguntar se é para fazer <code>Retry</code> ou <code>Skip</
 
 <br>
 
-### Finalizar a instalacao
+<h3>Finalizar a instalacao</h3>
 
 <b>Nota</b>: Com os <i>AMS</i> e <i>TI Connect</i> mais recentes, talvez os passos 1 a 3 da lista abaixo não sejam necessários. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário!<br>
 <br>
@@ -154,6 +154,6 @@ Se a transferência para a calculadora foi executada com sucesso, trate de execu
 
 <br>
 
-## Asstermo-D (TI-nSpire)
+<h2>Asstermo-D (TI-nSpire)</h2>
 
 Em princípio, basta usar o <i>TI Student Software</i> que as calculadoras TI-nSpire trazem e transferir os ficheiros tal como está descrito no manual do Asstermo-D.
