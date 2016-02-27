@@ -18,7 +18,7 @@ Se fez o download deste programa da página [asstermo.no.sapo.pt](http://assterm
 
    1. A seguir **ARQUIVE** (carregue nas teclas **F1** e depois **8**).
 
-    * Com os _AMS_ e _TI Connect_ mais recentes, talvez este passo não seja necessário. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário! Caso a transferência pare a meio, verifique se a calculadora não está a perguntar qualquer coisa sobre _garbage collection_; carregue enter na calculadora para continuar.
+   * Com os _AMS_ e _TI Connect_ mais recentes, talvez este passo não seja necessário. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário! Caso a transferência pare a meio, verifique se a calculadora não está a perguntar qualquer coisa sobre _garbage collection_; carregue enter na calculadora para continuar.
 
   1. Corra o programa **ASSTERMO\ZCOMPILE()** - ainda no _Var-Link_, carregue no **Z** e deve calhar mesmo em cima do **ZCOMPILE**; carregue em _Enter_ e depois no **)** e **Enter** de novo. Aguarde enquanto ele compila todos os programas e funções, por forma a todo o projecto correr em velocidade optimizada!
 
