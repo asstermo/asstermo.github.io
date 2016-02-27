@@ -23,9 +23,9 @@ Software necessário no PC:
 
 São necessárias três fases de instalação:
 
-  1. [Arrumar a memória](#arrumar-a-memria)
+  1. [Arrumar a memória](#arrumar-a-memoria)
   1. [Transferir o pacote](#transferir-o-pacote)
-  1. [Finalizar a instalação](#finalizar-a-instalao)
+  1. [Finalizar a instalação](#finalizar-a-instalacao)
 
 
 <h3 id="arrumar-a-memoria">Arrumar a memória</h3>
