@@ -7,7 +7,8 @@ date: 2015-05-01 18:29:40
 order: 4
 ---
 
-## Instrucoes de Instalacao
+## Instruções de Instalação
+
 Existem 2 ficheiros a ser instalados:
 
   * `AsstermoDLib.tns` - esta é a biblioteca que tem todas as funções e programas utilizados pelo Asstermo-D. Deverá ser instalada na pasta `MyLib` na sua calculadora.
