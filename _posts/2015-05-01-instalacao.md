@@ -23,9 +23,9 @@ Software necessário no PC:
 
 São necessárias três fases de instalação:
 
-  1. [Arrumar a memória](#arrumar-a-memoria)
+  1. [Arrumar a memória](#arrumar-a-memria)
   1. [Transferir o pacote](#transferir-o-pacote)
-  1. [Finalizar a instalação](#finalizar-a-instalacao)
+  1. [Finalizar a instalação](#finalizar-a-instalao)
 
 ### Arrumar a memória
 
@@ -68,6 +68,8 @@ Portanto, tem-se de arquivar os ficheiros todos na calculadora. Para tal:
 <table></li></ul>
 
 <br>
+
+{::options parse_block_html="true" /}
 
 ### Transferir o pacote
 
@@ -113,7 +115,7 @@ O TiLP deve depois perguntar se é para fazer <code>Retry</code> ou <code>Skip</
 
 <br>
 
-<h3>Finalizar a instalacao</h3>
+<h3>Finalizar a instalação</h3>
 
 <b>Nota</b>: Com os <i>AMS</i> e <i>TI Connect</i> mais recentes, talvez os passos 1 a 3 da lista abaixo não sejam necessários. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário!<br>
 <br>
