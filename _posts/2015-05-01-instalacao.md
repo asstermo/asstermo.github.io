@@ -8,9 +8,9 @@ order: 2
 ---
 
   * [Asstermo-K (TI-89/92/200)](#asstermo-k-(ti-89/92/200))
-    * [Arrumar a memoria](#arrumar-a-memoria)
+    * [Arrumar a memória](#arrumar-a-memoria)
     * [Transferir o pacote](#transferir-o-pacote)
-    * [Finalizar a instalacao](#finalizar-a-instalacao)
+    * [Finalizar a instalação](#finalizar-a-instalacao)
   * [Asstermo-D (TI-nSpire)](#asstermo-d-(ti-nspire))
 
 <h2 id="asstermo-k-(ti-89/92/200)">Asstermo-K (TI-89/92/200)</h2>

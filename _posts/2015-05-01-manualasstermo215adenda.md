@@ -8,7 +8,7 @@ order: 13
 ---
 
   * [Notas finais](#notas-finais)
-  * [Motivacao](#motivacao)
+  * [Motivação](#motivao)
   * [Necessidades deste programa](#necessidades-deste-programa)
   * [Historial de desenvolvimento](#historial-de-desenvolvimento)
     * [Datas](#datas)
@@ -19,14 +19,14 @@ order: 13
 
 Espero ter sido elucidativo quanto ao como utilizar este programa. Links úteis:
 
-* Página online do Asstermo: http://asstermo.github.io
+* Página online do Asstermo: [http://asstermo.github.io](http://asstermo.github.io)
 
-* Página onde submeter problemas e sugestões: https://github.com/asstermo/asstermo.github.io/issues
+* Página onde submeter problemas e sugestões: [https://github.com/asstermo/asstermo.github.io/issues](https://github.com/asstermo/asstermo.github.io/issues)
 
 **NOTA**: Este programa/projecto foi desenvolvido com o máximo de cuidado, verificando sempre se as contas e os valores tabelados estão e dão certo. No entanto, como sou apenas humano e fiz o projecto todo praticamente sozinho, só posso dar garantia deste programa ser _quase_ 100% fiável. É de notar desde já que o Diagrama Psicrométrico é obtido com base nas tabelas de líquido-vapor saturado da água, portanto poderá não coincidir exactamente com todos os diagramas psicrométricos à face da terra!
 
 
-## Motivacao
+## Motivação
 Este programa "Assistente de Termodinâmica", composto por cento e pouco ficheiros, que tem de estar obrigatoriamente na pasta "asstermo", foi desenvolvido por mim como resultado de ter saído extremamente chateado do segundo exame de Termodinâmica II, que eu pensava que não ia passar... mas que acabei por passar com 12. No entanto, como a ideia já estava a ganhar raízes na minha cabeça, e andava a precisar de um escape a minha capacidade artística... criativa... Bem, quando meto uma ideia na cabeça, ela acaba por sair cá para fora... a bem ou a mal! Espero que este programa vos seja útil, visto que fi-lo já não para mim propriamente dito, mas para amigos e colegas que passam e iram passar pelas cadeiras de Termodinâmica I e II, pelo menos no Instituto Superior Técnico! Aproveitem bem as 2h30 do exame!!!
 
 Ass.: Bruno M. S. Santos, 12/09/2004
@@ -79,6 +79,7 @@ Na seguinte tabela está a lista de ficheiros na calculadora necessários que es
 
 
 ## Historial de desenvolvimento
+
 ### Datas
 Data de projecto (+-1.00): Agosto-Setembro de 2004
 
@@ -142,7 +143,7 @@ NOTA: esta versão não chegou à net... problemas ao adicionar ao zip... esquec
 
 * Quero agradecer a todos os meus amigos (e talvez um pouco aos profs) por me terem apoiado neste projecto... ou pelo menos terem auxiliado a inspirar-me para o fazer ;)
 
-* Quero agradecer a Paul Froissart, que é o criador dos programas xpak e xupak, que graças esses programas me permitiu tornar o meu programa mais compacto. Vejam [http://www.genezis.fr.fm](http://www.genezis.fr.fm) para mais informações sobre estes programas.
+* Quero agradecer a Paul Froissart, que é o criador dos programas xpak e xupak, que graças esses programas me permitiu tornar o meu programa mais compacto. Vejam [http://www.ticalc.org/archives/files/fileinfo/320/32028.html](http://www.ticalc.org/archives/files/fileinfo/320/32028.html) para mais informações sobre estes programas.
 
 * Quero também agradecer a  Kevin Kofler, que é o autor do Auto Alpha Off (autoaoff) e do Event Hook Uninstaller (uninevhk). A ele devem dar graças por ter tido a paciência por ter feito um programa que tira o ALPHA automático nas caixas de diálogo nas TI-89! No entanto, lamento que acabou por não ser a melhor solução.. ou pelo menos a mais segura. A partir do 1.90, estes programas já não fazem parte do Asstermo.
 

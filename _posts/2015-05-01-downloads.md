@@ -7,8 +7,8 @@ date: 2015-05-01 18:29:40
 order: 1
 ---
 
-  * [Asstermo-K 2.15 para TI-89/92 (inclusive Titanium/Plus), Voyage 200](#asstermo-k-2.15-para-ti-89/92-(inclusive-titanium/plus),-voyage-200)
-  * [Asstermo-D 0.18 para TI-nSpire](#asstermo-d-0.18-para-ti-nspire)
+  * [Asstermo-K 2.15 para TI-89/92 (inclusive Titanium/Plus), Voyage 200](#asstermo-k-215-para-ti-8992-inclusive-titaniumplus-voyage-200)
+  * [Asstermo-D 0.18 para TI-nSpire](#asstermo-d-018-para-ti-nspire)
   * [Todos downloads](#todos-downloads)
 
 ## Asstermo-K 2.15 para TI-89/92 (inclusive Titanium/Plus), Voyage 200

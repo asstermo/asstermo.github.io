@@ -7,12 +7,12 @@ date: 2015-05-01 18:29:39
 order: 3
 ---
 
-  * [Introdução](#introdução)
+  * [Introdução](#introduo)
   * [Possibilidades existentes](#possibilidades-existentes)
   * [Asstermo-D](#asstermo-d)
     * [Etapas](#etapas)
   * [Asstermo-N](#asstermo-n)
-    * [Limites Tecnológicos a ultrapassar](#limites-tecnológicos-a-ultrapassar)
+    * [Limites Tecnológicos a ultrapassar](#limites-tecnolgicos-a-ultrapassar)
     * [Apontamentos](#apontamentos)
 
 ## Introdução

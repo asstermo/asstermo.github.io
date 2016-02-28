@@ -7,15 +7,16 @@ date: 2015-05-01 18:29:40
 order: 2
 ---
 
-  * [Introdução](#introdução)
-  * [Asstermo-K 1.83 para TI-89/92 (Plus) e Voyage 200](#asstermo-k-1.83-para-ti-89/92-(plus)-e-voyage-200)
-  * [Asstermo-D 0.14 para TI-nSpire](#asstermo-d-0.14-para-ti-nspire)
+  * [Introdução](#introduo)
+  * [Asstermo-K 1.83 para TI-89/92 (Plus) e Voyage 200](#asstermo-k-183-para-ti-8992-plus-e-voyage-200)
+  * [Asstermo-D 0.14 para TI-nSpire](#asstermo-d-014-para-ti-nspire)
   * [Todos downloads](#todos-downloads)
 
 ## Introdução
 Aqui estão listadas as versões antigas do Asstermo. Estas já não são suportadas. Use ao seu próprio risco.
 
 <br>
+
 ## Asstermo-K 1.83 para TI-89/92 (Plus) e Voyage 200
 Versão de 10-07-2006, considerada estável, mas já muito antiga. Precisa do “autoalpha off” para desligar o modo <i>alfa</i> automaticamente nas caixas de diálogo.<br>
 Não funciona com AMS 3.XX, ou seja: <b>NÃO USEM</b> ESTA VERSÃO NAS <b>TI-89 TITANIUM</b>!!<br>

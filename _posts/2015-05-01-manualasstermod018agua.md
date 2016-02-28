@@ -13,20 +13,20 @@ Abra o documento `Asstermo-D-Agua`. Deverá aparecer o seguinte ecrã:
 
 Neste documento estão representados os seguintes _Problems_:
 
-* [1 - Asstermo-D-Agua](#1---asstermo-d-agua) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
-* [2 - Proc. por p e/ou T](#2---proc.-por-p-e/ou-t) - Segundo problema, onde se pode procurar por _p_ e/ou _T_ em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
-* [3 - Proc. por h e p](#3---proc.-por-h-e-p)
-* [4 - Proc. por s e p](#4---proc.-por-s-e-p)
-* [5 - Proc. por v e p](#5---proc.-por-v-e-p)
-* [6 - Proc. por u e p](#6---proc.-por-u-e-p)
+* [1 - Asstermo-D-Agua](#asstermo-d-agua) - Este é o primeiro problema, onde alguma documentação e utilitários estão colocados.
+* [2 - Proc. por p e/ou T](#proc-por-p-eou-t) - Segundo problema, onde se pode procurar por _p_ e/ou _T_ em Líquido Comprimido, Água Saturada e Vapor Sobreaquecido.
+* [3 - Proc. por h e p](#proc-por-h-e-p)
+* [4 - Proc. por s e p](#proc-por-s-e-p)
+* [5 - Proc. por v e p](#proc-por-v-e-p)
+* [6 - Proc. por u e p](#proc-por-u-e-p)
 
 
 ## 1 - Asstermo-D-Agua
 Aí é apresentado uma breve descrição do Asstermo-D e o Índice dos <i>Problems</i> que estão neste documento. O primeiro <i>Problem</i> tem 3 páginas:
 
 * 1.1 - A introdução e índice.
-* [1.2](#1.2) - Interpolação de valores.
-* [1.3](#1.3) - Sobre o Asstermo-D
+* [1.2](#section) - Interpolação de valores.
+* [1.3](#section-1) - Sobre o Asstermo-D
 
 
 

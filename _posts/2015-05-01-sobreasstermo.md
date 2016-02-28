@@ -7,10 +7,10 @@ date: 2015-05-01 18:29:41
 order: 1
 ---
 
-  * [Introdução](#introdução)
+  * [Introdução](#introduo)
   * [Capacidades do Asstermo](#capacidades-do-asstermo)
-  * [Por onde começar](#por-onde-começar)
-  * [Informações Importantes](#informações-importantes)
+  * [Por onde começar](#por-onde-comear)
+  * [Informações Importantes](#informaes-importantes)
 
 ## Introdução
 

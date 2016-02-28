@@ -7,16 +7,16 @@ date: 2015-05-01 18:29:40
 order: 1
 ---
 
-  * [Introdução](#introdução)
-  * [Acesso ao código](#acesso-ao-código)
+  * [Introdução](#introduo)
+  * [Acesso ao código](#acesso-ao-cdigo)
   * [Variantes do Asstermo](#variantes-do-asstermo)
 
 ## Introdução
 Todo o sistema de gestão de código neste projecto está gerido pelo sistema Git. Este sistema de gestão de código Git é relativamente simples de se usar. Instruções disponíveis aqui:
 
-* https://try.github.io
+* [https://try.github.io](https://try.github.io)
 
-* https://help.github.com/articles/good-resources-for-learning-git-and-github/
+* [https://help.github.com/articles/good-resources-for-learning-git-and-github/](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 Portanto, antes de começar a lidar com o código do Asstermo, primeiro convém que primeiro comecem a aprender a lidar com o Git.
 

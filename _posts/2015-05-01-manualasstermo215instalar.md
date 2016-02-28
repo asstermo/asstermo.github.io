@@ -8,16 +8,12 @@ order: 4
 ---
 
 ## Instruções de Instalação
-Se fez o download deste programa da página [asstermo.no.sapo.pt](http://asstermo.no.sapo.pt) ou [asstermo no GitHub]() e transferiu para a calculadora, trate de executar os seguintes passos:
+Se fez o download deste programa da página [asstermo no GitHub](http://asstermo.github.io) e transferiu para a calculadora, trate de executar os seguintes passos:
 
  1. Arquivar os ficheiros todos na calculadora. Para tal:
-
-  1. **2nd** + **–** para aceder ao _Var-Link_, vá até à pasta **ASSTERMO** e carregue no **F4** quando a selecção estiver sobre o nome da pasta **ASSTERMO**;
- 
-  1. faça **UNLOCK** (carregue nas teclas **F1** e depois **7**).
-
-  1. A seguir **ARQUIVE** (carregue nas teclas **F1** e depois **8**).
-
+   1. **2nd** + **–** para aceder ao _Var-Link_, vá até à pasta **ASSTERMO** e carregue no **F4** quando a selecção estiver sobre o nome da pasta **ASSTERMO**;
+   1. faça **UNLOCK** (carregue nas teclas **F1** e depois **7**).
+   1. A seguir **ARQUIVE** (carregue nas teclas **F1** e depois **8**).
    * Com os _AMS_ e _TI Connect_ mais recentes, talvez este passo não seja necessário. Sei que com o [TiLP2](http://lpg.ticalc.org/prj_tilp/) não é necessário! Caso a transferência pare a meio, verifique se a calculadora não está a perguntar qualquer coisa sobre _garbage collection_; carregue enter na calculadora para continuar.
 
  1. Corra o programa **ASSTERMO\ZCOMPILE()** - ainda no _Var-Link_, carregue no **Z** e deve calhar mesmo em cima do **ZCOMPILE**; carregue em _Enter_ e depois no **)** e **Enter** de novo. Aguarde enquanto ele compila todos os programas e funções, por forma a todo o projecto correr em velocidade optimizada!
@@ -33,7 +29,7 @@ Existem duas soluções:
 
  1. Utilizar o programa **ASSTERMO\ZCOPIAR()**.
 
-A primeira está explicada no manual da calculadora e após a cópia feita, seguir os passos descritos acima [Instruções de instalação](#instrucoes-de-instalacao). A segunda tive deu um trabalho razoável a criar, para tornar o processo mais automatizado.
+A primeira está explicada no manual da calculadora e após a cópia feita, seguir os passos descritos acima [Instruções de instalação](#instrues-de-instalao). A segunda tive deu um trabalho razoável a criar, para tornar o processo mais automatizado.
 
 Como utilizar o **ZCOPIAR**: Execute o programa, indo ao _Var-Link_, de seguida carregue em **Z** três vezes e deve estar lá; carregue em **Enter** e depois **)** e **Enter** de novo! A seguinte imagem aparece:
 

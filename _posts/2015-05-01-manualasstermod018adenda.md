@@ -24,6 +24,7 @@ Este manual ainda está em desenvolvimento. Links úteis:
 
 
 ## Historial de desenvolvimento
+
 ### Datas
 Data da versão 0.10 e 0.14: 18 de Março de 2012
 

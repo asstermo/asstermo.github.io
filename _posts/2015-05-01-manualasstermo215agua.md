@@ -15,22 +15,22 @@ Na figura seguinte estão as opções disponíveis para a água:
 
 Onde:
 
-* [1:Proc. Por P e/ou T](#1:proc.-por-p-e/ou-t) – permite obter os valores a partir da pressão ou da temperatura, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
-* [2:Proc. Por h e P](#2:proc.-por-h-e-p) – permite obter os valores a partir da entalpia e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
-* [3:Proc. s e P (Tab)](#3:proc.-s-e-p-(tab)) – permite obter os valores a partir da entropia e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
-* [4:Proc. s e P(L.Sat)](#4:proc.-s-e-p(l.sat)) – obtém entalpia para uma determinada pressão, a partir de uma outra entalpia e pressão, e volume específico. Útil para evoluções isentrópicas em líquido comprimido.
-* [5:Proc. Por v e P](#5:proc.-por-v-e-p) – permite obter os valores a partir do volume específico e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
-* [6:Proc. Por u e P](#6:proc.-por-u-e-p) – permite obter os valores a partir da energia interna e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
-* [7:Água: Para Trás](#7:agua:-para-tras) – volta para o menu principal.
-* [8:ASSTermo: Sair](#8:asstermo:-sair) – sai do programa.
-* [9:Fazer umas contas](#9:fazer-umas-contas) – permite fazer contas sem se ter de sair do programa.
-* [A:Interpolações](#a:interpolacoes) – permite fazer interpolações. No entanto, não permite utilizar os valores directamente, ou seja, se se utilizar h em vez do valor efectivo de h, este vai resultar numa conta em que falta substituir o h; ou seja, terá uma equação dependente de h!
+* [1:Proc. Por P e/ou T](#proc-por-p-eou-t) – permite obter os valores a partir da pressão ou da temperatura, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
+* [2:Proc. Por h e P](#proc-por-h-e-p) – permite obter os valores a partir da entalpia e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
+* [3:Proc. s e P (Tab)](#proc-s-e-p-tab) – permite obter os valores a partir da entropia e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
+* [4:Proc. s e P(L.Sat)](#proc-s-e-plsat) – obtém entalpia para uma determinada pressão, a partir de uma outra entalpia e pressão, e volume específico. Útil para evoluções isentrópicas em líquido comprimido.
+* [5:Proc. Por v e P](#proc-por-v-e-p) – permite obter os valores a partir do volume específico e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
+* [6:Proc. Por u e P](#proc-por-u-e-p) – permite obter os valores a partir da energia interna e da pressão, para líquido comprimido, líquido-vapor saturado e vapor sobreaquecido.
+* [7:Água: Para Trás](#agua-para-tras) – volta para o menu principal.
+* [8:ASSTermo: Sair](#asstermo-sair) – sai do programa.
+* [9:Fazer umas contas](#fazer-umas-contas) – permite fazer contas sem se ter de sair do programa.
+* [A:Interpolações](#interpolaes) – permite fazer interpolações. No entanto, não permite utilizar os valores directamente, ou seja, se se utilizar h em vez do valor efectivo de h, este vai resultar numa conta em que falta substituir o h; ou seja, terá uma equação dependente de h!
 
-**NOTA**: para conhecer os limites das tabelas, aconselho a ver as tabelas do livro ou a ver no **Modo (T\V): Tabelas** para a parte desejada, sob a opção [1:Proc. Por P e/ou T](#1:proc.-por-p-e/ou-t).
+**NOTA**: para conhecer os limites das tabelas, aconselho a ver as tabelas do livro ou a ver no **Modo (T\V): Tabelas** para a parte desejada, sob a opção [1:Proc. Por P e/ou T](#proc-por-p-eou-t).
 
 **IMPORTANTE**: Para obter com base na temperatura, em vez da pressão, pelo menos para a água saturada (**Líquido/Vapor Saturado**), é possível obter indirectamente as opções 2, 3, 5 e 6. Ou seja:
 
-* Ir à opção [1:Proc. Por P e/ou T](#1:proc.-por-p-e/ou-t);
+* Ir à opção [1:Proc. Por P e/ou T](#proc-por-p-eou-t);
 * Procurar por temperatura e um título qualquer, e obtém-se a pressão.
 * Depois procura-se com esta pressão e a outra propriedade conhecida.<br>No entanto, haverá um erro pequeno, porque este modo vai pela tabela A-2 para achar pela temperatura, e pela A-3 para achar pela pressão.
 
@@ -125,7 +125,7 @@ Não esquecer escolher em que parte do diagrama procurar (liquido comprimido, á
 
 ### 3:Proc. s e P (Tab)
 
-Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>s</b> e <b>p</b> (entropia e pressão).
+Análogo ao [procurar por h e p](#proc-por-h-e-p), mas com <b>s</b> e <b>p</b> (entropia e pressão).
 
 
 ---
@@ -143,19 +143,19 @@ Permite obter a entalpia “final”, de uma evolução a entropia constante, sa
 
 ### 5:Proc. Por v e P
 
-Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>v</b> e <b>p</b> (volume específico e pressão).
+Análogo ao [procurar por h e p](#proc-por-h-e-p), mas com <b>v</b> e <b>p</b> (volume específico e pressão).
 
 
 ---
 
 ### 6:Proc. Por u e P
 
-Análogo ao [procurar por h e p](#2:proc.-por-h-e-p), mas com <b>u</b> e <b>p</b> (energia interna e pressão).
+Análogo ao [procurar por h e p](#proc-por-h-e-p), mas com <b>u</b> e <b>p</b> (energia interna e pressão).
 
 
 ---
 
-### 7:Agua: Para Tras
+### 7:Agua: Para Trás
 
 Esta opção não tem <i>grande ciência</i>... simplesmente retorna para o menu do qual se chegue ao menu actual.
 
@@ -206,7 +206,7 @@ Como esta opção existe em vários menus diferentes, convém claro apenas utili
 
 ---
 
-### A:Interpolacoes
+### A:Interpolações
 
 Esta funcionalidade de interpolação é útil para situações em que as tabelas não estão presentes no Asstermo.
 
