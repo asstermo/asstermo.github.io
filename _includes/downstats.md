@@ -7,7 +7,7 @@ Nome do ficheiro | # Downloads
 [Asstermo-D-v0.10.pdf](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.pdf) | 1
 [Asstermo-D-v0.10.zip](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.zip) | 1
 [asstermo.2.15.zip](https://github.com/asstermo/K/releases/download/v2.15/asstermo.2.15.zip) | 50
-[O.manual.do.ASSTERMO.2.15.pdf](https://github.com/asstermo/K/releases/download/v2.15/O.manual.do.ASSTERMO.2.15.pdf) | 28
+[O.manual.do.ASSTERMO.2.15.pdf](https://github.com/asstermo/K/releases/download/v2.15/O.manual.do.ASSTERMO.2.15.pdf) | 31
 [asstermo.2.00.zip](https://github.com/asstermo/K/releases/download/v2.00/asstermo.2.00.zip) | 1
 [O.manual.do.ASSTERMO.2.00.pdf](https://github.com/asstermo/K/releases/download/v2.00/O.manual.do.ASSTERMO.2.00.pdf) | 1
 [asstermo.1.83.zip](https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip) | 2
