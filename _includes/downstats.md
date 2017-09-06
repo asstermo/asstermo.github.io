@@ -11,5 +11,5 @@ Nome do ficheiro | # Downloads
 [asstermo.2.00.zip](https://github.com/asstermo/K/releases/download/v2.00/asstermo.2.00.zip) | 6
 [O.manual.do.ASSTERMO.2.00.pdf](https://github.com/asstermo/K/releases/download/v2.00/O.manual.do.ASSTERMO.2.00.pdf) | 4
 [asstermo.1.83.zip](https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip) | 5
-[O.manual.do.ASSTERMO.pdf](https://github.com/asstermo/K/releases/download/v1.83/O.manual.do.ASSTERMO.pdf) | 11
+[O.manual.do.ASSTERMO.pdf](https://github.com/asstermo/K/releases/download/v1.83/O.manual.do.ASSTERMO.pdf) | 12
 [Manual.tecnico.temporario.pdf](https://github.com/asstermo/documentation/releases/download/manual-tecnico-v1/Manual.tecnico.temporario.pdf) | 4
