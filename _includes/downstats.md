@@ -1,7 +1,7 @@
 Nome do ficheiro | # Downloads
 ---: | :---:
-[Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 370
-[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 875
+[Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 371
+[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 877
 [Asstermo-D-v0.14.pdf](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.pdf) | 9
 [Asstermo-D-v0.14.zip](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip) | 18
 [Asstermo-D-v0.10.pdf](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.pdf) | 2
@@ -12,4 +12,4 @@ Nome do ficheiro | # Downloads
 [O.manual.do.ASSTERMO.2.00.pdf](https://github.com/asstermo/K/releases/download/v2.00/O.manual.do.ASSTERMO.2.00.pdf) | 6
 [asstermo.1.83.zip](https://github.com/asstermo/K/releases/download/v1.83/asstermo.1.83.zip) | 6
 [O.manual.do.ASSTERMO.pdf](https://github.com/asstermo/K/releases/download/v1.83/O.manual.do.ASSTERMO.pdf) | 17
-[Manual.tecnico.temporario.pdf](https://github.com/asstermo/documentation/releases/download/manual-tecnico-v1/Manual.tecnico.temporario.pdf) | 8
+[Manual.tecnico.temporario.pdf](https://github.com/asstermo/documentation/releases/download/manual-tecnico-v1/Manual.tecnico.temporario.pdf) | 9
