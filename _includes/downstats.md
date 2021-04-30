@@ -1,12 +1,12 @@
 Nome do ficheiro | # Downloads
 ---: | :---:
-[Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 477
-[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 1053
+[Asstermo-D-v0.18.pdf](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.pdf) | 478
+[Asstermo-D-v0.18.zip](https://github.com/asstermo/D/releases/download/v0.18/Asstermo-D-v0.18.zip) | 1054
 [Asstermo-D-v0.14.pdf](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.pdf) | 13
 [Asstermo-D-v0.14.zip](https://github.com/asstermo/D/releases/download/v0.14/Asstermo-D-v0.14.zip) | 25
 [Asstermo-D-v0.10.pdf](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.pdf) | 5
 [Asstermo-D-v0.10.zip](https://github.com/asstermo/D/releases/download/v0.10/Asstermo-D-v0.10.zip) | 5
-[asstermo.2.15.zip](https://github.com/asstermo/K/releases/download/v2.15/asstermo.2.15.zip) | 287
+[asstermo.2.15.zip](https://github.com/asstermo/K/releases/download/v2.15/asstermo.2.15.zip) | 288
 [O.manual.do.ASSTERMO.2.15.pdf](https://github.com/asstermo/K/releases/download/v2.15/O.manual.do.ASSTERMO.2.15.pdf) | 169
 [asstermo.2.00.zip](https://github.com/asstermo/K/releases/download/v2.00/asstermo.2.00.zip) | 8
 [O.manual.do.ASSTERMO.2.00.pdf](https://github.com/asstermo/K/releases/download/v2.00/O.manual.do.ASSTERMO.2.00.pdf) | 9
